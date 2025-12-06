@@ -97,15 +97,15 @@ FORRT is driven by a **large and diverse community of contributors** that shape 
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Susanne Adler](https://orcid.org/0000-0002-3211-6871)** contributed to 
-    1. [Team Credit](https://forrt.org/contributors/)  with *Resources* and *Visualization*
-    2. [Replication Research MüCOS/FORRT Journal](http://replicationresearch.org)  with *Writing - review & editing*
+    1. [Replication Research MüCOS/FORRT Journal](http://replicationresearch.org)  with *Writing - review & editing*
+    2. [Team Credit](https://forrt.org/contributors/)  with *Resources* and *Visualization*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **Valeria Agostini** contributed to 
     1. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
-    2. [Glossary](https://forrt.org/glossary/)  with *Writing - review & editing*
-    3. Glossary - Italian Translation  with *Resources* and *Translation*
-    4. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
+    2. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
+    3. [Glossary](https://forrt.org/glossary/)  with *Writing - review & editing*
+    4. Glossary - Italian Translation  with *Resources* and *Translation*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **Laurence Aitchison** contributed to [Reversals & Replications](https://forrt.org/reversals/)  with *Writing - review & editing*
@@ -116,13 +116,13 @@ FORRT is driven by a **large and diverse community of contributors** that shape 
 
 - **[Ali H. Al-Hoorie](https://orcid.org/0000-0003-3810-5978)** contributed to 
     1. Landscape  with *Data curation* and *Investigation*
-    2. [Replication Paper](https://forrt.org/positive-changes-replication-crisis/)  with *Writing - review & editing*
+    2. [Impact on students](https://forrt.org/impact/)  with *Investigation* and *Writing - review & editing*
     3. [Glossary](https://forrt.org/glossary/)  with *Writing - original draft* and *Writing - review & editing*
     4. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
-    5. [Open Science in Developing Countries](https://forrt.org/os-developing-world/)  with *Investigation* and *Writing - review & editing*
-    6. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
+    5. [Replication Paper](https://forrt.org/positive-changes-replication-crisis/)  with *Writing - review & editing*
+    6. [Open Science in Developing Countries](https://forrt.org/os-developing-world/)  with *Investigation* and *Writing - review & editing*
     7. [Glossary - Arabic Translation](https://forrt.org/glossary/arabic/)  with *Resources*, *Supervision* and *Writing - review & editing*
-    8. [Impact on students](https://forrt.org/impact/)  with *Investigation* and *Writing - review & editing*
+    8. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **Samuel Alarie** contributed to 
@@ -133,26 +133,26 @@ FORRT is driven by a **large and diverse community of contributors** that shape 
 - **[Nihan Albayrak](https://orcid.org/0000-0003-3412-4311)** contributed to 
     1. Accessible Feedback in Academia  with *Formal analysis*, *Resources*, *Translation*, *Writing - original draft* and *Writing - review & editing*
     2. [Impact on students](https://forrt.org/impact/)  with *Investigation*, *Resources*, *Writing - original draft* and *Writing - review & editing*
-    3. [Summaries](https://forrt.org/summaries/)  with *Resources* and *Writing - review & editing*
-    4. [Replication Paper](https://forrt.org/positive-changes-replication-crisis/)  with *Writing - review & editing*
+    3. [Replication Paper](https://forrt.org/positive-changes-replication-crisis/)  with *Writing - review & editing*
+    4. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
     5. [Glossary](https://forrt.org/glossary/)  with *Writing - original draft* and *Writing - review & editing*
-    6. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
+    6. [Summaries](https://forrt.org/summaries/)  with *Resources* and *Writing - review & editing*
     7. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Alaa Aldoh](https://orcid.org/0000-0003-1988-0661)** contributed to 
     1. [FORRT Lesson Plans](https://forrt.org/lesson-plans/)  with *Resources* and *Writing - review & editing*
-    2. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Data curation*, *Investigation* and *Project Manager*
-    3. [Reversals & Replications](https://forrt.org/reversals/)  with *Data curation*, *Investigation* and *Project Manager*
+    2. [Reversals & Replications](https://forrt.org/reversals/)  with *Data curation*, *Investigation* and *Project Manager*
+    3. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Data curation*, *Investigation* and *Project Manager*
     4. [Glossary](https://forrt.org/glossary/)  with *Writing - original draft* and *Writing - review & editing*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Hala M. Alghamdi](https://orcid.org/0000-0002-6994-7222)** contributed to [Glossary - Arabic Translation](https://forrt.org/glossary/arabic/)  with *Resources*, *Supervision* and *Writing - review & editing*
 
 - **[Veronica Allen](https://orcid.org/0000-0002-8021-0344)** contributed to 
-    1. Accessible Feedback in Academia  with *Resources*
+    1. Team Outreach  with *Conceptualization*, *Investigation*, *Methodology*, *Resources* and *Visualization*
     2. [Neurodiversity Annotated Reading List](https://elifesciences.org/articles/102467)  with *Investigation*
-    3. Team Outreach  with *Conceptualization*, *Investigation*, *Methodology*, *Resources* and *Visualization*
+    3. Accessible Feedback in Academia  with *Resources*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Saad Almajed](https://orcid.org/0009-0001-1464-4750)** contributed to [Open Science in Developing Countries](https://forrt.org/os-developing-world/)  with *Investigation* and *Writing - review & editing*
@@ -178,10 +178,10 @@ FORRT is driven by a **large and diverse community of contributors** that shape 
 - **[Luisa Altegoer](https://orcid.org/0000-0001-8466-7328)** contributed to [Guide to Carrying out Replication Studies](https://lukasroeseler.github.io/replicationresearch_mockup/)  with *Writing - review & editing*
 
 - **[Shilaan Alzahawi](https://orcid.org/0000-0002-6892-4643)** contributed to 
-    1. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Data curation*, *Investigation* and *Project Manager*
-    2. [Impact on students](https://forrt.org/impact/)  with *Investigation*, *Resources* and *Writing - review & editing*
-    3. [Reversals & Replications](https://forrt.org/reversals/)  with *Data curation*, *Investigation* and *Project Manager*
-    4. [Replication Paper](https://forrt.org/positive-changes-replication-crisis/)  with *Writing - review & editing*
+    1. [Replication Paper](https://forrt.org/positive-changes-replication-crisis/)  with *Writing - review & editing*
+    2. [Reversals & Replications](https://forrt.org/reversals/)  with *Data curation*, *Investigation* and *Project Manager*
+    3. [Impact on students](https://forrt.org/impact/)  with *Investigation*, *Resources* and *Writing - review & editing*
+    4. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Data curation*, *Investigation* and *Project Manager*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Asma A. Alzahrani](https://orcid.org/0000-0003-2558-7779)** contributed to [Glossary - Arabic Translation](https://forrt.org/glossary/arabic/)  with *Resources*, *Supervision* and *Writing - review & editing*
@@ -201,130 +201,132 @@ FORRT is driven by a **large and diverse community of contributors** that shape 
 - **[Giorgia Andreolli](https://orcid.org/0000-0001-9511-0496)** contributed to 
     1. [Team Summaries](https://forrt.org/summaries/ ) as Project co-lead
     2. Team Cohesion as Project manager
-    3. [Pedagogies](https://forrt.org/pedagogies/)  with *Conceptualization*, *Investigation*, *Visualization*, *Writing - original draft* and *Writing - review & editing*
-    4. [Getting Started with FORRT](https://docs.google.com/document/d/17ECRs6J8spO3CU6siheGL8weQ-TzdyAUpXIiIE8cUeI/edit?tab=t.0#heading=h.9uywlkccaw1)  with *Conceptualization*, *Writing - original draft* and *Writing - review & editing*
+    3. [Summaries](https://forrt.org/summaries/)  with *Methodology*, *Project administration*, *Resources* and *Writing - review & editing*
+    4. [Pedagogies](https://forrt.org/pedagogies/)  with *Conceptualization*, *Investigation*, *Visualization*, *Writing - original draft* and *Writing - review & editing*
     5. Accessible Feedback in Academia  with *Formal analysis*, *Resources*, *Translation*, *Writing - original draft* and *Writing - review & editing*
-    6. Team Cohesion  with *Resources*, *Writing - original draft* and *Writing - review & editing*
-    7. [Open Educational Resources Chapter](https://doi.org/10.35542/osf.io/sn693_v2)  with *Writing - review & editing*
-    8. [Summaries](https://forrt.org/summaries/)  with *Methodology*, *Project administration*, *Resources* and *Writing - review & editing*
+    6. [Getting Started with FORRT](https://docs.google.com/document/d/17ECRs6J8spO3CU6siheGL8weQ-TzdyAUpXIiIE8cUeI/edit?tab=t.0#heading=h.9uywlkccaw1)  with *Conceptualization*, *Writing - original draft* and *Writing - review & editing*
+    7. Team Cohesion  with *Resources*, *Writing - original draft* and *Writing - review & editing*
+    8. [Open Educational Resources Chapter](https://doi.org/10.35542/osf.io/sn693_v2)  with *Writing - review & editing*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **Farid Anvari** contributed to 
-    1. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
-    2. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
+    1. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
+    2. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Beatrix Arendt](https://orcid.org/0000-0003-4433-5622)** contributed to [Glossary](https://forrt.org/glossary/)  with *Writing - original draft* and *Writing - review & editing*
 
 - **[Patrícia Arriaga](https://orcid.org/0000-0001-5766-0489)** contributed to 
-    1. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
-    2. [Summaries](https://forrt.org/summaries/)  with *Resources* and *Writing - review & editing*
-    3. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
+    1. [Summaries](https://forrt.org/summaries/)  with *Resources* and *Writing - review & editing*
+    2. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
+    3. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
     4. [Impact on students](https://forrt.org/impact/)  with *Resources* and *Writing - review & editing*
     5. Glossary - Portuguese Translation  with *Resources* and *Translation*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Sarah Ashcroft-Jones](https://orcid.org/0000-0002-8614-9310)** contributed to 
     1. [FReD (FORRT Replication Database)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20%28FReD%29) as Project co-lead
-    2. [Glossary](https://forrt.org/glossary/)  with *Writing - review & editing*
-    3. OSCARS Grant Application  with *Conceptualization*, *Investigation*, *Project administration*, *Resources*, *Validation*, *Writing - original draft* and *Writing - review & editing*
-    4. Team Einstein 2025  with *Conceptualization*, *Funding acquisition*, *Resources*, *Writing - original draft* and *Writing - review & editing*
-    5. [Impact on students](https://forrt.org/impact/)  with *Investigation* and *Writing - original draft*
-    6. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Conceptualization*, *Data curation*, *Funding acquisition*, *Project administration*, *Resources*, *Supervision* and *Validation*
-    7. [Open Educational Resources Chapter](https://doi.org/10.35542/osf.io/sn693_v2)  with *Visualization* and *Writing - review & editing*
+    2. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Conceptualization*, *Data curation*, *Funding acquisition*, *Project administration*, *Resources*, *Supervision* and *Validation*
+    3. [Impact on students](https://forrt.org/impact/)  with *Investigation* and *Writing - original draft*
+    4. [Open Educational Resources Chapter](https://doi.org/10.35542/osf.io/sn693_v2)  with *Visualization* and *Writing - review & editing*
+    5. OSCARS Grant Application  with *Conceptualization*, *Investigation*, *Project administration*, *Resources*, *Validation*, *Writing - original draft* and *Writing - review & editing*
+    6. [Glossary](https://forrt.org/glossary/)  with *Writing - review & editing*
+    7. Team Einstein 2025  with *Conceptualization*, *Funding acquisition*, *Resources*, *Writing - original draft* and *Writing - review & editing*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Asma A. Assaneea](https://orcid.org/0000-0003-4717-3438)** contributed to [Glossary](https://forrt.org/glossary/)  with *Writing - review & editing*
 
+- **[Susann Auer](https://orcid.org/0000-0001-6566-5060)** contributed to German Teaching Network Grant as Project lead
+
 - **[Flavio Azevedo](https://orcid.org/0000-0001-9000-8513)** contributed to 
-    1. Team Manuscript/Manifesto as Project lead
-    2. [Team Impact on Students](https://forrt.org/impact/) as Project co-lead
-    3. Parliament inquiry as Project lead
-    4. Team Citation Politics as Project co-lead
-    5. Tracking and Mainstreaming Replications across the Social, Behavioral and Cognitive Sciences as Project lead
-    6. [Team Clusters](https://forrt.org/clusters/ ) as Project lead
+    1. [Team Reversals and Replication](https://forrt.org/reversals/) as Project lead
+    2. [Team Clusters](https://forrt.org/clusters/ ) as Project lead
+    3. Tracking and Mainstreaming Replications across the Social, Behavioral and Cognitive Sciences as Project lead
+    4. [Team Replication Crisis Paper](https://forrt.org/positive-changes-replication-crisis) as Project co-lead
+    5. Team Cohesion as Project co-lead
+    6. [Team Neurodiversity](https://forrt.org/neurodiversity/ ) as Project co-lead
     7. FORRT as Director
     8. [Team Wheel of Privilege](https://forrt.org/awop ) as Project co-lead
-    9. [Team Neurodiversity](https://forrt.org/neurodiversity/ ) as Project co-lead
+    9. Team Citation Politics as Project co-lead
     10. [Team Feedback](https://forrt.org/educators-corner/018-accessible-feedback-in-research/) as Project co-lead
-    11. [Team Lesson Plans  | Phase 1 ](https://forrt.org/lesson-plans/ ) as Project co-lead
-    12. [Team Lesson Plans  | Phase 2](https://forrt.org/lesson-plans/ ) as Project lead
-    13. [Team Reversals and Replication](https://forrt.org/reversals/) as Project lead
-    14. [Team Open Science in Developing Countries](https://forrt.org/mapping_os/) as Project co-lead
-    15. Team BMC research note as Project lead
-    16. [Team Mapping Open Science Organizations](https://forrt.org/mapping_os/) as Project co-lead
-    17. [Team Database ](https://forrt.org/resources/) as Project co-lead
-    18. [Team Replication Crisis Paper](https://forrt.org/positive-changes-replication-crisis) as Project co-lead
-    19. Team Youth as Project co-lead
-    20. [Team Glossary | Phase 1](https://forrt.org/glossary/ ) as Project co-lead
-    21. FORRT Robustness Lighthouse as Project co-lead
-    22. Open Research Book as Project co-lead
-    23. Promoting Open Science Teaching: A Positive, Inclusive and Participatory Program for
+    11. Team BMC research note as Project lead
+    12. [Team Lesson Plans  | Phase 1 ](https://forrt.org/lesson-plans/ ) as Project co-lead
+    13. [Team Impact on Students](https://forrt.org/impact/) as Project co-lead
+    14. [Team Mapping Open Science Organizations](https://forrt.org/mapping_os/) as Project co-lead
+    15. [Team Open Science in Developing Countries](https://forrt.org/mapping_os/) as Project co-lead
+    16. Promoting Open Science Teaching: A Positive, Inclusive and Participatory Program for
 Educators (POST-Edu) as Project co-lead
-    24. Team Cohesion as Project co-lead
-    25. Team Ideas  as Project co-lead
-    26. [Team Website](https://forrt.org/) as Project co-lead
-    27. FORRT Robustness Lighthouse  with *Conceptualization*, *Investigation*, *Methodology* and *Project administration*
-    28. [Neurodiversity Annotated Reading List](https://elifesciences.org/articles/102467)  with *Project administration*, *Supervision* and *Writing - review & editing*
-    29. [Glossary](https://forrt.org/glossary/)  with *Conceptualization*, *Data curation*, *Formal analysis*, *Investigation*, *Methodology*, *Project administration*, *Software*, *Validation*, *Visualization*, *Writing - original draft* and *Writing - review & editing*
-    30. [Team Curations](https://forrt.org/resources/)  with *Conceptualization*, *Project administration*, *Resources*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
-    31. IOI Grant  with *Conceptualization*, *Funding acquisition*, *Investigation*, *Project administration*, *Supervision* and *Writing - review & editing*
-    32. [International Initiatives to Enhance Awareness and Uptake of Open Research in Psychology](https://doi.org/10.1098/rsos.241726)  with *Conceptualization*, *Formal analysis* and *Writing - review & editing*
-    33. [Getting Started with FORRT](https://docs.google.com/document/d/17ECRs6J8spO3CU6siheGL8weQ-TzdyAUpXIiIE8cUeI/edit?tab=t.0#heading=h.9uywlkccaw1)  with *Conceptualization* and *Writing - original draft*
-    34. Autism & Open Science  with *Writing - review & editing*
-    35. [Open Educational Resources Chapter](https://doi.org/10.35542/osf.io/sn693_v2)  with *Conceptualization*, *Project administration*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
-    36. [CERES Manuscript](https://osf.io/preprints/edarxiv/s73xb)  with *Writing - review & editing*
-    37. FReD COS Data  with *Conceptualization*, *Funding acquisition*, *Investigation*, *Methodology*, *Project administration*, *Supervision*, *Visualization*, *Writing - original draft* and *Writing - review & editing*
-    38. Landscape  with *Conceptualization* and *Methodology*
-    39. [Participatory Research Primer (BPS)](https://doi.org/10.53841/bpscog.2023.1.8.23)  with *Writing - review & editing*
-    40. [BMC Pedagogical Communities](https://doi.org/10.1186/s13104-022-05944-1)  with *Conceptualization*, *Project administration*, *Writing - original draft* and *Writing - review & editing*
+    17. [Team Database ](https://forrt.org/resources/) as Project co-lead
+    18. Parliament inquiry as Project lead
+    19. [Team Website](https://forrt.org/) as Project co-lead
+    20. Team Ideas  as Project co-lead
+    21. Open Research Book as Project co-lead
+    22. FORRT Robustness Lighthouse as Project co-lead
+    23. Team Manuscript/Manifesto as Project lead
+    24. Team Youth as Project co-lead
+    25. [Team Lesson Plans  | Phase 2](https://forrt.org/lesson-plans/ ) as Project lead
+    26. [Team Glossary | Phase 1](https://forrt.org/glossary/ ) as Project co-lead
+    27. [Participatory Research Primer (BPS)](https://doi.org/10.53841/bpscog.2023.1.8.23)  with *Writing - review & editing*
+    28. [Neurodivergent Authors Database](https://docs.google.com/spreadsheets/d/1OnfQB1OqC00OflwTuRPBhG5NfX-_oLxxoTM_F_J5t5c/edit?gid=699666261#gid=699666261)  with *Conceptualization* and *Funding acquisition*
+    29. [Neurodiversity Annotated Reading List](https://elifesciences.org/articles/102467)  with *Project administration*, *Supervision* and *Writing - review & editing*
+    30. [APS Observer](https://www.psychologicalscience.org/observer/gs-navigating-academia-as-neurodivergent-researchers)  with *Conceptualization*, *Project administration*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
+    31. Accessible Feedback in Academia  with *Conceptualization*, *Funding acquisition*, *Supervision* and *Writing - review & editing*
+    32. [Team Curations](https://forrt.org/resources/)  with *Conceptualization*, *Project administration*, *Resources*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
+    33. [International Initiatives to Enhance Awareness and Uptake of Open Research in Psychology](https://doi.org/10.1098/rsos.241726)  with *Conceptualization*, *Formal analysis* and *Writing - review & editing*
+    34. [Glossary](https://forrt.org/glossary/)  with *Conceptualization*, *Data curation*, *Formal analysis*, *Investigation*, *Methodology*, *Project administration*, *Software*, *Validation*, *Visualization*, *Writing - original draft* and *Writing - review & editing*
+    35. [BMC Pedagogical Communities](https://doi.org/10.1186/s13104-022-05944-1)  with *Conceptualization*, *Project administration*, *Writing - original draft* and *Writing - review & editing*
+    36. FORRT Robustness Lighthouse  with *Conceptualization*, *Investigation*, *Methodology* and *Project administration*
+    37. Autism & Open Science  with *Writing - review & editing*
+    38. [Open Educational Resources Chapter](https://doi.org/10.35542/osf.io/sn693_v2)  with *Conceptualization*, *Project administration*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
+    39. IOI Grant  with *Conceptualization*, *Funding acquisition*, *Investigation*, *Project administration*, *Supervision* and *Writing - review & editing*
+    40. [CERES Manuscript](https://osf.io/preprints/edarxiv/s73xb)  with *Writing - review & editing*
     41. [Open Research Book](https://forrt.org/open-research-course/)  with *Project administration* and *Writing - review & editing*
-    42. Accessible Feedback in Academia  with *Conceptualization*, *Funding acquisition*, *Supervision* and *Writing - review & editing*
-    43. [APS Observer](https://www.psychologicalscience.org/observer/gs-navigating-academia-as-neurodivergent-researchers)  with *Conceptualization*, *Project administration*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
-    44. [Neurodivergent Authors Database](https://docs.google.com/spreadsheets/d/1OnfQB1OqC00OflwTuRPBhG5NfX-_oLxxoTM_F_J5t5c/edit?gid=699666261#gid=699666261)  with *Conceptualization* and *Funding acquisition*
-    45. [Impact on students](https://forrt.org/impact/)  with *Conceptualization*, *Formal analysis*, *Investigation*, *Methodology*, *Project administration*, *Resources*, *Supervision*, *Validation*, *Writing - original draft* and *Writing - review & editing*
-    46. Equity in Open Scholarship  with *Conceptualization*, *Data curation*, *Investigation*, *Methodology*, *Writing - original draft* and *Writing - review & editing*
-    47. Team Einstein 2025  with *Conceptualization*, *Funding acquisition*, *Resources*, *Writing - original draft* and *Writing - review & editing*
-    48. [Replication Paper](https://forrt.org/positive-changes-replication-crisis/)  with *Methodology*, *Project administration*, *Supervision*, *Visualization* and *Writing - review & editing*
-    49. [FReD R package](https://forrt.org/FReD/)  with *Conceptualization*
-    50. NWO TRACKREP Grant  with *Conceptualization*, *Writing - original draft* and *Writing - review & editing*
-    51. [FORRT's Manifesto](https://osf.io/bnh7p_v1)  with *Conceptualization*, *Supervision* and *Visualization*
-    52. [FORRT Self Assessment](https://forrt.org/self-assessment/)  with *Conceptualization*, *Investigation*, *Project administration*, *Software*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
-    53. [Pedagogies](https://forrt.org/pedagogies/)  with *Conceptualization*, *Data curation*, *Investigation*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
-    54. [JUST-OS](https://www.just-os.org/)  with *Data curation*, *Funding acquisition*, *Investigation*, *Methodology*, *Resources*, *Software*, *Writing - original draft* and *Writing - review & editing*
-    55. NWO POST-EDU Grant  with *Conceptualization* and *Writing - review & editing*
-    56. [Educators' Corner](https://forrt.org/educators-corner/)  with *Conceptualization*, *Project administration*, *Supervision*, *Validation*, *Writing - original draft* and *Writing - review & editing*
-    57. [FORRT Germany Verein](https://forrt.org/about/charity/)  with *Conceptualization*, *Funding acquisition*, *Project administration*, *Supervision* and *Writing - review & editing*
-    58. [Team Credit](https://forrt.org/contributors/)  with *Conceptualization*, *Formal analysis*, *Project administration*, *Resources*, *Supervision* and *Visualization*
-    59. Team Cohesion  with *Conceptualization*, *Resources*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
-    60. [FORRT Lesson Plans](https://forrt.org/lesson-plans/)  with *Conceptualization*, *Data curation*, *Investigation*, *Project administration*, *Resources*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
-    61. [Adopting Principled Education](https://forrt.org/adopting/)  with *Conceptualization*, *Data curation*, *Project administration*, *Resources*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
-    62. [FORRT's Curated Resources](https://forrt.org/resources/)  with *Conceptualization* and *Funding acquisition*
-    63. [Open Science in Developing Countries](https://forrt.org/os-developing-world/)  with *Funding acquisition*, *Investigation*, *Project administration*, *Supervision*, *Visualization*, *Writing - original draft* and *Writing - review & editing*
-    64. [Summaries](https://forrt.org/summaries/)  with *Conceptualization*, *Investigation*, *Project administration*, *Resources*, *Supervision* and *Writing - review & editing*
-    65. Team Einstein 2023  with *Conceptualization*, *Investigation*, *Project administration*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
-    66. [Team Website](https://forrt.org/)  with *Resources*
-    67. [Reversals & Replications](https://forrt.org/reversals/)  with *Conceptualization*, *Data curation*, *Funding acquisition*, *Investigation*, *Project administration*, *Writing - original draft*, *Writing - review & editing* and *Project Coordinator*
-    68. Team Ideas  with *Conceptualization*, *Project administration*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
-    69. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Conceptualization*, *Formal analysis*, *Funding acquisition*, *Methodology*, *Project administration*, *Software*, *Visualization*, *Writing - original draft* and *Writing - review & editing*
-    70. [Replication Research MüCOS/FORRT Journal](http://replicationresearch.org)  with *Data curation*, *Resources*, *Supervision*, *Validation*, *Writing - original draft* and *Writing - review & editing*
-    71. [Mapping Open Science Communities](https://forrt.org/mapping_os/)  with *Investigation*, *Project administration*, *Supervision*, *Validation*, *Writing - original draft* and *Writing - review & editing*
-    72. Team Einstein 2022  with *Conceptualization*, *Investigation*, *Project administration*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
-    73. [FORRT's Clusters](https://forrt.org/clusters/)  with *Conceptualization*, *Data curation*, *Funding acquisition*, *Investigation*, *Project administration*, *Resources*, *Supervision*, *Visualization*, *Writing - original draft* and *Writing - review & editing*
-    74. [Academic Wheel of Privilege](https://forrt.org/awop/)  with *Conceptualization*, *Methodology*, *Software*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
-    75. OSCARS Grant Application  with *Conceptualization*, *Investigation*, *Project administration*, *Resources*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
-    76. [Guide to Carrying out Replication Studies](https://lukasroeseler.github.io/replicationresearch_mockup/)  with *Conceptualization*, *Writing - original draft* and *Writing - review & editing*
+    42. FReD COS Data  with *Conceptualization*, *Funding acquisition*, *Investigation*, *Methodology*, *Project administration*, *Supervision*, *Visualization*, *Writing - original draft* and *Writing - review & editing*
+    43. Equity in Open Scholarship  with *Conceptualization*, *Data curation*, *Investigation*, *Methodology*, *Writing - original draft* and *Writing - review & editing*
+    44. [Replication Paper](https://forrt.org/positive-changes-replication-crisis/)  with *Methodology*, *Project administration*, *Supervision*, *Visualization* and *Writing - review & editing*
+    45. [FORRT's Clusters](https://forrt.org/clusters/)  with *Conceptualization*, *Data curation*, *Funding acquisition*, *Investigation*, *Project administration*, *Resources*, *Supervision*, *Visualization*, *Writing - original draft* and *Writing - review & editing*
+    46. [FORRT's Curated Resources](https://forrt.org/resources/)  with *Conceptualization* and *Funding acquisition*
+    47. [Impact on students](https://forrt.org/impact/)  with *Conceptualization*, *Formal analysis*, *Investigation*, *Methodology*, *Project administration*, *Resources*, *Supervision*, *Validation*, *Writing - original draft* and *Writing - review & editing*
+    48. [FReD R package](https://forrt.org/FReD/)  with *Conceptualization*
+    49. NWO TRACKREP Grant  with *Conceptualization*, *Writing - original draft* and *Writing - review & editing*
+    50. [FORRT's Manifesto](https://osf.io/bnh7p_v1)  with *Conceptualization*, *Supervision* and *Visualization*
+    51. [FORRT Self Assessment](https://forrt.org/self-assessment/)  with *Conceptualization*, *Investigation*, *Project administration*, *Software*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
+    52. [Pedagogies](https://forrt.org/pedagogies/)  with *Conceptualization*, *Data curation*, *Investigation*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
+    53. [JUST-OS](https://www.just-os.org/)  with *Data curation*, *Funding acquisition*, *Investigation*, *Methodology*, *Resources*, *Software*, *Writing - original draft* and *Writing - review & editing*
+    54. NWO POST-EDU Grant  with *Conceptualization* and *Writing - review & editing*
+    55. [Educators' Corner](https://forrt.org/educators-corner/)  with *Conceptualization*, *Project administration*, *Supervision*, *Validation*, *Writing - original draft* and *Writing - review & editing*
+    56. [FORRT Germany Verein](https://forrt.org/about/charity/)  with *Conceptualization*, *Funding acquisition*, *Project administration*, *Supervision* and *Writing - review & editing*
+    57. [Team Credit](https://forrt.org/contributors/)  with *Conceptualization*, *Formal analysis*, *Project administration*, *Resources*, *Supervision* and *Visualization*
+    58. Team Cohesion  with *Conceptualization*, *Resources*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
+    59. [FORRT Lesson Plans](https://forrt.org/lesson-plans/)  with *Conceptualization*, *Data curation*, *Investigation*, *Project administration*, *Resources*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
+    60. [Adopting Principled Education](https://forrt.org/adopting/)  with *Conceptualization*, *Data curation*, *Project administration*, *Resources*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
+    61. [Open Science in Developing Countries](https://forrt.org/os-developing-world/)  with *Funding acquisition*, *Investigation*, *Project administration*, *Supervision*, *Visualization*, *Writing - original draft* and *Writing - review & editing*
+    62. [Getting Started with FORRT](https://docs.google.com/document/d/17ECRs6J8spO3CU6siheGL8weQ-TzdyAUpXIiIE8cUeI/edit?tab=t.0#heading=h.9uywlkccaw1)  with *Conceptualization* and *Writing - original draft*
+    63. [Summaries](https://forrt.org/summaries/)  with *Conceptualization*, *Investigation*, *Project administration*, *Resources*, *Supervision* and *Writing - review & editing*
+    64. Team Einstein 2023  with *Conceptualization*, *Investigation*, *Project administration*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
+    65. [Team Website](https://forrt.org/)  with *Resources*
+    66. [Reversals & Replications](https://forrt.org/reversals/)  with *Conceptualization*, *Data curation*, *Funding acquisition*, *Investigation*, *Project administration*, *Writing - original draft*, *Writing - review & editing* and *Project Coordinator*
+    67. Team Ideas  with *Conceptualization*, *Project administration*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
+    68. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Conceptualization*, *Formal analysis*, *Funding acquisition*, *Methodology*, *Project administration*, *Software*, *Visualization*, *Writing - original draft* and *Writing - review & editing*
+    69. [Replication Research MüCOS/FORRT Journal](http://replicationresearch.org)  with *Data curation*, *Resources*, *Supervision*, *Validation*, *Writing - original draft* and *Writing - review & editing*
+    70. [Mapping Open Science Communities](https://forrt.org/mapping_os/)  with *Investigation*, *Project administration*, *Supervision*, *Validation*, *Writing - original draft* and *Writing - review & editing*
+    71. Team Einstein 2022  with *Conceptualization*, *Investigation*, *Project administration*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
+    72. [Academic Wheel of Privilege](https://forrt.org/awop/)  with *Conceptualization*, *Methodology*, *Software*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
+    73. OSCARS Grant Application  with *Conceptualization*, *Investigation*, *Project administration*, *Resources*, *Supervision*, *Writing - original draft* and *Writing - review & editing*
+    74. [Guide to Carrying out Replication Studies](https://lukasroeseler.github.io/replicationresearch_mockup/)  with *Conceptualization*, *Writing - original draft* and *Writing - review & editing*
+    75. Team Einstein 2025  with *Conceptualization*, *Funding acquisition*, *Resources*, *Writing - original draft* and *Writing - review & editing*
+    76. Landscape  with *Conceptualization* and *Methodology*
     77. [Open Science in Developing Countries](https://forrt.org/os-developing-world/)  with *Investigation* and *Writing - review & editing*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Bradley J. Baker](https://orcid.org/0000-0002-1697-4198)** contributed to 
     1. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
-    2. [Summaries](https://forrt.org/summaries/)  with *Resources* and *Writing - review & editing*
-    3. Landscape  with *Data curation*, *Investigation* and *Methodology*
-    4. [Replication Paper](https://forrt.org/positive-changes-replication-crisis/)  with *Writing - review & editing*
+    2. [Replication Paper](https://forrt.org/positive-changes-replication-crisis/)  with *Writing - review & editing*
+    3. [Glossary](https://forrt.org/glossary/)  with *Writing - original draft* and *Writing - review & editing*
+    4. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
     5. [Impact on students](https://forrt.org/impact/)  with *Resources*, *Writing - original draft* and *Writing - review & editing*
-    6. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
-    7. [Glossary](https://forrt.org/glossary/)  with *Writing - original draft* and *Writing - review & editing*
+    6. Landscape  with *Data curation*, *Investigation* and *Methodology*
+    7. [Summaries](https://forrt.org/summaries/)  with *Resources* and *Writing - review & editing*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Nick Ballou](https://orcid.org/0000-0003-4126-0696)** contributed to [Glossary](https://forrt.org/glossary/)  with *Writing - original draft* and *Writing - review & editing*
@@ -336,8 +338,8 @@ Educators (POST-Edu) as Project co-lead
 - **Charlotte L. Barth** contributed to [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Data curation*
 
 - **[James E. Bartlett](https://orcid.org/0000-0002-4191-5245)** contributed to 
-    1. [Glossary](https://forrt.org/glossary/)  with *Writing - original draft* and *Writing - review & editing*
-    2. [Impact on students](https://forrt.org/impact/)  with *Writing - original draft* and *Writing - review & editing*
+    1. [Impact on students](https://forrt.org/impact/)  with *Writing - original draft* and *Writing - review & editing*
+    2. [Glossary](https://forrt.org/glossary/)  with *Writing - original draft* and *Writing - review & editing*
     3. [Getting Started with FORRT](https://docs.google.com/document/d/17ECRs6J8spO3CU6siheGL8weQ-TzdyAUpXIiIE8cUeI/edit?tab=t.0#heading=h.9uywlkccaw1)  with *Writing - review & editing*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
@@ -348,13 +350,13 @@ Educators (POST-Edu) as Project co-lead
 - **[Marcelo C. Batistuzzo](https://orcid.org/0000-0003-1347-8241)** contributed to [Open Science in Developing Countries](https://forrt.org/os-developing-world/)  with *Investigation* and *Writing - review & editing*
 
 - **David J. Bauer** contributed to 
-    1. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
-    2. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
+    1. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
+    2. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Myriam A. Baum](https://orcid.org/0000-0002-1006-3430)** contributed to 
-    1. [Impact on students](https://forrt.org/impact/)  with *Writing - review & editing*
-    2. [Glossary](https://forrt.org/glossary/)  with *Writing - original draft* and *Writing - review & editing*
+    1. [Glossary](https://forrt.org/glossary/)  with *Writing - original draft* and *Writing - review & editing*
+    2. [Impact on students](https://forrt.org/impact/)  with *Writing - review & editing*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Robin Beckenbach](https://orcid.org/0009-0008-1036-0276)** contributed to [Summaries](https://forrt.org/summaries/)  with *Resources* and *Writing - review & editing*
@@ -371,8 +373,8 @@ Educators (POST-Edu) as Project co-lead
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Anabel Belaus](https://orcid.org/0000-0001-9657-8496)** contributed to 
-    1. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
-    2. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
+    1. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
+    2. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Leonardo Bergmann](https://orcid.org/0000-0001-9570-8973)** contributed to 
@@ -396,8 +398,8 @@ Educators (POST-Edu) as Project co-lead
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Peter Branney](https://orcid.org/0000-0002-2084-461X)** contributed to 
-    1. [Impact on students](https://forrt.org/impact/)  with *Investigation* and *Writing - review & editing*
-    2. Accessible Feedback in Academia  with *Formal analysis*, *Resources*, *Writing - original draft* and *Writing - review & editing*
+    1. Accessible Feedback in Academia  with *Formal analysis*, *Resources*, *Writing - original draft* and *Writing - review & editing*
+    2. [Impact on students](https://forrt.org/impact/)  with *Investigation* and *Writing - review & editing*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **Ligayaa Breemer** contributed to 
@@ -412,15 +414,15 @@ Educators (POST-Edu) as Project co-lead
 - **[Amélie Bret](https://orcid.org/0000-0002-9129-0415)** contributed to [Glossary](https://forrt.org/glossary/)  with *Writing - original draft* and *Writing - review & editing*
 
 - **[Cameron Brick](https://orcid.org/0000-0002-7174-8193)** contributed to 
-    1. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
-    2. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
+    1. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
+    2. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **Abel Brodeur** contributed to [Guide to Carrying out Replication Studies](https://lukasroeseler.github.io/replicationresearch_mockup/)  with *Writing - review & editing*
 
 - **[Hilmar Brohmer](https://orcid.org/0000-0001-7763-4229)** contributed to 
-    1. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
-    2. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
+    1. [FORRT Replication Database (FReD)](https://forrt.org/replication-hub/#:~:text=FORRT%20Replication%20Database%20(FReD))  with *Investigation*
+    2. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
 - **[Benjamin Brummernhenrich](https://orcid.org/0000-0002-5680-9170)** contributed to 
