@@ -549,7 +549,7 @@ Educators (POST-Edu) as Project co-lead
 
 - **Christopher Doetsch** contributed to [FReD (FORRT Replication Database)](https://forrt.org/replication-hub/)  with *Data curation*, *Investigation*, *Resources*, *Validation* and *Project Manager*
 
-- **[Marie Dokovova](https://orcid.org/0000-0002-4350-6082)** contributed to Glossary - Bulgarian Translation  with *Resources* and *Translation*
+- **[Marie Dokovova](https://orcid.org/0000-0002-4350-6082)** contributed to Glossary - Bulgarian Translation  with *Resources*, *Validation* and *Translation*
 
 - **[Marie Dokovova](https://orcid.org/0000-0003-1564-8865)** contributed to [Participatory Research Primer (BPS)](https://doi.org/10.53841/bpscog.2023.1.8.23)  with *Writing - review & editing*
 
@@ -1014,7 +1014,7 @@ Educators (POST-Edu) as Project co-lead
 - **[Godfrey Ikahu](https://orcid.org/0000-0002-1959-5812)** contributed to Accessible Feedback in Academia  with *Resources*, *Translation* and *Writing - review & editing*
 
 - **[Zlatomira G. Ilchovska](https://orcid.org/0000-0001-6682-9952)** contributed to 
-    1. Glossary - Bulgarian Translation  with *Resources* and *Translation*
+    1. Glossary - Bulgarian Translation  with *Resources*, *Validation* and *Translation*
     2. [Impact on students](https://forrt.org/impact/)  with *Investigation*, *Resources*, *Writing - original draft* and *Writing - review & editing*
     3. [FReD (FORRT Replication Database)](https://forrt.org/replication-hub/)  with *Investigation*
     4. [Reversals & Replications](https://forrt.org/reversals/)  with *Investigation*
@@ -1228,7 +1228,7 @@ Educators (POST-Edu) as Project co-lead
     2. Team Outreach  with *Conceptualization*, *Investigation*, *Resources* and *Visualization*
     3. [Adopting Principled Education](https://forrt.org/adopting/)  with *Data curation*, *Resources* and *Writing - original draft*
     4. [FORRT's Curated Resources](https://forrt.org/resources/)  with *Resources*
-    5. Glossary - Bulgarian Translation  with *Resources* and *Translation*
+    5. Glossary - Bulgarian Translation  with *Resources*, *Validation* and *Translation*
     6. [Open Educational Resources Chapter](https://doi.org/10.35542/osf.io/sn693_v2)  with *Writing - review & editing*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
@@ -2112,7 +2112,7 @@ Educators (POST-Edu) as Project co-lead
     2. [Impact on students](https://forrt.org/impact/)  with *Investigation*
 {{<rawhtml>}}<br/>&nbsp;<br/> {{</rawhtml>}}
 
-- **[Momchil Terziev](https://orcid.org/0000-0002-1664-6186)** contributed to Glossary - Bulgarian Translation  with *Resources* and *Translation*
+- **[Momchil Terziev](https://orcid.org/0000-0002-1664-6186)** contributed to Glossary - Bulgarian Translation  with *Resources*, *Validation* and *Translation*
 
 - **[Ayanna K. Thomas](https://orcid.org/0000-0001-8173-5911)** contributed to Equity in Open Scholarship  with *Conceptualization*, *Data curation*, *Investigation*, *Methodology*, *Writing - original draft* and *Writing - review & editing*
 
