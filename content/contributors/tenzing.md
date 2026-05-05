@@ -5650,10 +5650,11 @@ Educators (POST-Edu) as Project co-lead</li>
 
 
 <li class="contributor-group" id="0000-0001-9000-8513">
-  <strong><a href="https://orcid.org/0000-0001-9000-8513">Flavio Azevedo</a></strong> contributed to
+  <strong><a href="https://orcid.org/0000-0001-9000-8513">Flavio A. Azevedo</a></strong> contributed to
   <ul class="contributions-list">
     <li class="contribution" data-projects="forrt" data-roles="director">FORRT as Director</li>
     <li class="contribution" data-projects="forrt-robustness-lighthouse" data-roles="project-co-lead">FORRT Robustness Lighthouse as Project co-lead</li>
+    <li class="contribution" data-projects="leo-waaijers-os-award" data-roles="project-lead">Leo Waaijers OS Award as Project lead</li>
     <li class="contribution" data-projects="open-research-book" data-roles="project-co-lead">Open Research Book as Project co-lead</li>
     <li class="contribution" data-projects="parliament-inquiry" data-roles="project-lead">Parliament inquiry as Project lead</li>
     <li class="contribution" data-projects="promoting-open-science-teaching-a-positive-inclusive-and-participatory-program-for-educators-post-edu" data-roles="project-co-lead">Promoting Open Science Teaching: A Positive, Inclusive and Participatory Program for
@@ -5894,6 +5895,10 @@ window.filterData = {
     {
       "value": "landscape",
       "label": "Landscape"
+    },
+    {
+      "value": "leo-waaijers-os-award",
+      "label": "Leo Waaijers OS Award"
     },
     {
       "value": "mapping-open-science-communities",
