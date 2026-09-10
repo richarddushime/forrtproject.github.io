@@ -1386,7 +1386,7 @@ FORRT is driven by a **large and diverse community of contributors** that shape 
 <li class="contributor-group" id="0000-0002-1281-9895">
   <strong><a href="https://orcid.org/0000-0002-1281-9895">Richard M. Dushime</a></strong> contributed to
   <ul class="contributions-list">
-    <li class="contribution" data-projects="team-website" data-roles="project-lead"><a href="https://forrt.org/">Team Website</a> as Project lead</li>
+    <li class="contribution" data-projects="team-website" data-roles="lead-website-maintainer"><a href="https://forrt.org/">Team Website</a> as Lead Website Maintainer</li>
     <li class="contribution" data-projects="accessible-feedback-in-academia" data-roles="resources">Accessible Feedback in Academia with <em>Resources</em></li>
     <li class="contribution" data-projects="flora-notify-preprint-alerts" data-roles="conceptualization,software,visualization">FLoRA - Notify preprint alerts with <em>Conceptualization</em>, <em>Software</em> and <em>Visualization</em></li>
     <li class="contribution" data-projects="open-educational-resources-chapter" data-roles="writing-review-and-editing"><a href="https://doi.org/10.35542/osf.io/sn693_v2">Open Educational Resources Chapter</a> with <em>Writing - review & editing</em></li>
@@ -6581,6 +6581,10 @@ window.filterData = {
     {
       "value": "investigation",
       "label": "Investigation"
+    },
+    {
+      "value": "lead-website-maintainer",
+      "label": "Lead Website Maintainer"
     },
     {
       "value": "methodology",
