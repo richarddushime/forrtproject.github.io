@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-06T19:18:18.085Z",
     "title": "Better P-curves: Making P-curve Analysis More Robust to Errors, Fraud, and Ambitious P-hacking, a Reply to Ulrich and Miller (2015)",
     "link_to_resource": "https://doi.org/10.1037/xge0000104",
@@ -32,13 +31,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen)., Exploratory and confirmatory analyses",
     "doi": "10.1037/xge0000104",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

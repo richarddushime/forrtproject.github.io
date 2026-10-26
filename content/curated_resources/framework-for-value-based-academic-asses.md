@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 3:30:13",
     "title": "Framework for Value Based Academic Assessment",
     "link_to_resource": "https://doi.org/10.17605/OSF.IO/Z9XSR",
@@ -41,5 +40,6 @@
     "doi": "10.17605/OSF.IO/Z9XSR",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

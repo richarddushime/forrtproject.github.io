@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/13/2025 11:58:44",
     "title": "Adopting Principled Education",
     "link_to_resource": "https://forrt.org/adopting/",
@@ -31,12 +30,16 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Teaching; Mentoring; Higher Education; Educational Resources"
+        "Teaching",
+        "Mentoring",
+        "Higher Education",
+        "Educational Resources"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "FAIR principles applied to Education & Training",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

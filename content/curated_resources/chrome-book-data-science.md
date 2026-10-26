@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-11T10:36:37.736Z",
     "title": "Chrome Book Data Science",
     "link_to_resource": "https://jhudatascience.org/chromebookdatascience/",
@@ -51,5 +50,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

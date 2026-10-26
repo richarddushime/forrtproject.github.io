@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-09T16:35:33.549Z",
     "title": "The meaning of \u201csignificance\u201d for different types of research",
     "link_to_resource": "https://doi.org/10.1016/j.actpsy.2014.02.001",
@@ -50,5 +49,6 @@
     "doi": "10.1016/j.actpsy.2014.02.001",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

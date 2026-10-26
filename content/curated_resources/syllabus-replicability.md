@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/12/2025 13:17:31",
     "title": "Syllabus replicability",
     "link_to_resource": "https://osf.io/staze",
@@ -30,12 +29,18 @@
         "Replication Research"
     ],
     "tags": [
-        "Research Methods; Psychological Science; Statistics; Methodology; Research Design; Replicability"
+        "Research Methods",
+        "Psychological Science",
+        "Statistics",
+        "Methodology",
+        "Research Design",
+        "Replicability"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "History of the replication crisis & credibility revolution, Questionable research practices & their prevalence",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/27/2023 13:18:49",
     "title": "Incorporating ecological momentary assessment into multimethod investigations of cognitive aging: Promise and practical considerations",
     "link_to_resource": "https://doi.org/10.1037/pag0000646",
@@ -49,5 +48,6 @@
     "doi": "10.1037/pag0000646",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

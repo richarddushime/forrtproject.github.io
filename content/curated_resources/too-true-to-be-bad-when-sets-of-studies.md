@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-04T18:56:25.621Z",
     "title": "Too true to be bad: When sets of studies with significant and nonsignificant findings are probably true",
     "link_to_resource": "https://doi.org/10.1177/1948550617693058",
@@ -30,13 +29,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Limitations and benefits of NHST, Bayesian & Likelihood approaches.",
     "doi": "10.1177/1948550617693058",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

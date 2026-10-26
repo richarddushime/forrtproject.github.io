@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/8/2024 12:07:48",
     "title": "Open Intro Statistics\n",
     "link_to_resource": "https://www.openintro.org/book/os/",
@@ -45,5 +44,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-05T18:16:31.342Z",
     "title": "Correlational Effect Size Benchmarks",
     "link_to_resource": "https://doi.org/10.1037/a0038047",
@@ -37,13 +36,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Effect sizes, statistical power, simulations, & confidence intervals.",
     "doi": "10.1037/a0038047",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

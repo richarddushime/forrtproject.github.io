@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-31T18:59:38.336Z",
     "title": "Falsifiability Is Not Optional",
     "link_to_resource": "https://doi.org/10.1037/pspi0000106",
@@ -46,5 +45,6 @@
     "doi": "10.1037/pspi0000106",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

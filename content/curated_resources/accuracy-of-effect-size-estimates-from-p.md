@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-28T14:48:51.882Z",
     "title": "Accuracy of effect size estimates from published psychological research ",
     "link_to_resource": "https://doi.org/10.1080/00221309.2011.604365",
@@ -31,13 +30,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Effect sizes, statistical power, simulations, & confidence intervals.",
     "doi": "10.1080/00221309.2011.604365",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-22T19:01:39.952Z",
     "title": "An exploratory test for an excess of significant findings",
     "link_to_resource": "https://doi.org/10.1177/1740774507079441",
@@ -29,13 +28,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Exploratory and confirmatory analyses, The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen).",
     "doi": "10.1177/1740774507079441",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

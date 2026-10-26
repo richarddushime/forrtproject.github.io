@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-09T08:11:29.826Z",
     "title": "A tale of two papers",
     "link_to_resource": "http://sometimesimwrong.typepad.com/wrong/2015/11/guest-post-a-tale-of-two-papers.html",
@@ -43,5 +42,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

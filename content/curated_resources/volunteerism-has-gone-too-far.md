@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 5:22:09",
     "title": "Volunteerism has gone too far!",
     "link_to_resource": "https://heidiseibold.kit.com/posts/volunteerism-has-gone-too-far",
@@ -39,5 +38,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

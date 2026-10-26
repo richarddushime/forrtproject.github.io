@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/20/2025 16:24:13",
     "title": "Introducing a Framework for Open and Reproducible Research Training (FORRT)",
     "link_to_resource": "https://doi.org/10.31219/osf.io/bnh7p",
@@ -58,12 +57,19 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Open Scholarship; Pedagogy; Higher Education; Teaching; Mentorship; Research Training; Open Educational Resources (OER)"
+        "Open Scholarship",
+        "Pedagogy",
+        "Higher Education",
+        "Teaching",
+        "Mentorship",
+        "Research Training",
+        "Open Educational Resources (OER)"
     ],
     "forrt_clusters_new": "",
     "forrt_sub_clusters": "Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "10.31219/osf.io/bnh7p",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

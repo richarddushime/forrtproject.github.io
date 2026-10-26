@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/9/2020 20:08:44",
     "title": "Reproducibility/Open Science and Clinical Psych Reading List",
     "link_to_resource": "https://docs.google.com/document/d/1ewFMFBEASv7UL0qkOP5HNtFDngzdBax8tDKK-L_0knc/edit",
@@ -27,12 +26,13 @@
         "Reproducibility and Replicability Knowledge"
     ],
     "tags": [
-        "Clinical psychology"
+        "Clinical Psychology"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

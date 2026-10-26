@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-03T20:22:21.975Z",
     "title": "HARKing: Hypothesizing after the results are known",
     "link_to_resource": "https://doi.org/10.1207/s15327957pspr0203_4",
@@ -29,13 +28,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Exploratory and confirmatory analyses",
     "doi": "10.1207/s15327957pspr0203_4",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

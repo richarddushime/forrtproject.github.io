@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "4/8/2025 8:31:19",
     "title": "Team Neurodiversity",
     "link_to_resource": "https://forrt.org/neurodiversity/",
@@ -42,5 +41,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

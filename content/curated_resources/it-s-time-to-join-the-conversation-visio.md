@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 3:50:11",
     "title": "It\u2019s time to join the conversation: Visions of the Future for Qualitative Transparency and Openness in Management and Organisation Studies",
     "link_to_resource": "http://dx.doi.org/10.31235/osf.io/ntf73",
@@ -43,5 +42,6 @@
     "doi": "10.31235/osf.io/ntf73",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

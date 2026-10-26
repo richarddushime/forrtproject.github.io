@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-05T19:34:31.478Z",
     "title": "Is the call to abandon p-values the red herring of the replicability crisis? ",
     "link_to_resource": "https://doi.org/10.3389/fpsyg.2015.00245",
@@ -28,13 +27,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen).",
     "doi": "10.3389/fpsyg.2015.00245",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

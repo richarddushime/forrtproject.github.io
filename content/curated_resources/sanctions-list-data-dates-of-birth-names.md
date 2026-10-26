@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/16/2026 15:40:28",
     "title": "Sanctions list data: dates of birth, names and IDs",
     "link_to_resource": "https://www.sanctionskit.com/resources/sanctions-list-identifiers-2026-09",
@@ -42,5 +41,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

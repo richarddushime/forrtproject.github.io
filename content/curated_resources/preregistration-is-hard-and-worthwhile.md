@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/6/2023 12:47:55",
     "title": "Preregistration Is Hard, And Worthwhile",
     "link_to_resource": "https://doi.org/10.1016/j.tics.2019.07.009",
@@ -58,5 +57,6 @@
     "doi": "10.1016/j.tics.2019.07.009",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

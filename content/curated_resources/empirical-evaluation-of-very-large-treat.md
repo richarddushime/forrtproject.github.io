@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-08T18:23:12.189Z",
     "title": "Empirical Evaluation of Very Large Treatment Effects of Medical Interventions",
     "link_to_resource": "https://doi.org/10.1001/jama.2012.13444",
@@ -42,5 +41,6 @@
     "doi": "10.1001/jama.2012.13444",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

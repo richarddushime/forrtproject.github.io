@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/20/2025 5:55:26",
     "title": "Moving Toward Transparent, Open, and Reproducible Prevention Science: Introduction to the Special Issue",
     "link_to_resource": "https://doi.org/10.1007/s11121-022-01393-1",
@@ -47,5 +46,6 @@
     "doi": "10.1007/s11121-022-01393-1",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

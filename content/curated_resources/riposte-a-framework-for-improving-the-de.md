@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-08T18:45:37.869Z",
     "title": "RIPOSTE: A Framework for Improving the Design and Analysis of Laboratory-Based Research",
     "link_to_resource": "https://doi.org/10.7554/eLife.05519",
@@ -38,5 +37,6 @@
     "doi": "10.7554/eLife.05519",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

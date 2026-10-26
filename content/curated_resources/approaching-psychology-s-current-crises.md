@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2024 6:15:57",
     "title": "Approaching Psychology\u2019s Current Crises by Exploring the Vagueness of Psychological Concepts: Recommendations for Advancing the Discipline",
     "link_to_resource": "https://doi.org/10.1037/amp0001300",
@@ -41,5 +40,6 @@
     "doi": "10.1037/amp0001300",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Data Management & Reproducibility",
     "link_to_resource": "https://docs.google.com/presentation/d/1WT8gyH7O3Zap3nN7OuDZ0jhG4ZK91C646sXoyAaHPbc/edit?usp=sharing",
@@ -43,5 +42,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

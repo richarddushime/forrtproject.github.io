@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-16T11:07:57.302Z",
     "title": "Everything Hertz",
     "link_to_resource": "https://soundcloud.com/everything-hertz",
@@ -43,5 +42,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

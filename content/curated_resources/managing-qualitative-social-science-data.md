@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/20/2020 8:05:06",
     "title": "Managing Qualitative Social Science Data",
     "link_to_resource": "https://managing-qualitative-data.org/",
@@ -30,12 +29,13 @@
         "Reproducibility and Replicability Knowledge"
     ],
     "tags": [
-        "Qualitative research"
+        "Qualitative Research"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

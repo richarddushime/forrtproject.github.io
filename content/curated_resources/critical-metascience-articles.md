@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/30/2025 13:21:50",
     "title": "Critical Metascience Articles",
     "link_to_resource": "https://sites.google.com/site/markrubinsocialpsychresearch/replication-crisis/list-of-critical-metascience-articles",
@@ -36,12 +35,17 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Meta Science; Inclusivity; Diversity; Preregistration; Science Reform"
+        "Meta Science",
+        "Inclusivity",
+        "Diversity",
+        "Preregistration",
+        "Science Reform"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions, Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "History of the replication crisis & credibility revolution, Ongoing debates (e.g., incentives for and against open science practices), Inclusion",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

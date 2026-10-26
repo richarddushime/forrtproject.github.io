@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/7/2026 22:50:06",
     "title": "Global Data Tracker: country-level sanitation data explorer",
     "link_to_resource": "https://globaldatatracker.com/statistics/basic_sanitation",
@@ -42,5 +41,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

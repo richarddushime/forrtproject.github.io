@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/12/2024 10:44:03",
     "title": "Guideline for reporting systematic reviews of outcome measurement instruments (OMIs): PRISMA-COSMIN for OMIs 2024",
     "link_to_resource": "https://doi.org/10.1016/j.jclinepi.2024.111422",
@@ -58,12 +57,13 @@
         "Outcome measurement instrument",
         "PRISMA",
         "Reporting guideline",
-        "Systematic reviews."
+        "Systematic Reviews"
     ],
     "forrt_clusters_new": "Replication and meta-research, Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Meta-analyses, Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "10.1016/j.jclinepi.2024.111422",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

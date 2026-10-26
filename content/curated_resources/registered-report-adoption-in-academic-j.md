@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/12/2024 10:31:45",
     "title": "Registered report adoption in academic journals: assessing rates in different research domains",
     "link_to_resource": "https://doi.org/10.1007/s11192-023-04896-y",
@@ -44,5 +43,6 @@
     "doi": "10.1007/s11192-023-04896-y",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

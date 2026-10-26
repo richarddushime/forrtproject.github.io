@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/10/2025 12:14:35",
     "title": "Error Tight: Exercises for Lab Groups to Prevent Research Mistakes",
     "link_to_resource": "https://doi.org/10.1037/met0000547",
@@ -29,12 +28,17 @@
         "Conceptual and Statistical Knowledge"
     ],
     "tags": [
-        "Research; Lab Group; Lab Exercises; Tutorial; Error Prevention"
+        "Research",
+        "Lab Group",
+        "Lab Exercises",
+        "Tutorial",
+        "Error Prevention"
     ],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Research design, sampling methods, & its implications for inferences.",
     "doi": "10.1037/met0000547",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

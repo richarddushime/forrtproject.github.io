@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "7/16/2025 2:49:10",
     "title": "Interactional roles and social actions to foster translation within meetings of interdisciplinary research teams",
     "link_to_resource": "https://www.biorxiv.org/content/10.1101/2022.11.15.516566v3",
@@ -43,5 +42,6 @@
     "doi": "10.1101/2022.11.15.516566v3",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

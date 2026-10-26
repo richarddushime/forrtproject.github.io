@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/14/2021 13:25:21",
     "title": "Emerging Scientific Research Practices",
     "link_to_resource": "https://osf.io/m2uh7/",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

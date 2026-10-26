@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/12/2024 8:25:19",
     "title": "The needed link between open science and science diplomacy\u2014A Latin American perspective",
     "link_to_resource": "https://doi.org/10.3389/frma.2024.1355393",
@@ -41,7 +40,7 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Open science",
+        "Open Science",
         "science diplomacy"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
@@ -49,5 +48,6 @@
     "doi": "10.3389/frma.2024.1355393",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

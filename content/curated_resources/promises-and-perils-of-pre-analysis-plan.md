@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/30/2023 12:48:02",
     "title": "Promises and Perils of Pre-analysis Plans",
     "link_to_resource": "https://doi.org/10.1257/jep.29.3.61",
@@ -40,5 +39,6 @@
     "doi": "10.1257/jep.29.3.61",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

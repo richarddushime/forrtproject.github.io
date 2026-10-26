@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/30/2025 13:12:14",
     "title": "A reading list for the Replicability Crisis ",
     "link_to_resource": "https://crystalprisonzone.blogspot.com/2016/03/a-reading-list-for-replicability-crisis.html",
@@ -37,5 +36,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

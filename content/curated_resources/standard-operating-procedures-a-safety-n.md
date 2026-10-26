@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-09T16:27:51.512Z",
     "title": "Standard Operating Procedures: A Safety Net for Pre-Analysis Plans",
     "link_to_resource": "https://doi.org/10.1017/S1049096516000810",
@@ -27,13 +26,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge, Pre-analysis Planning",
     "forrt_sub_clusters": "Exploratory and confirmatory analyses, Purpose of pre-analysis planning",
     "doi": "10.1017/S1049096516000810",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

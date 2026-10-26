@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2023 17:04:27",
     "title": "Pre-Registration in the Undergraduate Dissertation: A Critical Discussion",
     "link_to_resource": "https://eric.ed.gov/?id=EJ1257790",
@@ -55,5 +54,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/25/2025 13:30:22",
     "title": "Taking stock of the credibility revolution: Scientific reform 2011-2019",
     "link_to_resource": "http://dx.doi.org/10.17605/OSF.IO/5CX2D",
@@ -34,12 +33,15 @@
         "Reproducibility and Replicability Knowledge"
     ],
     "tags": [
-        "Book; Credibility Revolution; Scientific Reform;"
+        "Book",
+        "Credibility Revolution",
+        "Scientific Reform"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "History of the replication crisis & credibility revolution",
     "doi": "10.17605/OSF.IO/5CX2D",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

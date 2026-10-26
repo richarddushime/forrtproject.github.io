@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/12/2024 10:30:59",
     "title": "Applying Social and Behavioral Science to Federal Policies and Programs to Deliver Better Outcomes",
     "link_to_resource": "https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/05/15/applying-social-and-behavioral-science-to-federal-policies-and-programs-to-deliver-better-outcomes/",
@@ -38,5 +37,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

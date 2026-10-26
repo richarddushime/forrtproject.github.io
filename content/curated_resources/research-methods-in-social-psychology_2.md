@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/30/2025 3:44:32",
     "title": "Research Methods in Social Psychology",
     "link_to_resource": "https://osf.io/uv9x6",
@@ -30,12 +29,16 @@
         "Conceptual and Statistical Knowledge"
     ],
     "tags": [
-        "Social Psychology; Research Methods; Transparency; Computational Modelling"
+        "Social Psychology",
+        "Research Methods",
+        "Transparency",
+        "Computational Modelling"
     ],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Research design, sampling methods, & its implications for inferences.",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Reproducible Science Curriculum Lesson for Automation",
     "link_to_resource": "https://github.com/datacarpentry/rr-automation",
@@ -39,5 +38,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

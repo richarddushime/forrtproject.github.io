@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-26T15:58:40.309Z",
     "title": "Why most published research findings are false",
     "link_to_resource": "https://doi.org/10.1371/journal.pmed.0020124",
@@ -28,13 +27,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Replication and meta-research",
     "forrt_sub_clusters": "Meta-research",
     "doi": "10.1371/journal.pmed.0020124",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

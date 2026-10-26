@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-22T19:31:28.489Z",
     "title": "The Empirical March: Making Science Better at Self-Correction",
     "link_to_resource": "https://doi.org/10.1037/a0035803",
@@ -44,5 +43,6 @@
     "doi": "10.1037/a0035803",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

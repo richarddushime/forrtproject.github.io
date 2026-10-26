@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2023 16:56:49",
     "title": "The preregistration revolution needs to distinguish between predictions and analyses",
     "link_to_resource": "https://doi.org/10.1073/pnas.1812592115",
@@ -40,5 +39,6 @@
     "doi": "10.1073/pnas.1812592115",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

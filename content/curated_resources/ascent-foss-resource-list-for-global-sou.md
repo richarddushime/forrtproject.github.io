@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/4/2026 4:42:10",
     "title": "ASCENT FOSS Resource List for Global South Researchers",
     "link_to_resource": "10.5281/zenodo.23133275",
@@ -42,5 +41,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

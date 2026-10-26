@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-31T18:23:45.787Z",
     "title": "Null hypothesis significance testing: a review of an old and continuing controversy",
     "link_to_resource": "https://doi.org/10.1037/1082-989x.5.2.241",
@@ -29,13 +28,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen)., Limitations and benefits of NHST, Bayesian & Likelihood approaches.",
     "doi": "10.1037/1082-989x.5.2.241",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

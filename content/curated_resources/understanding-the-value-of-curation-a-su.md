@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/12/2024 10:05:51",
     "title": "Understanding the value of curation: A survey of US data repository curation practices and perceptions\n",
     "link_to_resource": "https://doi.org/10.1371/journal.pone.0301171",
@@ -39,13 +38,14 @@
     ],
     "tags": [
         "Biology",
-        "Data repository",
-        "Data curation"
+        "Data Repository",
+        "Data Curation"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Repositories, Research data management",
     "doi": "10.1371/journal.pone.0301171",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 3:23:33",
     "title": "Evading Open Science: The Black Box of Student Data Collection",
     "link_to_resource": "https://doi.org/10.32872/spb.9411",
@@ -45,5 +44,6 @@
     "doi": "10.32872/spb.9411",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

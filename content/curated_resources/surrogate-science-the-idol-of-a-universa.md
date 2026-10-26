@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-24T12:23:32.312Z",
     "title": "Surrogate Science: The Idol of a Universal Method for Scientific Inference",
     "link_to_resource": "https://doi.org/10.1177/0149206314547522",
@@ -29,13 +28,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Philosophy of science",
     "doi": "10.1177/0149206314547522",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

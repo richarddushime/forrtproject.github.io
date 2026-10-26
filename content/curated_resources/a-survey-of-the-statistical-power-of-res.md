@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-26T15:30:33.536Z",
     "title": "A survey of the statistical power of research in behavioral ecology and animal behavior.",
     "link_to_resource": "https://doi.org/10.1093/beheco/14.3.438",
@@ -32,13 +31,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Effect sizes, statistical power, simulations, & confidence intervals.",
     "doi": "10.1093/beheco/14.3.438",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/20/2025 15:10:05",
     "title": "The Replication Database: Documenting the Replicability of Psychological Science",
     "link_to_resource": "https://doi.org/10.5334/jopd.101",
@@ -229,12 +228,18 @@
         "Replication Research"
     ],
     "tags": [
-        "Replicability; Replication Studies; Reproducibility; Replication Database; Replication Data; Psychological Research"
+        "Replicability",
+        "Replication Studies",
+        "Reproducibility",
+        "Replication Database",
+        "Replication Data",
+        "Psychological Research"
     ],
     "forrt_clusters_new": "Replication and meta-research, Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Collection of large scale replications, Conducting replication studies; challenges, limitations, and comparisons with the original study",
     "doi": "10.5334/jopd.101",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

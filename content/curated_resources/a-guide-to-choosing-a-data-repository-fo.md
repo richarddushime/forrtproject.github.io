@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/9/2025 9:37:39",
     "title": "A Guide to Choosing a Data Repository for NIH-Funded Research",
     "link_to_resource": "http://web.archive.org/web/20250619002408/https://dataworks.faseb.org/helpdesk/kb/guide-to-choosing-a-data-repository",
@@ -38,5 +37,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "11/4/2023 7:33:36",
     "title": "ORCC UKRN Primer on Working in Open Research",
     "link_to_resource": "https://osf.io/346hr/",
@@ -38,10 +37,10 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "collaboration",
-        "data management",
+        "Collaboration",
+        "Data Management",
         "introductory guide",
-        "open research",
+        "Open Research",
         "outputs reproducibility research",
         "UKRN"
     ],
@@ -50,5 +49,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 4:55:02",
     "title": "The Value of Openness in Open Science",
     "link_to_resource": "https://doi.org/10.1017/can.2024.44",
@@ -41,5 +40,6 @@
     "doi": "10.1017/can.2024.44",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

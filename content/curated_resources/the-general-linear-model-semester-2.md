@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/9/2020 20:09:57",
     "title": "The General Linear Model: Semester 2",
     "link_to_resource": "https://osf.io/x3vyf/",
@@ -34,5 +33,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

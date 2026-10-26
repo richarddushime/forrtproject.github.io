@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/20/2025 4:57:05",
     "title": "Repetitive research: a conceptual space and terminology of replication, reproduction, revision, reanalysis, reinvestigation and reuse in digital humanities",
     "link_to_resource": "https://doi.org/10.1007/s42803-023-00073-y",
@@ -47,5 +46,6 @@
     "doi": "10.1007/s42803-023-00073-y",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

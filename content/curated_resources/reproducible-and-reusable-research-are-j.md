@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Reproducible and reusable research: are journal data sharing policies meeting the mark?",
     "link_to_resource": "https://peerj.com/articles/3208/",
@@ -42,5 +41,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

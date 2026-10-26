@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/7/2020 16:08:25",
     "title": "Course materials | Project TIER",
     "link_to_resource": "https://www.projecttier.org/tier-classroom/course-materials/",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

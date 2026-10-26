@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/10/2025 13:31:02",
     "title": "Oxford|Berlin Summer School on Open Research 2021",
     "link_to_resource": "https://osf.io/8q59y/",
@@ -30,12 +29,16 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Open Scholarship; Reliability; Replicability; Reproducibility"
+        "Open Scholarship",
+        "Reliability",
+        "Replicability",
+        "Reproducibility"
     ],
     "forrt_clusters_new": "FAIR data and materials, Ways of Working",
     "forrt_sub_clusters": "Research with students (under- and graduate), FAIR principles applied to Education & Training",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

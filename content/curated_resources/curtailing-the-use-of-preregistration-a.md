@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2023 16:16:08",
     "title": "Curtailing the Use of Preregistration: A Misused Term",
     "link_to_resource": "https://doi.org/10.1177/1745691619858427",
@@ -51,5 +50,6 @@
     "doi": "10.1177/1745691619858427",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

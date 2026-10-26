@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/17/2020 17:43:27",
     "title": "The p-value misconception eradication challenge",
     "link_to_resource": "http://daniellakens.blogspot.com/2020/10/the-p-value-misconception-eradication.html",
@@ -37,5 +36,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

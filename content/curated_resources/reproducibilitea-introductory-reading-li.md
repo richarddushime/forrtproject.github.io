@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/25/2025 13:09:57",
     "title": "ReproducibiliTea Introductory Reading List",
     "link_to_resource": "https://osf.io/qxbcs",
@@ -32,12 +31,16 @@
         "Reproducibility and Replicability Knowledge"
     ],
     "tags": [
-        "Journal club; Reading list; Reproducibility crisis; Open Science"
+        "Journal club",
+        "Reading list",
+        "Reproducibility Crisis",
+        "Open Science"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "History of the replication crisis & credibility revolution",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

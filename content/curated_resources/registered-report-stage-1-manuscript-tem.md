@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 9:27:44",
     "title": "Registered Report Stage 1 manuscript template",
     "link_to_resource": "https://doi.org/10.17605/OSF.IO/YQXTP",
@@ -40,5 +39,6 @@
     "doi": "10.17605/OSF.IO/YQXTP",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

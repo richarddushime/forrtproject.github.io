@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2024 5:55:40",
     "title": "Prioritizing open science in space medicine: perspectives following the NASA \u201cTransform to Open Science (TOPS)\u201d Curriculum",
     "link_to_resource": "https://doi.org/10.1007/s11845-024-03612-w",
@@ -42,5 +41,6 @@
     "doi": "10.1007/s11845-024-03612-w",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

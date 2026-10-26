@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-03T19:33:25.880Z",
     "title": "Statistical tests, p values, confidence intervals, and power: a guide to misinterpretations. ",
     "link_to_resource": "http://doi.org/10.1007/s10654-016-0149-3",
@@ -41,13 +40,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Effect sizes, statistical power, simulations, & confidence intervals., Limitations and benefits of NHST, Bayesian & Likelihood approaches.",
     "doi": "10.1007/s10654-016-0149-3",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

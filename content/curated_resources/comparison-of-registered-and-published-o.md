@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Comparison of registered and published outcomes in randomized controlled trials: a systematic review",
     "link_to_resource": "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-015-0520-3",
@@ -41,5 +40,6 @@
     "doi": "10.1186/s12916-015-0520-3",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-03T20:29:52.405Z",
     "title": "Sample Size in Psychological Research Over the Past 30 Years",
     "link_to_resource": "https://doi.org/10.2466/03.11.pms.112.2.331-348",
@@ -31,13 +30,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Research design, sampling methods, & its implications for inferences.",
     "doi": "10.2466/03.11.pms.112.2.331-348",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/23/2023 12:25:18",
     "title": "Preregistration of Modeling Exercises May Not Be Useful",
     "link_to_resource": "https://doi.org/10.1007/s42113-019-00038-x",
@@ -56,5 +55,6 @@
     "doi": "10.1007/s42113-019-00038-x",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

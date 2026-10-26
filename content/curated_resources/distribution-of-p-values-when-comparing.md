@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-08T09:49:58.156Z",
     "title": "Distribution of p-values when comparing two groups",
     "link_to_resource": "http://web.archive.org/web/20260524083341/https://rpsychologist.com/d3/pdist/",
@@ -43,5 +42,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

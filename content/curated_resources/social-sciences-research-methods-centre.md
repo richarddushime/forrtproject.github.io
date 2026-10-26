@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/14/2021 17:11:19",
     "title": "Social Sciences Research Methods Centre Replication Workshop",
     "link_to_resource": "https://osf.io/t2q78/",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/16/2026 0:17:24",
     "title": "EveryTool4U JSON to CSV Converter",
     "link_to_resource": "https://everytool4u.com/tools/json-to-csv",
@@ -38,5 +37,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

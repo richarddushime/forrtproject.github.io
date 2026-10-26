@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-29T18:24:21.628Z",
     "title": "Enhancing transparency of the research process to increase accuracy of findings: A guide for relationship researchers",
     "link_to_resource": "https://doi.org/10.1111/pere.12053",
@@ -39,5 +38,6 @@
     "doi": "10.1111/pere.12053",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

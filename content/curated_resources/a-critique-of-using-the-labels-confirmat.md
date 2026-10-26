@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 8:55:11",
     "title": "A critique of using the labels confirmatory and exploratory in modern psychological research",
     "link_to_resource": "https://doi.org/10.3389/fpsyg.2022.1020770",
@@ -33,12 +32,13 @@
         "Confirmatory Research",
         "Big Data",
         "Machine Learning",
-        "Philosophy Of Science"
+        "Philosophy of Science"
     ],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Exploratory and confirmatory analyses",
     "doi": "10.3389/fpsyg.2022.1020770",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

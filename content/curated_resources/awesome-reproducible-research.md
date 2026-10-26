@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "7/5/2024 8:17:49",
     "title": "Awesome Reproducible Research",
     "link_to_resource": "https://github.com/leipzig/awesome-reproducible-research",
@@ -45,5 +44,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Open Education in Promotion, Tenure, and Faculty Development",
     "link_to_resource": "https://oept.pubpub.org/",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

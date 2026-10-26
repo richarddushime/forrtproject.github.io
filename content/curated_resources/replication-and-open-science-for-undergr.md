@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-06T14:52:48.000Z",
     "title": "Replication and Open Science for Undergraduates",
     "link_to_resource": "https://funderstorms.wordpress.com/2018/05/10/replication-and-open-science-for-undergraduates/",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

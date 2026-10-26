@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2024 8:23:26",
     "title": "Open science and the climate crisis",
     "link_to_resource": "https://doi.org/10.1371/journal.pclm.0000336",
@@ -41,5 +40,6 @@
     "doi": "10.1371/journal.pclm.0000336",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

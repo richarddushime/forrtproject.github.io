@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/31/2020 13:20:41",
     "title": "Crisis research, fast and slow",
     "link_to_resource": "http://www.the100.ci/2020/03/26/crisis-research-fast-and-slow/",
@@ -28,12 +27,13 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Open science"
+        "Open Science"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Reasons to share data and materials",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

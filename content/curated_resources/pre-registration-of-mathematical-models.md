@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/27/2023 10:32:14",
     "title": "Pre-registration of mathematical models",
     "link_to_resource": "https://doi.org/10.1016/j.mbs.2022.108782",
@@ -52,5 +51,6 @@
     "doi": "10.1016/j.mbs.2022.108782",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

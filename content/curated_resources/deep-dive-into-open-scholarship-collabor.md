@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Deep Dive into Open Scholarship: Collaboration and Replication",
     "link_to_resource": "https://www.youtube.com/watch?v=7pVG-G2fxNM&list=PLChfyH8TVDGldpd5KBkDL2udamWRiuj5B&index=3",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

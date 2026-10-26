@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-08T06:17:55.000Z",
     "title": "What is a p-value?",
     "link_to_resource": "http://daniellakens.blogspot.com/2014/08/what-is-p-value_21.html",
@@ -45,5 +44,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "5/24/2021 12:48:30",
     "title": "Berlin|Oxford Summer School 2020",
     "link_to_resource": "https://osf.io/9qy6s/",
@@ -42,5 +41,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

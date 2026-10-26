@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-03T20:37:47.649Z",
     "title": "Statistical Power Problems with Moderated Multiple Regression in Management Research ",
     "link_to_resource": "https://doi.org/10.1177/014920639502100607",
@@ -28,13 +27,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Effect sizes, statistical power, simulations, & confidence intervals.",
     "doi": "10.1177/014920639502100607",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

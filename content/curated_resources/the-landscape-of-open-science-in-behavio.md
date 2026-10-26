@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/12/2024 8:13:19",
     "title": "The landscape of open science in behavioral addiction research: Current practices and future directions",
     "link_to_resource": "https://doi.org/10.1556/2006.2023.00052",
@@ -51,5 +50,6 @@
     "doi": "10.1556/2006.2023.00052",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

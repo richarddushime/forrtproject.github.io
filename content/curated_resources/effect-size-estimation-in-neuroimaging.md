@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-28T13:37:27.140Z",
     "title": "Effect Size Estimation in Neuroimaging. ",
     "link_to_resource": "https://doi.org/10.1001/jamapsychiatry.2016.3356",
@@ -29,13 +28,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Effect sizes, statistical power, simulations, & confidence intervals., Questionable measurement practices (QMPs), validity & reliability issues.",
     "doi": "10.1001/jamapsychiatry.2016.3356",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

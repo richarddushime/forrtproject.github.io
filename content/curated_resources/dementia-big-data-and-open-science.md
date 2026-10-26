@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Dementia, Big Data and Open Science",
     "link_to_resource": "https://www.oecd.org/digital/dementia-bigdata-openscience.htm",
@@ -47,5 +46,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

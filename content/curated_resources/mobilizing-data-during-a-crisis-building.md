@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/12/2025 10:08:21",
     "title": "Mobilizing data during a crisis: Building rapid evidence pipelines using multi-institutional real world data",
     "link_to_resource": "https://doi.org/10.1016/j.hjdsi.2024.100738",
@@ -40,7 +39,7 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Covid-19",
+        "COVID-19",
         "Real World Data",
         "Consortia",
         "Pandemic Response",
@@ -51,5 +50,6 @@
     "doi": "10.1016/j.hjdsi.2024.100738",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

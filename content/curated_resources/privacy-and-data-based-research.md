@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-07T19:08:02.926Z",
     "title": "Privacy and Data-Based Research",
     "link_to_resource": "https://doi.org/10.1257/jep.28.2.75",
@@ -31,13 +30,12 @@
         "Reproducible Analyses",
         "Open Data and Materials"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Reasons not to share: Privacy and security considerations",
     "doi": "10.1257/jep.28.2.75",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-16T11:19:55.592Z",
     "title": "You are not so smart",
     "link_to_resource": "https://youarenotsosmart.com/2017/07/19/yanss-100-the-replication-crisis/",
@@ -43,5 +42,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

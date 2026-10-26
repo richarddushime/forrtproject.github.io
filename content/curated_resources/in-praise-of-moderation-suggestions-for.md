@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/30/2023 12:49:15",
     "title": "In Praise of Moderation: Suggestions for the Scope and Use of Pre-Analysis Plans for RCTs in Economics",
     "link_to_resource": "https://doi.org/10.3386/w26993",
@@ -46,5 +45,6 @@
     "doi": "10.3386/w26993",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

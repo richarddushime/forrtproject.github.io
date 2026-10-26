@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-24T12:13:40.761Z",
     "title": "Star wars: The empirics strike back",
     "link_to_resource": "https://doi.org/10.1257/app.20150044",
@@ -42,5 +41,6 @@
     "doi": "10.1257/app.20150044",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/14/2021 12:08:53",
     "title": "Teaching and Mentoring Open Science",
     "link_to_resource": "https://osf.io/3dp52/",
@@ -38,5 +37,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

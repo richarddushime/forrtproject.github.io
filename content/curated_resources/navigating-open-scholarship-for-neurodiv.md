@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/13/2025 17:56:08",
     "title": "Navigating Open scholarship for neurodivergent researchers",
     "link_to_resource": "https://forrt.org/educators-corner/010-neurodiversity/",
@@ -45,12 +44,20 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Neurodiversity; Neurodivergent Researchers; Research Equity; Diversity in Academia; Psychology; Higher Education; Stigma Reduction; Inclusivity"
+        "Neurodiversity",
+        "Neurodivergent Researchers",
+        "Research Equity",
+        "Diversity in Academia",
+        "Psychology",
+        "Higher Education",
+        "Stigma Reduction",
+        "Inclusivity"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Neurodiversity, Inclusion, Diversity in Academia",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

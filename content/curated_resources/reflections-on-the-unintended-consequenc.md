@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/19/2024 9:32:11",
     "title": "Reflections on the Unintended\nConsequences of the Science\nReform Movement",
     "link_to_resource": "https://doi.org/10.36850/ed4",
@@ -34,14 +33,15 @@
     ],
     "tags": [
         "Metascience",
-        "science reform",
-        "methodology",
-        "philosophy of science"
+        "Science Reform",
+        "Methodology",
+        "Philosophy of Science"
     ],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge, Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Philosophy of science, Ongoing debates (e.g., incentives for and against open science practices)",
     "doi": "10.36850/ed4",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

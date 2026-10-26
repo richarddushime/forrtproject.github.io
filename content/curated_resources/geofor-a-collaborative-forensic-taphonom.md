@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2024 6:05:38",
     "title": "geoFOR: A collaborative forensic taphonomy database for estimating the postmortem interval",
     "link_to_resource": "https://doi.org/10.1016/j.forsciint.2024.111934",
@@ -48,5 +47,6 @@
     "doi": "10.1016/j.forsciint.2024.111934",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

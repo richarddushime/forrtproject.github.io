@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/15/2025 10:48:20",
     "title": "Course on Open Science 101",
     "link_to_resource": "https://forrt.org/educators-corner/017-teaching-os-to-undergraduates/",
@@ -30,12 +29,21 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Open Science Education; Research Integrity; Undergraduate; Reproducibility; Questionable Research Practices; Preregistration; Ethics; Academic Course; Psychological Research Methods"
+        "Open Science Education",
+        "Research Integrity",
+        "Undergraduate",
+        "Reproducibility",
+        "Questionable Research Practices",
+        "Preregistration",
+        "Ethics",
+        "Academic Course",
+        "Psychological Research Methods"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Questionable research practices & their prevalence, Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

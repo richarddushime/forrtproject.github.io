@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-08T09:17:09.608Z",
     "title": "Visualizing a One-Way ANOVA using D3.js",
     "link_to_resource": "http://rpsychologist.com/d3-one-way-anova",
@@ -42,5 +41,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-04T19:21:22.409Z",
     "title": "Raise standards for preclinical cancer research",
     "link_to_resource": "https://doi.org/10.1038/483531a",
@@ -38,5 +37,6 @@
     "doi": "10.1038/483531a",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/30/2023 12:46:47",
     "title": "Improving transparency in observational social science research: A pre-analysis plan approach",
     "link_to_resource": "https://doi.org/10.1016/j.econlet.2018.03.036",
@@ -39,5 +38,6 @@
     "doi": "10.1016/j.econlet.2018.03.036",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

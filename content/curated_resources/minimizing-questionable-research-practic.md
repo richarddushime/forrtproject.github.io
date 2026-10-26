@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/9/2025 10:42:06",
     "title": "Minimizing Questionable Research Practices \u2013 The Role of Norms, Counter Norms, and Micro-Organizational Ethics Discussion",
     "link_to_resource": "https://doi.org/10.1007/s10805-024-09520-z",
@@ -32,17 +31,18 @@
         "Reproducibility and Replicability Knowledge"
     ],
     "tags": [
-        "Questionable research practices",
-        "Scientific norms",
-        "Counter norms",
-        "Organizational climate",
+        "Questionable Research Practices",
+        "Scientific Norms",
+        "Counter Norms",
+        "Organizational Climate",
         "Competition",
-        "Ethics training"
+        "Ethics Training"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Questionable research practices & their prevalence",
     "doi": "10.1007/s10805-024-09520-z",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

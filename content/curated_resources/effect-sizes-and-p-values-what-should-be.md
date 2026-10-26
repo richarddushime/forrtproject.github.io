@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-24T12:39:29.922Z",
     "title": "Effect sizes and p values: What should be reported and what should be replicated? ",
     "link_to_resource": "https://doi.org/10.1111/j.1469-8986.1996.tb02121.x",
@@ -30,13 +29,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Effect sizes, statistical power, simulations, & confidence intervals., Limitations and benefits of NHST, Bayesian & Likelihood approaches.",
     "doi": "10.1111/j.1469-8986.1996.tb02121.x",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

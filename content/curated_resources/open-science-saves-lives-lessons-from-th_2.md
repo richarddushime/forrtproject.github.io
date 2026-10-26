@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 4:40:26",
     "title": "Open science saves lives: lessons from the COVID-19 pandemic",
     "link_to_resource": "https://doi.org/10.1186/s12874-021-01304-y",
@@ -50,5 +49,6 @@
     "doi": "10.1186/s12874-021-01304-y",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

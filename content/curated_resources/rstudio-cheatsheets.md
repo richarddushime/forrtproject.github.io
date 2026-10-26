@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "RStudio Cheatsheets",
     "link_to_resource": "https://www.rstudio.com/resources/cheatsheets/",
@@ -58,5 +57,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

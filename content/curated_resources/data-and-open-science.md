@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/6/2025 4:51:09",
     "title": "DATA AND OPEN SCIENCE",
     "link_to_resource": "https://periodicos.fgv.br/rae/article/view/80767?articlesBySameAuthorPage=3",
@@ -28,13 +27,12 @@
     "FORRT_clusters": [
         "Open Data and Materials"
     ],
-    "tags": [
-        "."
-    ],
+    "tags": [],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Reasons to share data and materials",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

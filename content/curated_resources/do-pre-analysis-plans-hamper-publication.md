@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/13/2023 15:34:09",
     "title": "Do Pre-analysis Plans Hamper Publication?",
     "link_to_resource": "https://doi.org/10.1257/pandp.20201079",
@@ -31,12 +30,13 @@
     ],
     "tags": [
         "Preregistration",
-        "Pre-analysis Plans"
+        "Pre-Analysis Plans"
     ],
     "forrt_clusters_new": "Pre-analysis Planning",
     "forrt_sub_clusters": "Purpose of pre-analysis planning",
     "doi": "10.1257/pandp.20201079",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

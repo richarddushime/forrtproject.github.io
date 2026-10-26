@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/27/2023 10:48:36",
     "title": "Transparency, replicability, and discovery in cognitive aging research: A computational modeling approach",
     "link_to_resource": "https://doi.org/10.1037/pag0000665",
@@ -44,5 +43,6 @@
     "doi": "10.1037/pag0000665",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

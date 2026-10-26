@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 10:05:52",
     "title": "p-Hacking: Its Costs and When It Is Warranted",
     "link_to_resource": "https://doi.org/10.1007/s10670-024-00834-3",
@@ -30,7 +29,7 @@
         "Conceptual and Statistical Knowledge"
     ],
     "tags": [
-        "P-hacking",
+        "P-Hacking",
         "Research Error",
         "Inductive Risk"
     ],
@@ -39,5 +38,6 @@
     "doi": "10.1007/s10670-024-00834-3",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "A consensus-based transparency checklist",
     "link_to_resource": "https://www.nature.com/articles/s41562-019-0772-6",
@@ -102,5 +101,6 @@
     "doi": "10.1038/s41562-019-0772-6",
     "in-clusters": true,
     "pdf name": "0002.pdf",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "7/16/2025 4:44:33",
     "title": "What's New in Neuro",
     "link_to_resource": "https://open.spotify.com/episode/70UjcUqgo61UOy4Z9TavDd?",
@@ -39,5 +38,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

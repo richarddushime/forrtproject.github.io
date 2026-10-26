@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/12/2024 9:56:18",
     "title": "Biomedical Data Repository Concepts and Management Principles",
     "link_to_resource": "https://doi.org/10.1038/s41597-024-03449-z",
@@ -34,13 +33,14 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Biomedical sciences",
-        "Data repositories"
+        "Biomedical Sciences",
+        "Data Repositories"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Repositories, Research data management",
     "doi": "10.1038/s41597-024-03449-z",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

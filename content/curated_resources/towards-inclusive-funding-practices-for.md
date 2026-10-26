@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "11/2/2020 11:13:04",
     "title": "Towards inclusive funding practices for early career researchers",
     "link_to_resource": "https://osf.io/9sfm8/",
@@ -35,5 +34,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

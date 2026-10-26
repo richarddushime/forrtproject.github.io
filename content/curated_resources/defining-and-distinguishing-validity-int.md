@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-06T19:12:14.005Z",
     "title": "Defining and distinguishing validity: Interpretations of score meaning and justifications of test use.",
     "link_to_resource": "https://doi.org/10.1037/a0026975",
@@ -29,13 +28,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Questionable measurement practices (QMPs), validity & reliability issues.",
     "doi": "10.1037/a0026975",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

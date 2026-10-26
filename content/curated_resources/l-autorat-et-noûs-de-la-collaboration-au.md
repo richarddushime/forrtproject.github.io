@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "8/8/2024 5:40:58",
     "title": "L'autorat et \"No\u00fbs\" : De la collaboration au rapport de force dans la production scientifique",
     "link_to_resource": "https://hdl.handle.net/2268/318512",
@@ -36,12 +35,16 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "authorship; research ethics; publication ethics; research integrity"
+        "Authorship",
+        "Research Ethics",
+        "Publication Ethics",
+        "Research Integrity"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Structures and incentives in academia, Citation Politics & Practices",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

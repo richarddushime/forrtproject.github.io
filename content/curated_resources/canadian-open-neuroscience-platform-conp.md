@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2024 5:39:56",
     "title": "Canadian Open Neuroscience Platform (CONP) Portal",
     "link_to_resource": "https://conp.ca/",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

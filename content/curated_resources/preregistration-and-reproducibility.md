@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/30/2023 12:44:12",
     "title": "Preregistration and reproducibility",
     "link_to_resource": "https://doi.org/10.1016/j.joep.2019.01.006",
@@ -42,5 +41,6 @@
     "doi": "10.1016/j.joep.2019.01.006",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

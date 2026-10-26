@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/21/2026 16:36:26",
     "title": "AI sanctions screening study: The OFAC List Said Yes. Google AI Said No.",
     "link_to_resource": "https://www.sanctionskit.com/resources/ai-sanctions-screening-study",
@@ -47,5 +46,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

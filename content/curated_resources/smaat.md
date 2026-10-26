@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "7/22/2026 2:49:59",
     "title": "SMAAT",
     "link_to_resource": "https://smaat.eu/",
@@ -45,5 +44,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

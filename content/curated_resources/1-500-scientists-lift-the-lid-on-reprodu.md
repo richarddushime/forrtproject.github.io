@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-28T13:13:41.155Z",
     "title": "1,500 scientists lift the lid on reproducibility",
     "link_to_resource": "https://doi.org/10.1038/533452a",
@@ -38,5 +37,6 @@
     "doi": "10.1038/533452a",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/13/2025 12:08:53",
     "title": "Addressing the issue of representation in an undergraduate psych class",
     "link_to_resource": "https://forrt.org/educators-corner/001-representation-heatherurry/",
@@ -30,12 +29,22 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Psychology Education; Representation in Science; Diversity & Inclusion; Student Engagement; Higher Education; Undergraduate Teaching; Equity in Academia; Gender Bias; \nPedagogy; Academic Reform"
+        "Psychology Education",
+        "Representation in Science",
+        "Diversity & Inclusion",
+        "Student Engagement",
+        "Higher Education",
+        "Undergraduate Teaching",
+        "Equity in Academia",
+        "Gender Bias",
+        "Pedagogy",
+        "Academic Reform"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Inclusion, Equity",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/19/2024 4:33:23",
     "title": "On the Use and Misuses of Preregistration: A Reply to Klonsky (2024)",
     "link_to_resource": "https://doi.org/10.31234/osf.io/g7dn2",
@@ -38,12 +37,13 @@
         "Falsification",
         "Severity",
         "Open Science",
-        "Methodological Reform."
+        "Methodological Reform"
     ],
     "forrt_clusters_new": "Pre-analysis Planning, Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Ongoing debates (e.g., incentives for and against open science practices), Understanding the types of preregistration and writing one.",
     "doi": "10.31234/osf.io/g7dn2",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-10T19:32:33.133Z",
     "title": "Bayes for Beginners: Probability and Likelihood",
     "link_to_resource": "https://www.psychologicalscience.org/observer/bayes-for-beginners-probability-and-likelihood",
@@ -27,13 +26,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Limitations and benefits of NHST, Bayesian & Likelihood approaches.",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

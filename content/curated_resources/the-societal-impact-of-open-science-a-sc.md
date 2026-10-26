@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/9/2025 8:52:55",
     "title": "The societal impact of Open Science\u2013a scoping review ",
     "link_to_resource": "https://doi.org/10.31235/osf.io/tqrwg",
@@ -49,5 +48,6 @@
     "doi": "10.31235/osf.io/tqrwg",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

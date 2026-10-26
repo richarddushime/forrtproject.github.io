@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-26T14:31:43.981Z",
     "title": "Adjusting for Publication Bias in MetaAnalysis. Perspectives on Psychological Science, 11(5), 730\u2013749. ",
     "link_to_resource": "http://doi.org/10.1177/1745691616662243",
@@ -33,13 +32,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Effect sizes, statistical power, simulations, & confidence intervals., Limitations and benefits of NHST, Bayesian & Likelihood approaches.",
     "doi": "10.1177/1745691616662243",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-05T18:23:03.111Z",
     "title": "Are We Wasting a Good Crisis? The Availability of Psychological Research Data after the Storm",
     "link_to_resource": "https://doi.org/http://doi.org/10.1525/collabra.13",
@@ -41,5 +40,6 @@
     "doi": "10.1525/collabra.13",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

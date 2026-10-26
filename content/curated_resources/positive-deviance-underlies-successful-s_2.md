@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 3:32:51",
     "title": "Positive Deviance Underlies Successful Science: Normative Methodologies Risk Throwing out the Baby With the Bathwater",
     "link_to_resource": "https://doi.org/10.1177/10892680241235120",
@@ -32,12 +31,13 @@
     "tags": [
         "Deviance",
         "Open Science",
-        "Evolution Of Science"
+        "Evolution of Science"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "History of the replication crisis & credibility revolution",
     "doi": "10.1177/10892680241235120",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

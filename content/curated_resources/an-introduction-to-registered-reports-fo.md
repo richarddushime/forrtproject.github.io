@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "An Introduction to Registered Reports for the Research Funder Community",
     "link_to_resource": "https://www.youtube.com/watch?v=AzEXsUlHy-8",
@@ -45,5 +44,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

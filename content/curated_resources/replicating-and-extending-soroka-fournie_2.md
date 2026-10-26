@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "7/16/2025 4:37:13",
     "title": "Replicating and Extending Soroka, Fournier, and Nir: Negative News Increases Arousal and Negative Affect",
     "link_to_resource": "https://www.cogitatiopress.com/mediaandcommunication/article/view/7807",
@@ -43,5 +42,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

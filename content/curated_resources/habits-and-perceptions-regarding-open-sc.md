@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/18/2023 10:58:26",
     "title": "Habits and perceptions regarding open science by researchers from Spanish institutions",
     "link_to_resource": "https://doi.org/10.1371/journal.pone.0288313",
@@ -61,5 +60,6 @@
     "doi": "10.1371/journal.pone.0288313",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

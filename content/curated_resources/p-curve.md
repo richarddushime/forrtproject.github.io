@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-14T10:09:38.349Z",
     "title": "P-curve",
     "link_to_resource": "http://willgervais.com/blog/2014/7/20/my-p-curve",
@@ -36,5 +35,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

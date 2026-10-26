@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-10T19:01:00.577Z",
     "title": "Introduction to Meta-Analysis",
     "link_to_resource": "https://doi.org/10.1002/9780470743386",
@@ -33,13 +32,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Effect sizes, statistical power, simulations, & confidence intervals.",
     "doi": "10.1002/9780470743386",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

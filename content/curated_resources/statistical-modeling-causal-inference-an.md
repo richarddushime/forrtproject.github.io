@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-10T08:57:00.500Z",
     "title": "Statistical Modeling, Causal Inference, and Social Science",
     "link_to_resource": "http://andrewgelman.com/",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

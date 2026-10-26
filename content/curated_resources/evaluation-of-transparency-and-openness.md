@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/16/2023 14:06:33",
     "title": "Evaluation of Transparency and Openness Guidelines in Physical Therapy Journals",
     "link_to_resource": "https://doi.org/10.1093/ptj/pzad133",
@@ -51,5 +50,6 @@
     "doi": "10.1093/ptj/pzad133",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

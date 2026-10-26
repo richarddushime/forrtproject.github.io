@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-10T08:24:38.748Z",
     "title": "The Open Science Training Handbook",
     "link_to_resource": "https://open-science-training-handbook.gitbook.io/book/",
@@ -43,13 +42,12 @@
         "Reproducible Analyses",
         "Open Data and Materials"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "FAIR principles applied to Education & Training",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

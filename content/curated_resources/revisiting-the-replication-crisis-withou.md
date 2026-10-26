@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 9:32:48",
     "title": "Revisiting the replication crisis without false positives",
     "link_to_resource": "https://doi.org/10.31235/osf.io/rkyf7",
@@ -39,12 +38,13 @@
         "Metascience",
         "Replication",
         "Reproducibility",
-        "Statistics."
+        "Statistics"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution, Replication and meta-research",
     "forrt_sub_clusters": "Meta-research, Ongoing debates (e.g., incentives for and against open science practices)",
     "doi": "10.31235/osf.io/rkyf7",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Clinical trial registration and reporting: a survey of academic organizations in the United States",
     "link_to_resource": "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1042-6",
@@ -53,5 +52,6 @@
     "doi": "10.1186/s12916-018-1042-6",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

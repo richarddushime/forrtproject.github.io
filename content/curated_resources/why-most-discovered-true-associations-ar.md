@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-05T19:20:42.716Z",
     "title": "Why Most Discovered True Associations Are Inflated",
     "link_to_resource": "https://doi.org/10.1097/EDE.0b013e31818131e7",
@@ -39,5 +38,6 @@
     "doi": "10.1097/EDE.0b013e31818131e7",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

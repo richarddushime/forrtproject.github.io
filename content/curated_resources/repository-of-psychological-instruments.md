@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "9/13/2021 13:24:28",
     "title": "Repository of Psychological Instruments in Serbian (REPOPSI)",
     "link_to_resource": "https://osf.io/5zb8p/",
@@ -46,5 +45,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

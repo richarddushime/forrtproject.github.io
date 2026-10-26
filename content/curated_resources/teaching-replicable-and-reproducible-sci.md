@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/13/2020 9:15:36",
     "title": "Teaching replicable and reproducible science",
     "link_to_resource": "https://osf.io/x7d45/",
@@ -36,5 +35,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

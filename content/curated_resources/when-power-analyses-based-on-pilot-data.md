@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-05T18:18:35.045Z",
     "title": "When power analyses based on pilot data are biased: Inaccurate effect size estimators and follow-up bias",
     "link_to_resource": "https://doi.org/10.1016/j.jesp.2017.09.004",
@@ -28,13 +27,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Effect sizes, statistical power, simulations, & confidence intervals., Research design, sampling methods, & its implications for inferences.",
     "doi": "10.1016/j.jesp.2017.09.004",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

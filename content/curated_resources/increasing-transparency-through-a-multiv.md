@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-27T16:10:49.878Z",
     "title": "Increasing transparency through a multiverse analysis.",
     "link_to_resource": "https://doi.org/10.1177/1745691616658637",
@@ -47,5 +46,6 @@
     "doi": "10.1177/1745691616658637",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/18/2023 11:09:45",
     "title": "Systematic Reviews and Meta-Analysis",
     "link_to_resource": "https://oli.cmu.edu/courses/systematic-reviews-and-meta-analysis-o-f/",
@@ -47,12 +46,13 @@
     ],
     "tags": [
         "Systematic Review",
-        "Meta-Analysis"
+        "Meta-analysis"
     ],
     "forrt_clusters_new": "Transparency and reproducibility in computation and analysis",
     "forrt_sub_clusters": "Analysis and reporting in qualitative research",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

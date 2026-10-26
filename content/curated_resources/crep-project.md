@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-11T10:56:42.741Z",
     "title": "CREP project",
     "link_to_resource": "https://osf.io/wfc6u/",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

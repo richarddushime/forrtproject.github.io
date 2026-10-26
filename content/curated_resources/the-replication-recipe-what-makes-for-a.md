@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-01T19:00:34.939Z",
     "title": "The Replication Recipe: What makes for a convincing replication? ",
     "link_to_resource": "https://doi.org/10.1016/j.jesp.2013.10.005",
@@ -39,5 +38,6 @@
     "doi": "10.1016/j.jesp.2013.10.005",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

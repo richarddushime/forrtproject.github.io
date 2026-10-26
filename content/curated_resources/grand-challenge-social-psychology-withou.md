@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/20/2025 5:31:48",
     "title": "Grand challenge: social psychology without hubris",
     "link_to_resource": "https://doi.org/10.3389/frsps.2023.1283272",
@@ -36,5 +35,6 @@
     "doi": "10.3389/frsps.2023.1283272",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

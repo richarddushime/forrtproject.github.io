@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-03T20:23:31.650Z",
     "title": "The Extent and Consequences of P-Hacking in Science",
     "link_to_resource": "http://doi.org/10.1371/journal.pbio.1002106",
@@ -37,13 +36,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen)., Exploratory and confirmatory analyses",
     "doi": "10.1371/journal.pbio.1002106",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

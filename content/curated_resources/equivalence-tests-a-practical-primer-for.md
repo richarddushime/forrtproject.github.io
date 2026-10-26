@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Equivalence Tests: A Practical Primer for t Tests, Correlations, and Meta-Analyses",
     "link_to_resource": "https://doi.org/10.1177/1948550617697177",
@@ -37,5 +36,6 @@
     "doi": "10.1177/1948550617697177",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "4/8/2025 9:09:25",
     "title": "Open Science education through student participation",
     "link_to_resource": "https://forrt.org/pedagogies/003-crep/",
@@ -30,12 +29,14 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "CREP; Pedagogy"
+        "CREP",
+        "Pedagogy"
     ],
     "forrt_clusters_new": "Ways of Working",
     "forrt_sub_clusters": "Research with students (under- and graduate)",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

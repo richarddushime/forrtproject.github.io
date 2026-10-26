@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/20/2025 5:04:09",
     "title": "Knowledge Rights 21",
     "link_to_resource": "https://www.knowledgerights21.org/",
@@ -54,5 +53,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

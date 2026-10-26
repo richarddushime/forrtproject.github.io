@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "4/18/2026 4:40:42",
     "title": "Open Science Sprint Content",
     "link_to_resource": "https://opensciency.github.io/sprint-content/",
@@ -44,5 +43,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

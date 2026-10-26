@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Intro to R and RStudio for Genomics",
     "link_to_resource": "https://datacarpentry.org/genomics-r-intro/",
@@ -52,5 +51,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

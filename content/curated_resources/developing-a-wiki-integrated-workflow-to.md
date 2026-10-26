@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "9/15/2026 13:27:07",
     "title": "Developing a wiki-integrated workflow to build a living review on just sustainability transitions",
     "link_to_resource": "https://meta.wikimedia.org/wiki/Research:Developing_a_wiki-integrated_workflow_to_build_a_living_review_on_just_sustainability_transitions#Project_outputs",
@@ -39,7 +38,7 @@
     ],
     "tags": [
         "Linked open data",
-        "Literature review",
+        "Literature Review",
         "Wikidata",
         "Wikiversity",
         "Bibliographic metadata"
@@ -49,5 +48,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

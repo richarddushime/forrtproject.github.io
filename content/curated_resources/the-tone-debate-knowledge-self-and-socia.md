@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/23/2023 12:54:07",
     "title": "The Tone Debate: Knowledge, Self, and Social Order",
     "link_to_resource": "https://doi.org/10.1177/10892680211015636",
@@ -46,5 +45,6 @@
     "doi": "10.1177/10892680211015636",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

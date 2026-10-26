@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-24T12:19:43.126Z",
     "title": "Abandon statistical significance. ",
     "link_to_resource": "https://doi.org/10.1080/00031305.2018.1527253",
@@ -36,13 +35,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Limitations and benefits of NHST, Bayesian & Likelihood approaches.",
     "doi": "10.1080/00031305.2018.1527253",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

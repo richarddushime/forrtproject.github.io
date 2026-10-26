@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-10T19:24:51.647Z",
     "title": "Recommendations for Increasing Replicability in Psychology",
     "link_to_resource": "https://doi.org/10.1037/14805-038",
@@ -45,13 +44,12 @@
         "Reproducibility and Replicability Knowledge",
         "Replication Research"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "10.1037/14805-038",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

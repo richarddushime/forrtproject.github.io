@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-07T19:27:16.108Z",
     "title": "Sample Size Planning for the Standardized Mean Difference: Accuracy in Parameter Estimation via Narrow Confidence Intervals",
     "link_to_resource": "https://doi.org/10.1037/1082-989X.11.4.363",
@@ -30,13 +29,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Effect sizes, statistical power, simulations, & confidence intervals., Research design, sampling methods, & its implications for inferences.",
     "doi": "10.1037/1082-989X.11.4.363",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

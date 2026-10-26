@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/9/2025 9:49:47",
     "title": "Design and validation of a conceptual model regarding impact of open science on healthcare research processes",
     "link_to_resource": "https://doi.org/10.1186/s12913-024-10764-z",
@@ -45,5 +44,6 @@
     "doi": "10.1186/s12913-024-10764-z",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

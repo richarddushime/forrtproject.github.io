@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/19/2024 4:38:26",
     "title": "Catalyzing communities of research rigour champions",
     "link_to_resource": "https://doi.org/10.1093/braincomms/fcae120",
@@ -49,5 +48,6 @@
     "doi": "10.1093/braincomms/fcae120",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

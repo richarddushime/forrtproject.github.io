@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/12/2025 10:10:38",
     "title": "Primer on Reproducible Research in R: Enhancing Transparency and Scientific Rigor",
     "link_to_resource": "https://doi.org/10.3390/clockssleep6010001",
@@ -44,5 +43,6 @@
     "doi": "10.3390/clockssleep6010001",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

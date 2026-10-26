@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-08T09:04:29.640Z",
     "title": "Retraction Watch: Michael LaCour archives",
     "link_to_resource": "http://retractionwatch.com/category/by-author/lacour/",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

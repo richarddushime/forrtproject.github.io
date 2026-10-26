@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/13/2025 13:14:43",
     "title": "Qualitative Open Science Practices",
     "link_to_resource": "https://forrt.org/educators-corner/006-qualitative-os-practices/",
@@ -31,12 +30,19 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Qualitative Research; Open Access; Open Materials; Educational Research; Preregistration; Ethics; Transparency"
+        "Qualitative Research",
+        "Open Access",
+        "Open Materials",
+        "Educational Research",
+        "Preregistration",
+        "Ethics",
+        "Transparency"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Research data management",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

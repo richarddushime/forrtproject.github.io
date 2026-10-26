@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "11/21/2020 7:20:31",
     "title": "A. Solomon Kurz website",
     "link_to_resource": "https://solomonkurz.netlify.app/blog/",
@@ -34,5 +33,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

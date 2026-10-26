@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/31/2020 13:16:26",
     "title": "Open Science Saves Lives: Lessons from the COVID-19 Pandemic",
     "link_to_resource": "https://www.biorxiv.org/content/10.1101/2020.08.13.249847v2",
@@ -36,12 +35,13 @@
         "Replication Research"
     ],
     "tags": [
-        "Open science"
+        "Open Science"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Ongoing debates (e.g., incentives for and against open science practices), Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "10.1101/2020.08.13.249847v2",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

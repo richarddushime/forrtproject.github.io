@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/13/2025 12:56:15",
     "title": "Teaching the why and how of replication studies",
     "link_to_resource": "https://forrt.org/educators-corner/004-teaching-why-how-replication/",
@@ -39,12 +38,20 @@
         "Replication Research"
     ],
     "tags": [
-        "Replication; Credibility Crisis; Psychology; Research Methods; Resource Planning; Preregistration; Teaching; Workshop"
+        "Replication",
+        "Credibility Crisis",
+        "Psychology",
+        "Research Methods",
+        "Resource Planning",
+        "Preregistration",
+        "Teaching",
+        "Workshop"
     ],
     "forrt_clusters_new": "Replication and meta-research, Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Conducting replication studies; challenges, limitations, and comparisons with the original study, History of the replication crisis & credibility revolution",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

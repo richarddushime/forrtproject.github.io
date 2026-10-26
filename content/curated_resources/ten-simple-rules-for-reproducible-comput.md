@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Ten Simple Rules for Reproducible Computational Research",
     "link_to_resource": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285",
@@ -47,5 +46,6 @@
     "doi": "10.1371/journal.pcbi.1003285",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

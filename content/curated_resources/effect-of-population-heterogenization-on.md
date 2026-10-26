@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Effect of Population Heterogenization on the Reproducibility of Mouse Behavior: A Multi-Laboratory Study",
     "link_to_resource": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016461",
@@ -60,5 +59,6 @@
     "doi": "10.1371/journal.pone.0016461",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "A test of the diffusion model explanation for the worst performance rule using preregistration and blinding",
     "link_to_resource": "https://doi.org/10.3758/s13414-017-1304-y",
@@ -42,5 +41,6 @@
     "doi": "10.3758/s13414-017-1304-y",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

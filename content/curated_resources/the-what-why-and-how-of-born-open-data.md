@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-05T18:25:25.640Z",
     "title": "The what, why, and how of born-open data",
     "link_to_resource": "https://doi.org/10.3758/s13428-015-0630-z",
@@ -31,13 +30,12 @@
         "Reproducible Analyses",
         "Open Data and Materials"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Publication Sharing, FAIR data and materials",
     "forrt_sub_clusters": "Different shades of open access, Reasons to share data and materials, Research data management, Repositories",
     "doi": "10.3758/s13428-015-0630-z",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

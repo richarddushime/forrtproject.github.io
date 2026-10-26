@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/9/2026 8:58:18",
     "title": "DES RAP Book: Reproducible Discrete-Event Simulation in Python and R",
     "link_to_resource": "https://pythonhealthdatascience.github.io/des_rap_book/",
@@ -42,14 +41,15 @@
     ],
     "tags": [
         "rap",
-        "simulation",
+        "Simulation",
         "reproducible",
-        "book"
+        "Book"
     ],
     "forrt_clusters_new": "Transparency and reproducibility in computation and analysis",
     "forrt_sub_clusters": "Computational reproducibility",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

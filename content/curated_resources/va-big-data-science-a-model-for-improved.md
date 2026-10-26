@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/12/2025 10:29:53",
     "title": "VA Big Data Science: A Model for Improved National Pandemic Response Present and Future",
     "link_to_resource": " https://doi.org/10.12788/fp.0412",
@@ -35,7 +34,7 @@
     "tags": [
         "Veteran Affairs",
         "Data Sharing",
-        "Covid-19",
+        "COVID-19",
         "Medical Research",
         "Healthcare"
     ],
@@ -44,5 +43,6 @@
     "doi": "10.12788/fp.0412",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/10/2025 12:23:56",
     "title": "Research Integrity and Open Science I (PSYC123)",
     "link_to_resource": "https://osf.io/km34v/wiki/PSYC123-Research%20Integrity%20and%20Open%20Science%201/",
@@ -33,12 +32,15 @@
         "Preregistration"
     ],
     "tags": [
-        "Scientific Process; Psychological Research; Problematic Practices"
+        "Scientific Process",
+        "Psychological Research",
+        "Problematic Practices"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "History of the replication crisis & credibility revolution, Questionable research practices & their prevalence",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

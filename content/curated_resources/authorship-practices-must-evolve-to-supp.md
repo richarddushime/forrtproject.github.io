@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/16/2023 13:57:50",
     "title": "Authorship practices must evolve to support collaboration and open science",
     "link_to_resource": "https://doi.org/10.1371/journal.pbio.3002364",
@@ -57,5 +56,6 @@
     "doi": "10.1371/journal.pbio.3002364",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

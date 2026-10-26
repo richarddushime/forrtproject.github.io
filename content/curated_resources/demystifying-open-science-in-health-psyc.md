@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2024 5:32:10",
     "title": "Demystifying Open Science in Health Psychology and Behavioral Medicine: A Practical Guide to Registered Reports and Data Notes",
     "link_to_resource": "https://doi.org/10.31234/osf.io/bgudc",
@@ -49,5 +48,6 @@
     "doi": "10.31234/osf.io/bgudc",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

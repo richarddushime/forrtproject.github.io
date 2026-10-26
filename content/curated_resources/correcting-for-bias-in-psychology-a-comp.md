@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-06T19:05:13.758Z",
     "title": "Correcting for Bias in Psychology: A Comparison of Meta-Analytic Methods",
     "link_to_resource": "https://doi.org/10.1177/2515245919847196",
@@ -44,5 +43,6 @@
     "doi": "10.1177/2515245919847196",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

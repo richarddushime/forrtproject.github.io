@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/30/2023 12:59:56",
     "title": "The Problem of New Evidence: P-Hacking and Pre-Analysis Plans",
     "link_to_resource": "http://dx.doi.org/10.33392/diam.1587",
@@ -37,7 +36,7 @@
         "Pre-Analysis Plans",
         "Replication Crisis",
         "Predictivism",
-        "P-hacking",
+        "P-Hacking",
         "Philosophy"
     ],
     "forrt_clusters_new": "Pre-analysis Planning",
@@ -45,5 +44,6 @@
     "doi": "10.33392/diam.1587",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

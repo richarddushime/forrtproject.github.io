@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/12/2025 10:26:40",
     "title": "A pathway to strengthening open science: comments on the draft South African Ethics in Health Research Guidelines",
     "link_to_resource": "https://doi.org/10.3389/fphar.2024.1304950",
@@ -43,5 +42,6 @@
     "doi": "10.3389/fphar.2024.1304950",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

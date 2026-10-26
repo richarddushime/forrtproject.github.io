@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-04T19:29:29.055Z",
     "title": "Easy preregistration will beneft any research",
     "link_to_resource": "https://doi.org/10.1038/s41562-018-0294-7",
@@ -29,13 +28,12 @@
     "FORRT_clusters": [
         "Preregistration"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Pre-analysis Planning",
     "forrt_sub_clusters": "Understanding the types of preregistration and writing one.",
     "doi": "10.1038/s41562-018-0294-7",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

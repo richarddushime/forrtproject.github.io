@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/14/2023 9:15:20",
     "title": "Trial registration 10 years on",
     "link_to_resource": "https://doi.org/10.1136/bmj.h3572",
@@ -41,5 +40,6 @@
     "doi": "10.1136/bmj.h3572",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

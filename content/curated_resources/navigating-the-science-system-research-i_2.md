@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 4:01:54",
     "title": "Navigating the Science System: Research Integrity and Academic Survival Strategies",
     "link_to_resource": "https://doi.org/10.1007/s11948-024-00467-3",
@@ -35,12 +34,13 @@
         "Questionable Research Practices",
         "Epistemology",
         "Labor",
-        "Research culture"
+        "Research Culture"
     ],
     "forrt_clusters_new": "Research Integrity, Academic Structures and Institutions",
     "forrt_sub_clusters": "Questionable Research Practices and Responsible Research Practices, Principles and Frameworks of Research Integrity, Structures and incentives in academia",
     "doi": "10.1007/s11948-024-00467-3",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

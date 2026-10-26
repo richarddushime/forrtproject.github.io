@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "9/18/2023 8:56:51",
     "title": "SnapShot: Reporting practices for publishing results with human PSCs and tissue stem cells",
     "link_to_resource": "http://dx.doi.org/10.1016/j.stemcr.2023.08.010",
@@ -50,5 +49,6 @@
     "doi": "10.1016/j.stemcr.2023.08.010",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

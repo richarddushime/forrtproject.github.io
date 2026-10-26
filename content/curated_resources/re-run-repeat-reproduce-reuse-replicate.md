@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions",
     "link_to_resource": "https://doi.org/10.3389/fninf.2017.00069",
@@ -44,5 +43,6 @@
     "doi": "10.3389/fninf.2017.00069",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

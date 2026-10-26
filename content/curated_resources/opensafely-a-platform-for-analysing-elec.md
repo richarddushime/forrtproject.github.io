@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/19/2024 5:08:23",
     "title": "\nOpenSAFELY: A platform for analysing electronic health records designed for reproducible research",
     "link_to_resource": "https://doi.org/10.1002/pds.5815",
@@ -83,5 +82,6 @@
     "doi": "10.1002/pds.5815",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

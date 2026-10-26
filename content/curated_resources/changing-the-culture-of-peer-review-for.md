@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/5/2023 16:23:03",
     "title": "Changing the Culture of Peer Review for a More Inclusive and Equitable Psychological Science",
     "link_to_resource": "https://doi.org/10.31234/osf.io/435xz",
@@ -29,16 +28,17 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Peer review",
-        "open review",
-        "diversity",
-        "inclusion",
-        "equity"
+        "Peer Review",
+        "Open Review",
+        "Diversity",
+        "Inclusion",
+        "Equity"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Research assessment, proposals, and reforms, Equity, Inclusion",
     "doi": "10.31234/osf.io/435xz",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

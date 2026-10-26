@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "11/18/2023 11:35:53",
     "title": "NIH Scientific Data Sharing",
     "link_to_resource": "https://sharing.nih.gov/",
@@ -44,7 +43,7 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "data sharing",
+        "Data Sharing",
         "federal policy"
     ],
     "forrt_clusters_new": "FAIR data and materials",
@@ -52,5 +51,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

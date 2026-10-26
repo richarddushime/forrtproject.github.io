@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "5/22/2023 6:43:09",
     "title": "Teaching Replication to Graduate Students",
     "link_to_resource": "https://doi.org/10.1177/0092055X19867996",
@@ -43,5 +42,6 @@
     "doi": "10.1177/0092055X19867996",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

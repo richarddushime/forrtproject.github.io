@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/13/2025 18:20:45",
     "title": "Introducing Nowhere Lab",
     "link_to_resource": "https://forrt.org/educators-corner/013-introducing-nowhere-lab/",
@@ -30,12 +29,14 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Remote Lab; Global Lab"
+        "Remote Lab",
+        "Global Lab"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions, Ways of Working",
     "forrt_sub_clusters": "Big team science, Accessibility",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

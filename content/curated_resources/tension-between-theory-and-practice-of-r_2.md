@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 5:34:04",
     "title": "Tension Between Theory and Practice of Replication",
     "link_to_resource": "https://doi.org/10.36850/mr9",
@@ -29,11 +28,11 @@
         "Reproducibility and Replicability Knowledge"
     ],
     "tags": [
-        "Formal theory",
+        "Formal Theory",
         "Replication",
         "Reproducibility",
-        "Meta-hypothesis",
-        "Multi-site replications",
+        "Meta-Hypothesis",
+        "Multi-site Replications",
         "Scientific Reform"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
@@ -41,5 +40,6 @@
     "doi": "10.36850/mr9",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

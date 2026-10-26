@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/6/2025 5:55:50",
     "title": "Ten Strategies to Foster Open Science in Psychology and Beyond",
     "link_to_resource": "https://doi.org/10.1525/collabra.57545",
@@ -41,5 +40,6 @@
     "doi": "10.1525/collabra.57545",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

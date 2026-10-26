@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-06T19:06:47.916Z",
     "title": "Short, Sweet, and Problematic? The Rise of the Short Report in Psychological Science",
     "link_to_resource": "https://doi.org/10.1177/1745691611427304",
@@ -40,5 +39,6 @@
     "doi": "10.1177/1745691611427304",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/20/2025 15:40:12",
     "title": "Towards a culture of open scholarship: the role of pedagogical communities",
     "link_to_resource": "https://doi.org/10.1186/s13104-022-05944-1",
@@ -48,12 +47,18 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Open Scholarship; Higher Education; Pedagogy; Mentorship; Policy; Sustainable Change"
+        "Open Scholarship",
+        "Higher Education",
+        "Pedagogy",
+        "Mentorship",
+        "Policy",
+        "Sustainable Change"
     ],
     "forrt_clusters_new": "Ways of Working, Academic Structures and Institutions",
     "forrt_sub_clusters": "Big team science, Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication, Structures and incentives in academia",
     "doi": "10.1186/s13104-022-05944-1",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

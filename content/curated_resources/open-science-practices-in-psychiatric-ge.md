@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2024 7:59:05",
     "title": "Open Science Practices in Psychiatric Genetics: A Primer",
     "link_to_resource": "https://doi.org/10.1016/j.bpsgos.2023.08.007",
@@ -46,5 +45,6 @@
     "doi": "10.1016/j.bpsgos.2023.08.007",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

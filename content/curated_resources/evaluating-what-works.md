@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "7/2/2025 13:27:56",
     "title": "Evaluating What Works ",
     "link_to_resource": "https://bookdown.org/dorothy_bishop/Evaluating_What_Works/",
@@ -29,12 +28,16 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Intervention Research; Bias; Evaluation; Statistical Literacy"
+        "Intervention Research",
+        "Bias",
+        "Evaluation",
+        "Statistical Literacy"
     ],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Research design, sampling methods, & its implications for inferences., The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen).",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

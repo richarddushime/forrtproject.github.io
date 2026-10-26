@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-08T07:17:17.000Z",
     "title": "Good Science, Bad Science",
     "link_to_resource": "http://www.ejwagenmakers.com/GSBS/GSBS.html",
@@ -42,5 +41,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

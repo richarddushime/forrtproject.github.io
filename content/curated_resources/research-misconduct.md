@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/13/2025 7:10:06",
     "title": "Research Misconduct",
     "link_to_resource": "https://www.research.uky.edu/research-misconduct/research-misconduct-news",
@@ -46,5 +45,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

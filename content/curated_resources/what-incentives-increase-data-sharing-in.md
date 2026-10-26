@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "What incentives increase data sharing in health and medical research? A systematic review",
     "link_to_resource": "https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-017-0028-9",
@@ -40,5 +39,6 @@
     "doi": "10.1186/s41073-017-0028-9",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

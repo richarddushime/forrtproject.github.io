@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/24/2024 16:05:13",
     "title": "Establishing trust in automated reasoning",
     "link_to_resource": "https://doi.org/10.31222/osf.io/nt96q",
@@ -30,16 +29,17 @@
         "Reproducible Analyses"
     ],
     "tags": [
-        "computational science",
-        "machine learning",
-        "reliability",
+        "Computational Science",
+        "Machine Learning",
+        "Reliability",
         "reviewability",
-        "software"
+        "Software"
     ],
     "forrt_clusters_new": "Transparency and reproducibility in computation and analysis",
     "forrt_sub_clusters": "Computational reproducibility, Research software engineering",
     "doi": "10.31222/osf.io/nt96q",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

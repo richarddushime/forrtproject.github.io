@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/20/2025 5:15:27",
     "title": "Good supervision and mentoring: a key part of responsible research cultures",
     "link_to_resource": "https://www.youtube.com/watch?v=ugzkjpV2Kbo&t=526s",
@@ -39,5 +38,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

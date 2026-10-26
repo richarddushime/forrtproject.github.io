@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/13/2025 12:41:09",
     "title": "Using the 'Transparency Checklist Guidelines' as an Educational tool",
     "link_to_resource": "https://forrt.org/educators-corner/002-transparencychecklist-balazsaczel/",
@@ -34,12 +33,21 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Research Transparency; Transparency Checklist; Student Assignments; Higher Education; Undergraduate Training; Pedagogy; Supervision; Reproducibility; Teaching"
+        "Research Transparency",
+        "Transparency Checklist",
+        "Student Assignments",
+        "Higher Education",
+        "Undergraduate Training",
+        "Pedagogy",
+        "Supervision",
+        "Reproducibility",
+        "Teaching"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

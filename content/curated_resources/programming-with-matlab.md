@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Programming with MATLAB",
     "link_to_resource": "http://swcarpentry.github.io/matlab-novice-inflammation/",
@@ -44,5 +43,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

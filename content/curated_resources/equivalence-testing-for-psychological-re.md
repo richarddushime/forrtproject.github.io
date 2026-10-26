@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Equivalence Testing for Psychological Research: A Tutorial",
     "link_to_resource": "https://doi.org/10.1177/2515245918770963",
@@ -45,5 +44,6 @@
     "doi": "10.1177/2515245918770963",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "4/8/2025 9:22:49",
     "title": "From mental-health breakfast interventions to evidence-based practice",
     "link_to_resource": "https://forrt.org/pedagogies/004-thomas-rhys-evans/",
@@ -32,12 +31,17 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Teaching; Pedagogy; Critical Skills; Evidence Based Practice; Module"
+        "Teaching",
+        "Pedagogy",
+        "Critical Skills",
+        "Evidence Based Practice",
+        "Module"
     ],
     "forrt_clusters_new": "Ways of Working",
     "forrt_sub_clusters": "Research with students (under- and graduate)",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

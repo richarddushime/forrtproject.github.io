@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-27T17:18:52.283Z",
     "title": "Estimating the reproducibility of psychological science",
     "link_to_resource": "https://doi.org/10.1126/science.aac4716",
@@ -39,5 +38,6 @@
     "doi": "10.1126/science.aac4716",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

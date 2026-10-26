@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/14/2021 17:09:36",
     "title": "Open and reproducible science",
     "link_to_resource": "https://osf.io/swcv2/",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

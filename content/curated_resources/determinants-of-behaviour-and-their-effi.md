@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/6/2025 4:28:38",
     "title": "Determinants of behaviour and their efficacy as targets of behavioural change interventions",
     "link_to_resource": "https://doi.org/10.1038/s44159-024-00305-0",
@@ -39,5 +38,6 @@
     "doi": "10.1038/s44159-024-00305-0",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

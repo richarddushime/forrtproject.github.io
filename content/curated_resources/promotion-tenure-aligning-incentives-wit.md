@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "4/23/2023 11:41:36",
     "title": "Promotion & Tenure: Aligning incentives with institutional values and open science",
     "link_to_resource": "https://osf.io/pfwtx/",
@@ -54,5 +53,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

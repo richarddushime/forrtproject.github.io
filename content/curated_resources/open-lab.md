@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "7/22/2026 2:48:49",
     "title": "Open Lab ",
     "link_to_resource": "https://research.open-lab.online/",
@@ -43,5 +42,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

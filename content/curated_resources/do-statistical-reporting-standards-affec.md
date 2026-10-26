@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-27T16:35:24.398Z",
     "title": "Do Statistical Reporting Standards Affect What Is Published? Publication Bias in Two Leading Political Science Journals",
     "link_to_resource": "http://dx.doi.org/10.1561/100.00008024",
@@ -29,13 +28,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen).",
     "doi": "10.1561/100.00008024",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

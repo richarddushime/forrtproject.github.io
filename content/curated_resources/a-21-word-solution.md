@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-27T16:12:42.502Z",
     "title": "A 21 word solution.",
     "link_to_resource": "http://dx.doi.org/10.2139/ssrn.2160588",
@@ -44,5 +43,6 @@
     "doi": "10.2139/ssrn.2160588",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

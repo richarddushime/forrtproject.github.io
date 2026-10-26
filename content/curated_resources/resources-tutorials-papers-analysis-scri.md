@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-14T11:23:51.707Z",
     "title": "Resources (tutorials, papers, analysis scripts, utilities) for testing moderation and mediation",
     "link_to_resource": "http://quantpsy.org/medn.htm",
@@ -35,5 +34,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

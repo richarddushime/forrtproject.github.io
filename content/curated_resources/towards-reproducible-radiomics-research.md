@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "8/18/2023 12:23:35",
     "title": "Towards reproducible radiomics research: introduction of a database for radiomics studies",
     "link_to_resource": "https://doi.org/10.1007/s00330-023-10095-3",
@@ -35,13 +34,14 @@
     "tags": [
         "Multiomics",
         "Radiomics",
-        "Artificial intelligence",
-        "Reproducibility of results"
+        "Artificial Intelligence",
+        "Reproducibility of Results"
     ],
     "forrt_clusters_new": "Transparency and reproducibility in computation and analysis, FAIR data and materials",
     "forrt_sub_clusters": "Computational reproducibility, Repositories",
     "doi": "10.1007/s00330-023-10095-3",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

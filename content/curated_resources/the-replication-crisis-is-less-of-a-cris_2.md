@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/6/2025 10:28:02",
     "title": "The replication crisis is less of a \u201ccrisis\u201d in Lakatos\u2019 philosophy of science than it is in Popper\u2019s",
     "link_to_resource": "https://doi.org/10.1007/s13194-024-00629-x",
@@ -33,7 +32,7 @@
     "tags": [
         "Metascience",
         "Popper",
-        "Philosophy Of Science",
+        "Philosophy of Science",
         "Lakatos",
         "Replication Crisis",
         "Theory Testing"
@@ -43,5 +42,6 @@
     "doi": "10.1007/s13194-024-00629-x",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Public Availability of Published Research Data in High-Impact Journals",
     "link_to_resource": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0024357",
@@ -49,5 +48,6 @@
     "doi": "10.1371/journal.pone.0024357",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

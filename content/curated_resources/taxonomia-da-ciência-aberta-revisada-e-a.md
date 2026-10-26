@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/20/2025 5:39:21",
     "title": "Taxonomia da Ci\u00eancia Aberta: revisada e ampliada",
     "link_to_resource": "https://doi.org/10.5007/1518-2924.2023.e91712",
@@ -46,12 +45,13 @@
         "Ci\u00eancia Aberta - Taxonomia",
         "Comunica\u00e7\u00e3o Cient\u00edfica",
         "Representa\u00e7\u00e3o do Conhecimento",
-        "Unesco"
+        "UNESCO"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "10.5007/1518-2924.2023.e91712",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

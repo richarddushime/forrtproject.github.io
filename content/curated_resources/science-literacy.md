@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/25/2020 3:00:22",
     "title": "Science Literacy",
     "link_to_resource": "https://www.coursera.org/learn/science-literacy",
@@ -32,12 +31,13 @@
         "Conceptual and Statistical Knowledge"
     ],
     "tags": [
-        "Scientific communication"
+        "Scientific Communication"
     ],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Philosophy of science, Research design, sampling methods, & its implications for inferences.",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

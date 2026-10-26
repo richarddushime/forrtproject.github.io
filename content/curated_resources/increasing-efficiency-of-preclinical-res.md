@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Increasing efficiency of preclinical research by group sequential designs",
     "link_to_resource": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2001307",
@@ -40,7 +39,7 @@
     ],
     "tags": [
         "Bayesian Method",
-        "Bayesian Statistics",
+        "Bayesian statistics",
         "Clinical Trials",
         "Experimental Design",
         "Medicine and Health Sciences",
@@ -53,5 +52,6 @@
     "doi": "10.1371/journal.pbio.2001307",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

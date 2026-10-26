@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/20/2025 16:10:43",
     "title": "Bridging Neurodiversity and Open Scholarship: How Shared Values Can Guide Best Practices for Research Integrity, Social Justice, and Principled Education",
     "link_to_resource": "https://doi.org/10.31222/osf.io/k7a9p_v2",
@@ -44,12 +43,19 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Neurodiversity; Inclusivity in Academia; Open Scholarship; Higher Education; Accessibility\nIntersectionality; Systematic Barriers"
+        "Neurodiversity",
+        "Inclusivity in Academia",
+        "Open Scholarship",
+        "Higher Education",
+        "Accessibility",
+        "Intersectionality",
+        "Systematic Barriers"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Neurodiversity, Inclusion, Accessibility",
     "doi": "10.31222/osf.io/k7a9p_v2",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

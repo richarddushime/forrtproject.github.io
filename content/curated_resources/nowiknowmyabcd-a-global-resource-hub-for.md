@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/12/2024 9:50:20",
     "title": "NowIKnowMyABCD: A global resource hub for researchers using data from the ABCD Study",
     "link_to_resource": "https://doi.org/10.1016/j.dcn.2024.101388",
@@ -41,5 +40,6 @@
     "doi": "10.1016/j.dcn.2024.101388",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

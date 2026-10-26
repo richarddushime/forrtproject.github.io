@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 3:47:10",
     "title": "Statements on Open Science for Sustainable Development Goals",
     "link_to_resource": "https://doi.org/10.5334/dsj-2024-049",
@@ -59,5 +58,6 @@
     "doi": "10.5334/dsj-2024-049",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

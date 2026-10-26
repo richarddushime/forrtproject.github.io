@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/9/2023 10:49:55",
     "title": "Participatory Research Approaches in Alzheimer\u2019s Disease and Related Dementias Literature: A Scoping Review",
     "link_to_resource": "https://doi.org/10.1093/geroni/igad091",
@@ -47,5 +46,6 @@
     "doi": "10.1093/geroni/igad091",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

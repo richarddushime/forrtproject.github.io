@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-10T08:54:23.927Z",
     "title": "The Bayesfactor blog",
     "link_to_resource": "http://bayesfactor.blogspot.com",
@@ -39,5 +38,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

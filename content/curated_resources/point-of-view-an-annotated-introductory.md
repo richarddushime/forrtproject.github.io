@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/20/2025 16:28:11",
     "title": "Point of View: An annotated introductory reading list for neurodiversity",
     "link_to_resource": "https://doi.org/10.7554/eLife.102467",
@@ -32,12 +31,18 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Neurodiversity; Inclusivity; Autism; ADHD; Participatory Research; Inclusive Scientific Practices"
+        "Neurodiversity",
+        "Inclusivity",
+        "Autism",
+        "ADHD",
+        "Participatory Research",
+        "Inclusive Scientific Practices"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions, Ways of Working",
     "forrt_sub_clusters": "Neurodiversity, Inclusion, Participatory research",
     "doi": "10.7554/eLife.102467",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

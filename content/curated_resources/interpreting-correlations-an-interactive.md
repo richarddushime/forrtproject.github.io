@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-08T09:46:20.016Z",
     "title": "Interpreting Correlations: an interactive visualization",
     "link_to_resource": "http://rpsychologist.com/d3/correlation/",
@@ -43,5 +42,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

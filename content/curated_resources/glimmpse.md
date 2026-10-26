@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-11T10:10:21.373Z",
     "title": "GLIMMPSE",
     "link_to_resource": "https://glimmpse.samplesizeshop.org/#/",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

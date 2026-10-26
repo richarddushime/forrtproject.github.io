@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "4/8/2025 8:54:21",
     "title": "Developing principled pedagogies - An Open Science journey",
     "link_to_resource": "https://forrt.org/pedagogies/002-gilad-feldman/",
@@ -33,12 +32,20 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Teaching; Pedagogy; Course Materials; Inclusion; Reproducibility; Replicability; Community Resources; Registered Reports"
+        "Teaching",
+        "Pedagogy",
+        "Course Materials",
+        "Inclusion",
+        "Reproducibility",
+        "Replicability",
+        "Community Resources",
+        "Registered Reports"
     ],
     "forrt_clusters_new": "Replication and meta-research, Pre-analysis Planning, Ways of Working",
     "forrt_sub_clusters": "Research with students (under- and graduate), Registered reports, Conducting replication studies; challenges, limitations, and comparisons with the original study",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

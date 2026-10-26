@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/20/2025 16:06:14",
     "title": "International initiatives to enhance awareness and uptake of open research in psychology: a systematic mapping review",
     "link_to_resource": "https://doi.org/10.1098/rsos.241726",
@@ -35,12 +34,21 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Open Research; Reproducibility; Replicability; Research Transparency; Psychology; Systematic Mapping Review; International Initiatives; Community-Based Change; Research Culture"
+        "Open Research",
+        "Reproducibility",
+        "Replicability",
+        "Research Transparency",
+        "Psychology",
+        "Systematic Mapping Review",
+        "International Initiatives",
+        "Community-Based Change",
+        "Research Culture"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Research assessment, proposals, and reforms",
     "doi": "10.1098/rsos.241726",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

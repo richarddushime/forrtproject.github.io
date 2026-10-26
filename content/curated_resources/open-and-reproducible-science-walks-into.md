@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "4/8/2025 8:44:43",
     "title": "Open and Reproducible Science walks into a classroom",
     "link_to_resource": "https://forrt.org/pedagogies/001-julia-strand/",
@@ -33,12 +32,17 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Pedagogy; Psychology; Credibility Revolution; WEIRD Science; Replication;"
+        "Pedagogy",
+        "Psychology",
+        "Credibility Revolution",
+        "WEIRD Science",
+        "Replication"
     ],
     "forrt_clusters_new": "Ways of Working, Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "History of the replication crisis & credibility revolution, Research with students (under- and graduate)",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

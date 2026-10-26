@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-22T18:33:13.945Z",
     "title": "Giving Community Psychology Away: A case for open access publishing",
     "link_to_resource": "https://www.gjcpp.org/en/article.php?issue=33&article=199",
@@ -32,13 +31,12 @@
     "FORRT_clusters": [
         "Open Data and Materials"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Reasons to share data and materials",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/20/2023 8:21:23",
     "title": "Practical guides on open science for researchers in the Netherlands",
     "link_to_resource": "https://www.rug.nl/library/open-access/blog/practical-guides-on-open-science-for-researchers-in-the-netherlands",
@@ -38,5 +37,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

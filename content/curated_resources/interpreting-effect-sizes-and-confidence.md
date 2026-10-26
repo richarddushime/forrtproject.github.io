@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/8/2025 4:44:20",
     "title": "Interpreting Effect Sizes and Confidence Intervals",
     "link_to_resource": "https://osf.io/8jmbu",
@@ -28,12 +27,18 @@
         "Conceptual and Statistical Knowledge"
     ],
     "tags": [
-        "Statistics; Effect Sizes; Confidence Intervals; Data Analysis; Data Visualization; Data Interpretation."
+        "Statistics",
+        "Effect Sizes",
+        "Confidence Intervals",
+        "Data Analysis",
+        "Data Visualization",
+        "Data Interpretation"
     ],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Effect sizes, statistical power, simulations, & confidence intervals.",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

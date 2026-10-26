@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/27/2023 10:22:21",
     "title": "Preregistration of Studies with Existing Data",
     "link_to_resource": "https://doi.org/10.1007/978-3-030-99680-2_36",
@@ -56,5 +55,6 @@
     "doi": "10.1007/978-3-030-99680-2_36",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

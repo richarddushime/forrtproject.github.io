@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/2/2023 10:10:39",
     "title": "History repeating: Guidelines to address common problems in psychedelic science",
     "link_to_resource": "https://doi.org/10.1177/20451253231198466",
@@ -45,5 +44,6 @@
     "doi": "10.1177/20451253231198466",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

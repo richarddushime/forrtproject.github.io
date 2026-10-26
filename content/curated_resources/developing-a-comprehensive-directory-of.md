@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/13/2025 12:48:23",
     "title": "Developing a comprehensive directory of tools and technologies for social science research methods",
     "link_to_resource": "https://forrt.org/educators-corner/003-developing-tools/",
@@ -35,12 +34,23 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Social Sciences; Research Methods; Digital Tools; Data Collection Tools; Survey Tools; Qualitative Research Tools; Quantitative Research Tools; GitHub; Software; Teaching; Open Data"
+        "Social Sciences",
+        "Research Methods",
+        "Digital Tools",
+        "Data Collection Tools",
+        "Survey Tools",
+        "Qualitative Research Tools",
+        "Quantitative Research Tools",
+        "GitHub",
+        "Software",
+        "Teaching",
+        "Open Data"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Repositories, Research data management",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/30/2025 4:16:59",
     "title": "Open Source Research Methods for the Social Sciences (osRMss)",
     "link_to_resource": "https://canvas.pitt.edu/courses/124970",
@@ -34,5 +33,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

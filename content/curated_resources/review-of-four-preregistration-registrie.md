@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2023 17:13:52",
     "title": "Review of Four Preregistration Registries for Special Education Researchers",
     "link_to_resource": "https://doi.org/10.1177/07419325231160293",
@@ -44,5 +43,6 @@
     "doi": "10.1177/07419325231160293",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

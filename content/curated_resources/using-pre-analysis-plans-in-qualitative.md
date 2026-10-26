@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/30/2023 13:12:56",
     "title": "Using Pre-Analysis Plans in Qualitative Research",
     "link_to_resource": "https://doi.org/10.5281/zenodo.5495552",
@@ -51,5 +50,6 @@
     "doi": "10.5281/zenodo.5495552",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

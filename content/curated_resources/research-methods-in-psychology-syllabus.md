@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/12/2025 13:22:51",
     "title": "Research Methods in Psychology Syllabus (PSYC 190)",
     "link_to_resource": "https://osf.io/rah35",
@@ -30,12 +29,17 @@
         "Conceptual and Statistical Knowledge"
     ],
     "tags": [
-        "Research Methods; Methodological & Statistical Issues; NHST; Effect Estimation; Replicability"
+        "Research Methods",
+        "Methodological & Statistical Issues",
+        "NHST",
+        "Effect Estimation",
+        "Replicability"
     ],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen)., Limitations and benefits of NHST, Bayesian & Likelihood approaches., Research design, sampling methods, & its implications for inferences.",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

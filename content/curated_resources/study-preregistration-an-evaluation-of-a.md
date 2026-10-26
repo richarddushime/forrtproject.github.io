@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/13/2023 15:30:24",
     "title": "Study Preregistration: An Evaluation of a Method for Transparent Reporting",
     "link_to_resource": "https://doi.org/10.1007/s10869-020-09695-3",
@@ -49,5 +48,6 @@
     "doi": "10.1007/s10869-020-09695-3",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

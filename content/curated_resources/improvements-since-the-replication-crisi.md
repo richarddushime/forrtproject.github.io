@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/20/2025 15:32:15",
     "title": "Improvements since the Replication Crisis: The Structural, Procedural, and Community Changes",
     "link_to_resource": "https://doi.org/10.1038/s44271-023-00003-2",
@@ -90,12 +89,15 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Replication Crisis; Reproducibility; Academic Reform"
+        "Replication Crisis",
+        "Reproducibility",
+        "Academic Reform"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "History of the replication crisis & credibility revolution",
     "doi": "10.1038/s44271-023-00003-2",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

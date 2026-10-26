@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 6:14:01",
     "title": "Guidelines to improve internationalization in the psychological sciences",
     "link_to_resource": "https://doi.org/10.1111/spc3.12847",
@@ -50,5 +49,6 @@
     "doi": "10.1111/spc3.12847",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

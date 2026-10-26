@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/2/2023 10:07:23",
     "title": "Ten quick tips for building FAIR workflows",
     "link_to_resource": "https://doi.org/10.1371/journal.pcbi.1011369",
@@ -68,5 +67,6 @@
     "doi": "10.1371/journal.pcbi.1011369",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

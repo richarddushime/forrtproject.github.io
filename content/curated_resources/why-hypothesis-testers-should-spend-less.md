@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "9/25/2023 14:57:16",
     "title": "Why Hypothesis Testers Should Spend Less Time Testing Hypotheses",
     "link_to_resource": "https://doi.org/10.1177%2F1745691620966795",
@@ -49,5 +48,6 @@
     "doi": "10.1177%2F1745691620966795",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

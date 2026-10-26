@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 10:28:48",
     "title": "Open and Responsible Researcher Reward and Recognition (OR4)",
     "link_to_resource": "https://www.ukrn.org/open-and-responsible-researcher-reward-and-recognition-or4/",
@@ -42,5 +41,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-06T19:03:16.404Z",
     "title": "On the Surprising Longevity of Flogged Horses: Why There Is a Case for the Significance Test",
     "link_to_resource": "https://doi.org/10.1111/j.1467-9280.1997.tb00536.x",
@@ -29,13 +28,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Limitations and benefits of NHST, Bayesian & Likelihood approaches., The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen).",
     "doi": "10.1111/j.1467-9280.1997.tb00536.x",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

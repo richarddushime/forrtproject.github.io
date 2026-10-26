@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/25/2025 13:42:06",
     "title": "Faculty of Science Course Syllabus",
     "link_to_resource": "https://osf.io/8ecbz",
@@ -37,5 +36,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

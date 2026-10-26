@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 5:30:51",
     "title": "Resource lists overview for working with Open Educational Resources",
     "link_to_resource": "https://libguides.rug.nl/OER/OERResourceLists",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

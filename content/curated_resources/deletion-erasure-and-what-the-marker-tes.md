@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/6/2026 10:14:28",
     "title": "Deletion, erasure, and what the marker test can actually prove",
     "link_to_resource": "https://stemdust.com/posts/deletion-erasure-and-what-the-marker-test-can-actually-prove",
@@ -43,5 +42,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

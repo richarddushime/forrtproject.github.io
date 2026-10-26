@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2024 5:59:50",
     "title": "Introducing Open Science in Teaching Health Economic Modelling",
     "link_to_resource": "https://doi.org/10.1007/s41669-023-00469-0",
@@ -42,5 +41,6 @@
     "doi": "10.1007/s41669-023-00469-0",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

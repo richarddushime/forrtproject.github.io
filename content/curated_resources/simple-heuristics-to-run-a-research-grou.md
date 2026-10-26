@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 5:51:44",
     "title": "Simple heuristics to run a research group",
     "link_to_resource": "https://doi.org/10.1002/pchj.533",
@@ -41,5 +40,6 @@
     "doi": "10.1002/pchj.533",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

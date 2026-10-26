@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "7/2/2025 13:12:15",
     "title": "UNESCO Recommendation on Open Science",
     "link_to_resource": "https://en.m.wikiversity.org/wiki/UNESCO_Recommendation_on_Open_Science",
@@ -27,12 +26,13 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Sustainable Development Goals;"
+        "Sustainable Development Goals"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Research assessment, proposals, and reforms, Socially Responsible Research",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

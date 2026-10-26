@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 4:53:29",
     "title": "How UK science is failing Black researchers \u2014 in nine stark charts",
     "link_to_resource": "https://www.nature.com/immersive/d41586-022-04386-w/index.html",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

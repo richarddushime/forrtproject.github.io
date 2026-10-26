@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/23/2023 12:58:29",
     "title": "Replication is Relevant in Qualitative Research",
     "link_to_resource": "https://doi.org/10.1080/13803611.2021.2022310",
@@ -53,5 +52,6 @@
     "doi": "10.1080/13803611.2021.2022310",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "9/27/2023 9:42:30",
     "title": "Sample Size Justification Shiny App",
     "link_to_resource": "https://shiny.ieis.tue.nl/sample_size_justification/",
@@ -51,5 +50,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

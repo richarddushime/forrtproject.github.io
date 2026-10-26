@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/13/2023 15:35:39",
     "title": "Pre-Analysis Plans: An Early Stocktaking",
     "link_to_resource": "https://doi.org/10.1017/S1537592721000931",
@@ -33,12 +32,13 @@
     ],
     "tags": [
         "Preregistration",
-        "Pre-analysis Plans"
+        "Pre-Analysis Plans"
     ],
     "forrt_clusters_new": "Pre-analysis Planning",
     "forrt_sub_clusters": "Understanding the types of preregistration and writing one.",
     "doi": "10.1017/S1537592721000931",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

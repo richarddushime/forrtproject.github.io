@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Meta-assessment of bias in science",
     "link_to_resource": "https://www.pnas.org/doi/10.1073/pnas.1618569114",
@@ -50,5 +49,6 @@
     "doi": "10.1073/pnas.1618569114",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

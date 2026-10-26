@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/6/2025 10:10:43",
     "title": "With Low Power Comes Low Credibility? Toward a Principled Critique of Results From Underpowered Tests",
     "link_to_resource": "http://dx.doi.org/10.1177/25152459241296397",
@@ -30,7 +29,8 @@
         "Conceptual and Statistical Knowledge"
     ],
     "tags": [
-        "Inference\nQuestionable Research Practices",
+        "Inference",
+        "Questionable Research Practices",
         "Power"
     ],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge, Replication Crisis and Credibility Revolution, Research Integrity, Replication and meta-research",
@@ -38,5 +38,6 @@
     "doi": "10.1177/25152459241296397",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

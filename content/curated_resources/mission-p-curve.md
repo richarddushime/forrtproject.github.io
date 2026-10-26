@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-14T10:11:39.371Z",
     "title": "Mission: P-curve",
     "link_to_resource": "http://willgervais.com/blog/2015/3/27/mission-p-curve",
@@ -37,5 +36,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

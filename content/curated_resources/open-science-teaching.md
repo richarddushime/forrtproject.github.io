@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/10/2025 13:57:37",
     "title": "Open science teaching",
     "link_to_resource": "https://osf.io/er7xk/",
@@ -31,12 +30,14 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Replicable Science; Psychology"
+        "Replicable Science",
+        "Psychology"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "FAIR principles applied to Education & Training",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

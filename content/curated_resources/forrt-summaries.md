@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "4/8/2025 9:38:05",
     "title": "FORRT Summaries",
     "link_to_resource": "https://forrt.org/summaries/",
@@ -35,14 +34,17 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Summaries; Open and Reproducible Science; Diversity",
+        "Summaries",
+        "Open and Reproducible Science",
+        "Diversity",
         "Equity",
-        "& Inclusion"
+        "Inclusion"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "FAIR principles applied to Education & Training",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

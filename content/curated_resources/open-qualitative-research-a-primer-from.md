@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/17/2025 8:06:32",
     "title": "Open Qualitative Research: A Primer from UKRN",
     "link_to_resource": "https://osf.io/preprints/osf/kje7r_v1",
@@ -36,12 +35,19 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Open Qualitative Research; Qualitative Methods; Data Sharing; Participatory Research; Preregistration; Positionality; Open Data"
+        "Open Qualitative Research",
+        "Qualitative Methods",
+        "Data Sharing",
+        "Participatory Research",
+        "Preregistration",
+        "Positionality",
+        "Open Data"
     ],
     "forrt_clusters_new": "Pre-analysis Planning, FAIR data and materials",
     "forrt_sub_clusters": "Reasons to share data and materials, Preregistration",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

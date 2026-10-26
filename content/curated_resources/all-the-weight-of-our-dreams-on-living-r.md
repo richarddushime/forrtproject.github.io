@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/23/2021 13:10:43",
     "title": "All the Weight of Our Dreams On Living Racialized Autism",
     "link_to_resource": "https://autismandrace.com/",
@@ -42,5 +41,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-19T16:38:10.820Z",
     "title": "Statistical Evidence: A Likelihood Paradigm",
     "link_to_resource": "https://www.routledge.com/Statistical-Evidence-A-Likelihood-Paradigm/Royall/p/book/9780412044113?utm_source=crcpress.com&utm_medium=referral",
@@ -38,5 +37,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

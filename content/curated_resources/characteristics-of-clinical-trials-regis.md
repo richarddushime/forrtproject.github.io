@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/14/2023 9:17:19",
     "title": "Characteristics of Clinical Trials Registered in ClinicalTrials.gov, 2007-2010",
     "link_to_resource": "https://doi.org/10.1001/jama.2012.3424",
@@ -46,5 +45,6 @@
     "doi": "10.1001/jama.2012.3424",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

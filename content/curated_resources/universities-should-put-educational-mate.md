@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/6/2025 5:46:36",
     "title": "Universities should put educational materials online and make them free",
     "link_to_resource": "https://www.hepi.ac.uk/2023/06/19/universities-should-put-educational-materials-online-and-make-them-free/",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

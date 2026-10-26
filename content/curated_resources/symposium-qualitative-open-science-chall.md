@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "4/19/2025 6:14:12",
     "title": "Symposium \"Qualitative Open Science: Challenges, Opportunities, Tensions, and Synergies\"",
     "link_to_resource": "https://www.opennaturallyoccurringdata.com/symposium-event",
@@ -43,5 +42,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

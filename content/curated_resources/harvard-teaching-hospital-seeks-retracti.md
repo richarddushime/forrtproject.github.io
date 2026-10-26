@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2024 5:53:19",
     "title": "Harvard Teaching Hospital Seeks Retraction of Six Papers by Top Researchers",
     "link_to_resource": "https://www.wsj.com/health/dana-farber-harvard-retractions-corrections-ceo-laurie-glimcher-935636f5?st=rmrb8ylnxgalkvg&reflink=desktopwebshare_permalink",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-15T15:42:02.427Z",
     "title": "Statistical Rethinking Winter 2015",
     "link_to_resource": "https://www.youtube.com/playlist?list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z",
@@ -38,5 +37,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

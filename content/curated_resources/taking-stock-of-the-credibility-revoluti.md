@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/24/2020 9:10:15",
     "title": "Taking stock of the credibility revolution: Scientific reform 2011-no",
     "link_to_resource": "https://doi.org/10.13140/RG.2.2.21721.47200/1",
@@ -32,12 +31,13 @@
         "Replication Research"
     ],
     "tags": [
-        "Credibility revolution"
+        "Credibility Revolution"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "History of the replication crisis & credibility revolution",
     "doi": "10.13140/RG.2.2.21721.47200/1",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

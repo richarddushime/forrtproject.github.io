@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/12/2024 10:12:04",
     "title": "Selective and (mis)leading economics journals: Meta-research evidence",
     "link_to_resource": "https://doi.org/10.1111/joes.12598",
@@ -43,5 +42,6 @@
     "doi": "10.1111/joes.12598",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

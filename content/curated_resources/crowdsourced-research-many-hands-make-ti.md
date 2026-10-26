@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-03T20:44:44.076Z",
     "title": "Crowdsourced research: Many hands make tight work",
     "link_to_resource": "https://doi.org/10.1038/526189a",
@@ -42,5 +41,6 @@
     "doi": "10.1038/526189a",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

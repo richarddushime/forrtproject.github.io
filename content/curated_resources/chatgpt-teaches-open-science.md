@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 5:43:47",
     "title": "ChatGPT teaches open science",
     "link_to_resource": "https://doi.org/10.58079/ne8n",
@@ -41,5 +40,6 @@
     "doi": "10.58079/ne8n",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

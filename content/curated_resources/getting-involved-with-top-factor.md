@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Getting Involved with TOP Factor",
     "link_to_resource": "https://www.youtube.com/watch?v=keKBIyx38XI",
@@ -48,5 +47,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

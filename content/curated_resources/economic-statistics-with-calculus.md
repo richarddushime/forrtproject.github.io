@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/14/2021 12:41:54",
     "title": "Economic Statistics with Calculus",
     "link_to_resource": "https://osf.io/hurgd/",
@@ -29,12 +28,13 @@
     ],
     "tags": [
         "Economics",
-        "statistics"
+        "Statistics"
     ],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen).",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

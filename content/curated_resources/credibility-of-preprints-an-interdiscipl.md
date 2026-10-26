@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/28/2020 13:19:48",
     "title": "Credibility of preprints: an interdisciplinary survey of researchers",
     "link_to_resource": "https://doi.org/10.1098/rsos.201520",
@@ -39,5 +38,6 @@
     "doi": "10.1098/rsos.201520",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

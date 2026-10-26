@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-05T19:05:30.819Z",
     "title": "Scientific Utopia: I. Opening Scientific Communication",
     "link_to_resource": "https://doi.org/10.1080/1047840X.2012.692215",
@@ -39,5 +38,6 @@
     "doi": "10.1080/1047840X.2012.692215",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

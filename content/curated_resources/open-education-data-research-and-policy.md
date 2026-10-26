@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/17/2025 7:40:37",
     "title": "Open Education Data, Research, and Policy Positions",
     "link_to_resource": "https://www.linkedin.com/posts/akishasarfo_open-data-research-and-policy-positions-activity-7305896481322852352-Tpi0/?utm_source=share&utm_medium=member_android&rcm=ACoAADDrPWUBQwkSk7hp5Q0QEagW6rVUXSQt_bA",
@@ -30,12 +29,18 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Research; Policy; Evaluation; Open Education Data; Job; Positions"
+        "Research",
+        "Policy",
+        "Evaluation",
+        "Open Education Data",
+        "Job",
+        "Positions"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Repositories",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

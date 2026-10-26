@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-29T18:26:21.205Z",
     "title": "An Agenda for Purely Confirmatory Research",
     "link_to_resource": "https://doi.org/10.1177/1745691612463078",
@@ -48,5 +47,6 @@
     "doi": "10.1177/1745691612463078",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

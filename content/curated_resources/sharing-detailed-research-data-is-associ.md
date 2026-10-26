@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Sharing Detailed Research Data Is Associated with Increased Citation Rate",
     "link_to_resource": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000308",
@@ -47,5 +46,6 @@
     "doi": "10.1371/journal.pone.0000308",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

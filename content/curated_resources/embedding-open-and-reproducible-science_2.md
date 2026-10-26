@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/20/2025 15:44:36",
     "title": "Embedding open and reproducible science into teaching: a bank of lesson plans and resources",
     "link_to_resource": "https://doi.org/10.1037/stl0000307",
@@ -47,12 +46,19 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Open Scholarship; Research Training; Higher Education; Pedagogy; Teaching Resources; Lesson Plans; Open Educational Resources (OER)"
+        "Open Scholarship",
+        "Research Training",
+        "Higher Education",
+        "Pedagogy",
+        "Teaching Resources",
+        "Lesson Plans",
+        "Open Educational Resources (OER)"
     ],
     "forrt_clusters_new": "",
     "forrt_sub_clusters": "Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "10.1037/stl0000307",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

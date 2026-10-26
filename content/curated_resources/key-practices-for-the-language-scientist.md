@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/13/2020 10:43:39",
     "title": "Key Practices for the Language Scientist",
     "link_to_resource": "https://osf.io/ftxnk/",
@@ -37,5 +36,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

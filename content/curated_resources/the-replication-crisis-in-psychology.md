@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-10T18:53:53.613Z",
     "title": "The Replication Crisis in Psychology",
     "link_to_resource": "https://nobaproject.com/modules/the-replication-crisis-in-psychology",
@@ -38,5 +37,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

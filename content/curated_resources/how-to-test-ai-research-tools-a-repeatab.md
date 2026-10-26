@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "8/27/2026 10:59:41",
     "title": "How to Test AI Research Tools: A Repeatability Worksheet and Worked Example",
     "link_to_resource": "https://ainewsandupdates.com/how-to-test-ai-research-tools/",
@@ -55,5 +54,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-03T19:48:03.156Z",
     "title": "Negativity towards negative results: a discussion of the disconnect between scientific worth and scientific culture.",
     "link_to_resource": "https://doi.org/10.1242/dmm.015123",
@@ -48,5 +47,6 @@
     "doi": "10.1242/dmm.015123",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/27/2023 13:42:39",
     "title": "Facilitating open science practices for research syntheses: PreregRS guides preregistration",
     "link_to_resource": "https://doi.org/10.1002/jrsm.1540",
@@ -46,7 +45,7 @@
     "tags": [
         "Open Science",
         "Preregistration",
-        "Rmarkdown",
+        "RMarkdown",
         "R Package"
     ],
     "forrt_clusters_new": "Pre-analysis Planning",
@@ -54,5 +53,6 @@
     "doi": "10.1002/jrsm.1540",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

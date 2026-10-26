@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 6:37:52",
     "title": "Toward a more credible assessment of the credibility of science by many-analyst studies",
     "link_to_resource": "https://doi.org/10.1073/pnas.2404035121",
@@ -39,5 +38,6 @@
     "doi": "10.1073/pnas.2404035121",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

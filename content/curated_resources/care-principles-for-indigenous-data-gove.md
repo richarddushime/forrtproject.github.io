@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2024 5:46:12",
     "title": "CARE Principles for Indigenous Data Governance",
     "link_to_resource": "https://www.gida-global.org/careprinciples",
@@ -51,5 +50,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

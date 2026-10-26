@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/13/2025 6:28:14",
     "title": "Infra Finder: Your Hub for Finding Infrastructure Services Enabling Open Research and Scholarship",
     "link_to_resource": "https://investinopen.org/blog/infra-finder-your-hub-for-finding-infrastructure-services-enabling-open-research-and-scholarship/",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

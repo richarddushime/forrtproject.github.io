@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/9/2025 10:20:00",
     "title": "Open Science Hardware and Space Research",
     "link_to_resource": "https://doi.org/10.5281/zenodo.10054521",
@@ -44,5 +43,6 @@
     "doi": "10.5281/zenodo.10054521",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

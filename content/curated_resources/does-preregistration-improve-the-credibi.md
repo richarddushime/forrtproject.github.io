@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/10/2023 13:41:42",
     "title": "Does preregistration improve the credibility of research findings?",
     "link_to_resource": "https://doi.org/10.20982/tqmp.16.4.p376",
@@ -47,7 +46,7 @@
         "HARKing",
         "Multiple Testing",
         "Optional Stopping",
-        "P-hacking",
+        "P-Hacking",
         "Preregistration",
         "Publication Bias"
     ],
@@ -56,5 +55,6 @@
     "doi": "10.20982/tqmp.16.4.p376",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

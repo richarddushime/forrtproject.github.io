@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/19/2024 5:25:54",
     "title": "Representing epistemic and disciplinary diversity in open research",
     "link_to_resource": "https://naclscrg.writeas.com/epistemic-and-disciplinary-diversity",
@@ -39,5 +38,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/8/2025 15:29:35",
     "title": "Community-Sourced Glossary of Open Scholarship Terms. ",
     "link_to_resource": "https://forrt.org/glossary/",
@@ -37,12 +36,18 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Glossary; Guide; Open Scholarship; Open Scholarship Terms; Terminology; Teaching"
+        "Glossary",
+        "Guide",
+        "Open Scholarship",
+        "Open Scholarship Terms",
+        "Terminology",
+        "Teaching"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "FAIR principles applied to Education & Training",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-04T19:33:08.859Z",
     "title": "Safeguard Power as a Protection Against Imprecise Power Estimates",
     "link_to_resource": "https://doi.org/10.1177/1745691614528519",
@@ -30,13 +29,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Research design, sampling methods, & its implications for inferences., Effect sizes, statistical power, simulations, & confidence intervals.",
     "doi": "10.1177/1745691614528519",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

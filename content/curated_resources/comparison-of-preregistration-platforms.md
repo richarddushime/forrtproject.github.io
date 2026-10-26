@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2023 17:16:36",
     "title": "Comparison of Preregistration Platforms",
     "link_to_resource": "https://doi.org/10.31222/osf.io/zry2u",
@@ -38,5 +37,6 @@
     "doi": "10.31222/osf.io/zry2u",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

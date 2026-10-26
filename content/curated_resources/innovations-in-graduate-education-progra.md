@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 5:05:00",
     "title": "Innovations in Graduate Education Program",
     "link_to_resource": "https://www.nsf.gov/funding/opportunities/innovations-graduate-education-program",
@@ -42,5 +41,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

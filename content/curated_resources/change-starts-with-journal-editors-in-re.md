@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-08T18:43:48.197Z",
     "title": "Change starts with journal editors: In response to Makel (2014).",
     "link_to_resource": "https://doi.org/10.1037/a0035801",
@@ -39,5 +38,6 @@
     "doi": "10.1037/a0035801",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

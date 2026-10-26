@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/9/2025 9:40:50",
     "title": "The promises and pitfalls of preregistration | Day 2",
     "link_to_resource": "https://www.youtube.com/watch?v=AZPhI-ES6Jo",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/6/2025 5:48:54",
     "title": "Plan E for Education: open access to educational materials created in publicly funded universities",
     "link_to_resource": "https://doi.org/10.1629/uksg.607",
@@ -43,5 +42,6 @@
     "doi": "10.1629/uksg.607",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

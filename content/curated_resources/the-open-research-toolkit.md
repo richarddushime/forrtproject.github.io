@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/13/2025 17:37:09",
     "title": "The Open Research Toolkit",
     "link_to_resource": "https://forrt.org/educators-corner/008-open-research-toolkit/",
@@ -36,12 +35,21 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Open Research; FAIR Data Principles; Open Access; Reproducibility; Open Educational Resources (OER); Data & Software; Citizen Science; Open Peer Review; Open Policies"
+        "Open Research",
+        "FAIR Data Principles",
+        "Open Access",
+        "Reproducibility",
+        "Open Educational Resources (OER)",
+        "Data & Software",
+        "Citizen Science",
+        "Open Peer Review",
+        "Open Policies"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Research data management, FAIR principles applied to Education & Training",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

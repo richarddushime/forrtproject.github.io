@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/9/2020 20:11:55",
     "title": "Data management",
     "link_to_resource": "https://www.youtube.com/playlist?list=PLy1c0eubiYXlBLTk4T_i-IQGopzSWfSuj",
@@ -27,12 +26,13 @@
         "Conceptual and Statistical Knowledge"
     ],
     "tags": [
-        "Data management"
+        "Data Management"
     ],
     "forrt_clusters_new": "",
     "forrt_sub_clusters": "",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-15T12:44:08.383Z",
     "title": "Last Week Tonight with John Oliver: Scientific Studies (HBO)",
     "link_to_resource": "https://www.youtube.com/watch?v=0Rnq1NpHdmw",
@@ -38,5 +37,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

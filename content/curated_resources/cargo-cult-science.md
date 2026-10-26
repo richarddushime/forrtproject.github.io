@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-27T16:03:47.989Z",
     "title": "Cargo cult science. ",
     "link_to_resource": "http://www.sitpor.org/wp-content/uploads/2016/04/CargoCult.pdf",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/13/2025 17:27:05",
     "title": "Innovative Mentoring",
     "link_to_resource": "https://forrt.org/educators-corner/007-easy-steps-to-elevate-your-mentoring/",
@@ -29,14 +28,20 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Mentoring;  Teaching; Supervision; Lab Management; Equity",
+        "Mentoring",
+        "Teaching",
+        "Supervision",
+        "Lab Management",
+        "Equity",
         "Diversity",
-        "and Inclusion (EDI); Professional Development"
+        "and Inclusion (EDI)",
+        "Professional Development"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Equity, Inclusion",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

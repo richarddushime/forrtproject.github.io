@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-09T16:44:19.528Z",
     "title": "The Null Hypothesis Significance-Testing Debate and Its Implications for Personality Research",
     "link_to_resource": "https://yourpersonality.net/pdf/Fraley%20NHST%20reformatted.pdf",
@@ -39,5 +38,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

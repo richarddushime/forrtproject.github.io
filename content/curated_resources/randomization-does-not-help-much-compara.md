@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-23T03:19:27.205Z",
     "title": "Randomization Does Not Help Much, Comparability Does",
     "link_to_resource": "https://doi.org/10.1371/journal.pone.0132102",
@@ -29,13 +28,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Research design, sampling methods, & its implications for inferences.",
     "doi": "10.1371/journal.pone.0132102",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

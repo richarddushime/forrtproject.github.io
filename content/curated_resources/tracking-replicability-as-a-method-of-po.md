@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-03T20:53:58.304Z",
     "title": "Tracking replicability as a method of post-publication open evaluation",
     "link_to_resource": "https://doi.org/10.3389/fncom.2012.00008",
@@ -42,5 +41,6 @@
     "doi": "10.3389/fncom.2012.00008",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

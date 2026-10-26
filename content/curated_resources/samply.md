@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "7/22/2026 2:46:56",
     "title": "Samply",
     "link_to_resource": "https://samply.uni-konstanz.de",
@@ -42,5 +41,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

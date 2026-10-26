@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/30/2023 13:39:02",
     "title": "Preregistering qualitative research",
     "link_to_resource": "https://doi.org/10.1080/08989621.2019.1580147",
@@ -49,5 +48,6 @@
     "doi": "10.1080/08989621.2019.1580147",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/20/2025 4:35:26",
     "title": "Game-based approaches in the teaching and learning of critical and research skills in Higher Education. [PhD thesis] ",
     "link_to_resource": "https://radar.gsa.ac.uk/10299/",
@@ -30,16 +29,17 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "game-based learning",
-        "research skills",
+        "Game-based Learning",
+        "Research Skills",
         "academic skills",
         "critical thinking",
-        "serious games"
+        "Serious Games"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Hidden curriculum",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

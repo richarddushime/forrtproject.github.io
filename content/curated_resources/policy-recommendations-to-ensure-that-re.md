@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "8/18/2023 12:29:48",
     "title": "Policy recommendations to ensure that research software is openly accessible and reusable",
     "link_to_resource": "https://doi.org/10.1371/journal.pbio.3002204",
@@ -43,14 +42,15 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "research",
-        "software",
-        "open software"
+        "Research",
+        "Software",
+        "Open Software"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Reasons to share data and materials, Licenses and reuse",
     "doi": "10.1371/journal.pbio.3002204",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

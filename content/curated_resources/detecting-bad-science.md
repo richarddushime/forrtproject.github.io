@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/14/2025 12:04:23",
     "title": "Detecting Bad Science",
     "link_to_resource": "https://detectingbadscience.wordpress.com/the-course/",
@@ -36,12 +35,15 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Bad Science ; Research Critique; Reproducible Science"
+        "Bad Science",
+        "Research Critique",
+        "Reproducible Science"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Structures and incentives in academia",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

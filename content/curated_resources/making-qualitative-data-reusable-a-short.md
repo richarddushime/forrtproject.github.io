@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "8/31/2023 12:56:27",
     "title": "Making Qualitative Data Reusable - A Short Guidebook For Researchers And Data Stewards Working With Qualitative Data",
     "link_to_resource": "https://doi.org/10.5281/zenodo.8160880",
@@ -47,5 +46,6 @@
     "doi": "10.5281/zenodo.8160880",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

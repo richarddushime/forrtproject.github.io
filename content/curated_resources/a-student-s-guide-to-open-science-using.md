@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/15/2025 10:27:51",
     "title": "A Student\u2019s Guide to Open Science: Using the Replication Crisis to Reform Psychology",
     "link_to_resource": "https://forrt.org/educators-corner/014-students-guide-to-open-science/",
@@ -34,12 +33,16 @@
         "Replication Research"
     ],
     "tags": [
-        "Replication Crisis; Psychological Research; Academic Reform; Preregistration"
+        "Replication Crisis",
+        "Psychological Research",
+        "Academic Reform",
+        "Preregistration"
     ],
     "forrt_clusters_new": "Replication and meta-research",
     "forrt_sub_clusters": "Meta-research",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

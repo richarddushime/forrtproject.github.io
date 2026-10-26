@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/13/2025 18:01:35",
     "title": "Addressing the grand challenges facing psychological science",
     "link_to_resource": "https://forrt.org/educators-corner/011-intersectionality-open-science/",
@@ -31,12 +30,16 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Psychology; Diversity; Research Integrity; Collaboration"
+        "Psychology",
+        "Diversity",
+        "Research Integrity",
+        "Collaboration"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Diversity in Academia, Equity",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

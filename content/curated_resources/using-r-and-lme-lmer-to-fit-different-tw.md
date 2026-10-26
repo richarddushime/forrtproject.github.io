@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-08T09:56:13.658Z",
     "title": "Using R and lme/lmer to fit different two- and three- level longitudinal models",
     "link_to_resource": "https://rpsychologist.com/r-guide-longitudinal-lme-lmer",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

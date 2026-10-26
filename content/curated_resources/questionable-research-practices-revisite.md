@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-22T19:09:22.607Z",
     "title": "Questionable Research Practices Revisited",
     "link_to_resource": "https://doi.org/10.1177/1948550615612150",
@@ -40,5 +39,6 @@
     "doi": "10.1177/1948550615612150",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

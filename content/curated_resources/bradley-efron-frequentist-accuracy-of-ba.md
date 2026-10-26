@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-15T15:44:46.399Z",
     "title": "Bradley Efron: Frequentist accuracy of Bayesian estimates",
     "link_to_resource": "https://www.youtube.com/watch?v=2oKw5HHAWs4",
@@ -38,5 +37,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

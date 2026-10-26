@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "7/2/2025 13:43:05",
     "title": "Open Science and Reproducible Research, Karolinska Institutet 2022 (fall)",
     "link_to_resource": "https://osf.io/6q3dz/",
@@ -32,12 +31,14 @@
         "Replication Research"
     ],
     "tags": [
-        "Course; Open Science"
+        "Course",
+        "Open Science"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "FAIR principles applied to Education & Training",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

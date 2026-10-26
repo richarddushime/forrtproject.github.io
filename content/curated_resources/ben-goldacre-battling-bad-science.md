@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-14T12:30:42.070Z",
     "title": "Ben Goldacre: Battling Bad Science",
     "link_to_resource": "https://www.youtube.com/watch?v=h4MhbkWJzKk",
@@ -36,5 +35,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

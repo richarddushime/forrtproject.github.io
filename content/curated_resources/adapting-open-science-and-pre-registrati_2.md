@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/9/2025 9:18:59",
     "title": "Adapting open science and pre-registration to longitudinal research",
     "link_to_resource": "https://doi.org/10.1002/icd.2315",
@@ -45,5 +44,6 @@
     "doi": "10.1002/icd.2315",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 4:58:14",
     "title": "Preregistration is not a panacea, but why? A rejoinder to Chen & Li's (2024) \u201cinfusing preregistration into tourism research\u201d",
     "link_to_resource": "https://doi.org/10.1017/can.2024.44",
@@ -35,7 +34,7 @@
         "Preregistration",
         "Pre-planning",
         "Open Sciences",
-        "P-hacking",
+        "P-Hacking",
         "HARKing",
         "Transparency"
     ],
@@ -44,5 +43,6 @@
     "doi": "10.1017/can.2024.44",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

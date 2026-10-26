@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-15T14:20:16.230Z",
     "title": "The New Statistics: Research Integrity & the New Statistics (Workshop Part 2)",
     "link_to_resource": "https://www.youtube.com/watch?v=wb0rnZBlcRg",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

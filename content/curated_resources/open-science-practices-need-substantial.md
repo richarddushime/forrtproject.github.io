@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/30/2023 10:48:23",
     "title": "Open Science Practices Need Substantial Improvement in Prognostic Model Studies in Oncology Using Machine Learning",
     "link_to_resource": "https://doi.org/10.1016/j.jclinepi.2023.10.015",
@@ -52,5 +51,6 @@
     "doi": "10.1016/j.jclinepi.2023.10.015",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

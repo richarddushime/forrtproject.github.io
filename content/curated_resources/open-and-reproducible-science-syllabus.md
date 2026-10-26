@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "4/8/2025 9:48:09",
     "title": "Open and Reproducible Science Syllabus",
     "link_to_resource": "https://forrt.org/syllabus/",
@@ -34,12 +33,17 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "FAIR Data & Materials; Course Materials; Open Resources; Readings; Assignments"
+        "FAIR Data & Materials",
+        "Course Materials",
+        "Open Resources",
+        "Readings",
+        "Assignments"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "FAIR principles applied to Education & Training",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

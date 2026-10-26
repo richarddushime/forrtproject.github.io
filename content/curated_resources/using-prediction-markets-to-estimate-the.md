@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-07T19:17:39.866Z",
     "title": "Using prediction markets to estimate the reproducibility of scientific research",
     "link_to_resource": "https://doi.org/10.1073/pnas.1516179112",
@@ -38,5 +37,6 @@
     "doi": "10.1073/pnas.1516179112",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

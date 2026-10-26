@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-11T11:12:54.746Z",
     "title": "course syllabi for open and reproducible science",
     "link_to_resource": "https://osf.io/vkhbt/wiki/home/",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-09T16:38:26.706Z",
     "title": "What's wrong with Psychology, anyway?",
     "link_to_resource": "https://www.gwern.net/docs/psychology/1991-lykken.pdf",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

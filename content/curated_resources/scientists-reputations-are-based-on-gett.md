@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-26T14:52:25.107Z",
     "title": "Scientists\u2019 Reputations Are Based on Getting It Right, Not Being Right",
     "link_to_resource": "https://doi.org/10.1371/journal.pbio.1002460",
@@ -42,5 +41,6 @@
     "doi": "10.1371/journal.pbio.1002460",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

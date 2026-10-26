@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-08T18:20:48.021Z",
     "title": "Open Science in Sport and Exercise Psychology: Review of Current Approaches and Considerations for Qualitative Inquiry",
     "link_to_resource": "https://doi.org/10.1016/j.psychsport.2017.12.010",
@@ -39,5 +38,6 @@
     "doi": "10.1016/j.psychsport.2017.12.010",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/18/2023 10:53:42",
     "title": "Accessibility Data Curation Primer",
     "link_to_resource": "https://hdl.handle.net/11299/253392",
@@ -48,12 +47,13 @@
         "Data Sharing",
         "Data Management",
         "Open Data",
-        "FAIR Data"
+        "FAIR data"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Research data management",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

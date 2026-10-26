@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/6/2023 12:43:54",
     "title": "Science isn't Broken",
     "link_to_resource": "https://fivethirtyeight.com/features/science-isnt-broken/#part1",
@@ -55,5 +54,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

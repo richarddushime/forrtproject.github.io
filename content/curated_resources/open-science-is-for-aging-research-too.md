@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Open Science is for Aging Research, Too",
     "link_to_resource": "https://doi.org/10.1093/geroni/igz028",
@@ -35,5 +34,6 @@
     "doi": "10.1093/geroni/igz028",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

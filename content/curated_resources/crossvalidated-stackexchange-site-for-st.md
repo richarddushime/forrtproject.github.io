@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-14T11:38:14.786Z",
     "title": "CrossValidated StackExchange site (for statistics Q&A)",
     "link_to_resource": "http://stats.stackexchange.com",
@@ -44,5 +43,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

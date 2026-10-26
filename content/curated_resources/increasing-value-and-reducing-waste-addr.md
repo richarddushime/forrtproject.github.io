@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/14/2023 13:24:28",
     "title": "Increasing value and reducing waste: addressing inaccessible research",
     "link_to_resource": "https://doi.org/10.1016/S0140-6736(13)62296-5",
@@ -51,5 +50,6 @@
     "doi": "10.1016/S0140-6736(13)62296-5",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

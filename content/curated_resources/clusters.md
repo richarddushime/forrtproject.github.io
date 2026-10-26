@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/8/2025 15:43:17",
     "title": "Clusters",
     "link_to_resource": "https://forrt.org/clusters/",
@@ -38,12 +37,22 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Clusters; Replicability; Conceptual and statistical knowledge; Pre-analysis planning; Transparency; Reproducibility; FAIR data; Replication; Meta-research; Academic"
+        "Clusters",
+        "Replicability",
+        "Conceptual and statistical knowledge",
+        "Pre-analysis planning",
+        "Transparency",
+        "Reproducibility",
+        "FAIR data",
+        "Replication",
+        "Meta-research",
+        "Academic"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

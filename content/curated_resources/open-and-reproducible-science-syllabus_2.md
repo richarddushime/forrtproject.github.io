@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/30/2025 4:11:42",
     "title": "Open and Reproducible Science Syllabus ",
     "link_to_resource": "https://osf.io/fuds5",
@@ -29,12 +28,15 @@
         "Reproducibility and Replicability Knowledge"
     ],
     "tags": [
-        "Research Workflow; Meta Data; Annotated Code"
+        "Research Workflow",
+        "Meta Data",
+        "Annotated Code"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

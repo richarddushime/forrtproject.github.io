@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/19/2024 9:23:26",
     "title": "Toolkit for Aligning Incentives 2.0",
     "link_to_resource": "https://doi.org/10.31219/osf.io/8x4e9",
@@ -35,13 +34,12 @@
         "Reproducibility and Replicability Knowledge",
         "Academic Life and Culture"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Structures and incentives in academia, Research assessment, proposals, and reforms",
     "doi": "10.31219/osf.io/8x4e9",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

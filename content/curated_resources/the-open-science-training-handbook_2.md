@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/6/2025 5:29:07",
     "title": "The Open Science Training Handbook",
     "link_to_resource": "https://open-science-training-handbook.gitbook.io/book",
@@ -63,5 +62,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

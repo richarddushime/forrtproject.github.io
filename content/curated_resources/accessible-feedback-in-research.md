@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/15/2025 10:55:37",
     "title": "Accessible Feedback in Research",
     "link_to_resource": "https://forrt.org/educators-corner/018-accessible-feedback-in-research/",
@@ -32,12 +31,19 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Diversity & Inclusion; Feedback; Peer Review; Transparency; Marginalised Scholars; Systemic Barriers in Academia; Academic Professional Development"
+        "Diversity & Inclusion",
+        "Feedback",
+        "Peer Review",
+        "Transparency",
+        "Marginalised Scholars",
+        "Systemic Barriers in Academia",
+        "Academic Professional Development"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Accessibility, Inclusion, Equity",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

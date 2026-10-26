@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/12/2024 8:12:59",
     "title": "The GO FAIR Foundation's FAIR Capacity Building Programme",
     "link_to_resource": "https://osf.io/bthf8",
@@ -31,13 +30,14 @@
     ],
     "tags": [
         "FAIR",
-        "data",
-        "metadata"
+        "Data",
+        "Metadata"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "FAIR principles applied to Education & Training, Metadata standards",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

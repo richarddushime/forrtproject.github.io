@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-28T13:42:57.798Z",
     "title": "Just Post It: The Lesson From Two Cases of Fabricated Data Detected by Statistics Alone",
     "link_to_resource": "https://doi.org/10.1177/0956797613480366",
@@ -29,13 +28,12 @@
         "Reproducible Analyses",
         "Open Data and Materials"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Transparency and reproducibility in computation and analysis, FAIR data and materials",
     "forrt_sub_clusters": "Tools to check yourself and others, Reasons to share data and materials",
     "doi": "10.1177/0956797613480366",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

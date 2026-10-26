@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/9/2026 13:34:59",
     "title": "Mermaid Live Editor",
     "link_to_resource": "https://mermaid-live-editor.com/",
@@ -38,5 +37,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

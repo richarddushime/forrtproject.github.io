@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Misaligned Incentives Hurt Science, but We Can Fix Them",
     "link_to_resource": "https://www.youtube.com/watch?v=oI3ZExEz7C0",
@@ -34,5 +33,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

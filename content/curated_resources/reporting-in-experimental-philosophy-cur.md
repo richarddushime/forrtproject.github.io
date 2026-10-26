@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Reporting in Experimental Philosophy: Current Standards and Recommendations for Future Practice",
     "link_to_resource": "https://doi.org/10.1007/s13164-018-0414-3",
@@ -38,5 +37,6 @@
     "doi": "10.1007/s13164-018-0414-3",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

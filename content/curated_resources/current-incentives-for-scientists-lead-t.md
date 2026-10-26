@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Current Incentives for Scientists Lead to Underpowered Studies with Erroneous Conclusions",
     "link_to_resource": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000995",
@@ -43,5 +42,6 @@
     "doi": "10.1371/journal.pbio.2000995",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

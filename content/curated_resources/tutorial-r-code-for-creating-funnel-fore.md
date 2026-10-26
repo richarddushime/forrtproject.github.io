@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-11T11:26:11.166Z",
     "title": "Tutorial/R code for creating funnel/forest plots",
     "link_to_resource": "https://sakaluk.wordpress.com/2016/02/16/7-make-it-pretty-plots-for-meta-analysis/",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

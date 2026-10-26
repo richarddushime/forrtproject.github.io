@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Transparent, Reproducible, and Open Science Practices of Published Literature in Dermatology Journals: Cross-Sectional Analysis",
     "link_to_resource": "https://derma.jmir.org/2019/1/e16078/",
@@ -45,5 +44,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/5/2020 15:09:45",
     "title": "Reproducible statistics for psychologists with R Lab Tutorials",
     "link_to_resource": "https://crumplab.github.io/rstatsforpsych/index.html",
@@ -39,5 +38,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

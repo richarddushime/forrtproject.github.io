@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-24T12:08:26.709Z",
     "title": "What does research reproducibility mean?",
     "link_to_resource": "https://stm.sciencemag.org/content/8/341/341ps12/tab-pdf",
@@ -45,5 +44,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

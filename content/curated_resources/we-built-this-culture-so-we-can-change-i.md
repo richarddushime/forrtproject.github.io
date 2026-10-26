@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/6/2025 5:14:03",
     "title": "We Built This Culture (so We Can Change It): Seven Principles for Intentional Culture Change",
     "link_to_resource": "https://doi.org/10.1037/amp0001209",
@@ -40,5 +39,6 @@
     "doi": "10.1037/amp0001209",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "11/4/2023 7:27:37",
     "title": "Last Contact: A Science Adventure",
     "link_to_resource": "https://www.sherlocked.nl/last-contact",
@@ -50,5 +49,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

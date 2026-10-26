@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/16/2020 6:22:33",
     "title": "Open Research: Examples of good practice, and resources across disciplines (2026 edition)",
     "link_to_resource": "https://doi.org/10.31219/osf.io/3r8hb",
@@ -34,12 +33,13 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Open science"
+        "Open Science"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Reasons to share data and materials",
     "doi": "10.31219/osf.io/3r8hb",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

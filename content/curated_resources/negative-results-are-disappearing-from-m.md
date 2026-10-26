@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-23T03:17:01.140Z",
     "title": "Negative results are disappearing from most disciplines and countries",
     "link_to_resource": "https://doi.org/10.1007/s11192-011-0494-7",
@@ -39,5 +38,6 @@
     "doi": "10.1007/s11192-011-0494-7",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

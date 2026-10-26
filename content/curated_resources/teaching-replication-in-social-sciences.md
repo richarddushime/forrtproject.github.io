@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/12/2025 12:33:21",
     "title": "Teaching Replication in Social Sciences",
     "link_to_resource": "https://osf.io/g3k5t/",
@@ -39,12 +38,14 @@
         "Replication Research"
     ],
     "tags": [
-        "Replication; Teaching"
+        "Replication",
+        "Teaching"
     ],
     "forrt_clusters_new": "Replication and meta-research",
     "forrt_sub_clusters": "Conducting replication studies; challenges, limitations, and comparisons with the original study",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

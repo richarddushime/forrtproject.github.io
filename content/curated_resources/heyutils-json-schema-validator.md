@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/14/2026 8:29:25",
     "title": "HeyUtils JSON Schema Validator",
     "link_to_resource": "https://heyutils.com/tools/json-schema-validator/",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

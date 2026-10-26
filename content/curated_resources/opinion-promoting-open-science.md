@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/6/2025 5:14:41",
     "title": "Opinion: Promoting open science",
     "link_to_resource": "https://doi.org/10.1177/1477153520926328",
@@ -42,5 +41,6 @@
     "doi": "10.1177/1477153520926328",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

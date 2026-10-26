@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/27/2023 13:50:07",
     "title": "Preregistration of Machine Learning Research ",
     "link_to_resource": "https://doi.org/10.2307/j.ctvhrd092.21",
@@ -51,5 +50,6 @@
     "doi": "10.2307/j.ctvhrd092.21",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

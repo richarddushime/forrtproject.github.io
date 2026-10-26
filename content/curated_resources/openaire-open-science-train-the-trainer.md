@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 5:40:20",
     "title": "OpenAIRE Open Science Train-the-Trainer resources",
     "link_to_resource": "https://openplato.eu/blocks/catalog/detail.php?id=48",
@@ -51,5 +50,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

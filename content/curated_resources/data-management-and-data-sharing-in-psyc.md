@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/12/2020 12:58:25",
     "title": "Data Management and Data Sharing in Psychological Science: Revision of the DGPs Recommendations",
     "link_to_resource": "https://psyarxiv.com/24ncs/",
@@ -33,12 +32,13 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Open data"
+        "Open Data"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Reasons to share data and materials, Research data management",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/25/2024 4:32:00",
     "title": "Number of countries with open science policies has almost doubled since adoption of UNESCO Recommendation",
     "link_to_resource": "https://www.unesco.org/en/articles/number-countries-open-science-policies-has-almost-doubled-adoption-unesco-recommendation",
@@ -42,5 +41,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

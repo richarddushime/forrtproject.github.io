@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/9/2025 9:14:34",
     "title": "Registered reports and replications: An ongoing Journal of School Psychology initiative",
     "link_to_resource": "https://doi.org/10.1016/j.jsp.2024.101294",
@@ -41,5 +40,6 @@
     "doi": "10.1016/j.jsp.2024.101294",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

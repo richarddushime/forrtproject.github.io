@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/14/2021 16:08:00",
     "title": "Open Science Seminar: How to do credible research with a high informational value (and how not to do it)",
     "link_to_resource": "https://osf.io/9cd7h/",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

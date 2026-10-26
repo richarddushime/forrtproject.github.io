@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "8/15/2025 12:37:36",
     "title": "Generic Syllabus Maker",
     "link_to_resource": "http://wcaleb.rice.edu/syllabusmaker/generic/",
@@ -42,12 +41,14 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Syllabus; dates"
+        "Syllabus",
+        "dates"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Hidden curriculum",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

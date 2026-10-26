@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-22T18:38:12.752Z",
     "title": "How (and Whether) to Teach Undergraduates About the Replication Crisis in Psychological Science",
     "link_to_resource": "https://doi.org/10.1177/0098628318762900",
@@ -41,5 +40,6 @@
     "doi": "10.1177/0098628318762900",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

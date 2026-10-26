@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/27/2024 5:58:55",
     "title": "ARIADNE \u2013 a scientific navigator to find your way through the resource labyrinth",
     "link_to_resource": "https://igor-biodgps.github.io/ARIADNE/graph/graph.html",
@@ -50,21 +49,22 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Data visualization",
+        "Data Visualization",
         "Code",
         "Reproducibility",
         "Education",
         "Learning",
         "Resource",
         "Tool",
-        "Research cycle",
-        "Research process",
-        "Early career researcher"
+        "Research Cycle",
+        "Research Process",
+        "Early Career Researcher"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

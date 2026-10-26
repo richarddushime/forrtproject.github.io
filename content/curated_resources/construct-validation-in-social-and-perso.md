@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-03T19:42:56.653Z",
     "title": "Construct validation in social and personality research: Current practice and recommendations. ",
     "link_to_resource": "http://doi.org/10.1177/1948550617693063",
@@ -33,13 +32,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Questionable measurement practices (QMPs), validity & reliability issues.",
     "doi": "10.1177/1948550617693063",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

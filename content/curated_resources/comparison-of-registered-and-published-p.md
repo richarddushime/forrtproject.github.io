@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-03T20:03:57.599Z",
     "title": "Comparison of Registered and Published Primary Outcomes in Randomized Controlled Trials",
     "link_to_resource": "https://doi.org/10.1001/jama.2009.1242",
@@ -34,13 +33,12 @@
     "FORRT_clusters": [
         "Preregistration"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Pre-analysis Planning",
     "forrt_sub_clusters": "Preregistration",
     "doi": "10.1001/jama.2009.1242",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 4:34:24",
     "title": "Type I Error Rates are Not Usually Inflated",
     "link_to_resource": "https://doi.org/10.36850/4d35-44bd",
@@ -40,5 +39,6 @@
     "doi": "10.36850/4d35-44bd",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

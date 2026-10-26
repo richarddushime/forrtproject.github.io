@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-07T18:48:21.209Z",
     "title": "Data Sharing in Psychology: A Survey on Barriers and Preconditions",
     "link_to_resource": "https://doi.org/10.1177/2515245917751886",
@@ -29,13 +28,12 @@
         "Reproducible Analyses",
         "Open Data and Materials"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Licenses and reuse",
     "doi": "10.1177/2515245917751886",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

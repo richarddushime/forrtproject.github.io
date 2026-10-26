@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/6/2025 5:01:34",
     "title": "Tension Between Theory and Practice of Replication",
     "link_to_resource": "https://doi.org/10.36850/mr9",
@@ -44,5 +43,6 @@
     "doi": "10.36850/mr9",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

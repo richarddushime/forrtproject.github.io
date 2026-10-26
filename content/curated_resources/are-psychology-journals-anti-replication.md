@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Are Psychology Journals Anti-replication? A Snapshot of Editorial Practices",
     "link_to_resource": "https://doi.org/10.3389/fpsyg.2017.00523",
@@ -40,5 +39,6 @@
     "doi": "10.3389/fpsyg.2017.00523",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

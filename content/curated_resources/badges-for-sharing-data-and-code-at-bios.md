@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Badges for sharing data and code at Biostatistics: an observational study",
     "link_to_resource": "https://f1000research.com/articles/7-90/v2",
@@ -36,5 +35,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

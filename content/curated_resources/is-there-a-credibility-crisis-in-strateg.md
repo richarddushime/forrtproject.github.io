@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-28T13:10:35.558Z",
     "title": "Is there a credibility crisis in strategic management research? Evidence on the reproducibility of study findings",
     "link_to_resource": "https://doi.org/10.1177/1476127017701076",
@@ -42,5 +41,6 @@
     "doi": "10.1177/1476127017701076",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

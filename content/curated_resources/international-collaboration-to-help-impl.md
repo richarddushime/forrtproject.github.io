@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 5:33:26",
     "title": "International collaboration to help implement open research",
     "link_to_resource": "https://www.ukrn.org/2023/02/03/unesco-collaboration-feb2023/",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

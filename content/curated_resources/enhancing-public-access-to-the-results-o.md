@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/19/2024 8:55:28",
     "title": "Enhancing Public Access to the Results of Research Supported by the Department of Health and Human Services: Proceedings of a Workshop\u2014in Brief ",
     "link_to_resource": "https://doi.org/10.17226/27480",
@@ -45,5 +44,6 @@
     "doi": "10.17226/27480",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

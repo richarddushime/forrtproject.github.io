@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/27/2023 14:30:39",
     "title": "Publication rate in preclinical research: A plea for preregistration",
     "link_to_resource": "https://doi.org/10.1136/bmjos-2019-100051",
@@ -46,5 +45,6 @@
     "doi": "10.1136/bmjos-2019-100051",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Finding & Evaluating Open Data",
     "link_to_resource": "https://docs.google.com/presentation/d/1mkRkN6S1FQmFiR2YiJJxAKdCK7JjyTQxde5thKsCsHA/edit?usp=sharing",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

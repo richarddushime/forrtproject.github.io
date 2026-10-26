@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/10/2022 6:48:02",
     "title": "QDR Data for Teaching",
     "link_to_resource": "https://qdr.syr.edu/guidance/teaching/data-for-teaching",
@@ -35,13 +34,12 @@
     "FORRT_clusters": [
         "Open Data and Materials"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "FAIR principles applied to Education & Training, Repositories",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-22T18:40:59.988Z",
     "title": "The preregistration revolution",
     "link_to_resource": "https://www.pnas.org/content/115/11/2600",
@@ -33,13 +32,12 @@
     "FORRT_clusters": [
         "Preregistration"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Pre-analysis Planning",
     "forrt_sub_clusters": "Purpose of pre-analysis planning, Preregistration",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

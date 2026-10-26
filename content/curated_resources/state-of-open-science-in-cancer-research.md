@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/13/2025 6:55:56",
     "title": "State of open science in cancer research",
     "link_to_resource": "https://doi.org/10.1007/s12094-024-03468-7",
@@ -45,5 +44,6 @@
     "doi": "10.1007/s12094-024-03468-7",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

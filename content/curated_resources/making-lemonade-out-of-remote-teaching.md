@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/13/2025 13:06:49",
     "title": "Making lemonade out of remote teaching",
     "link_to_resource": "https://forrt.org/educators-corner/005-remote-teaching-platform/",
@@ -32,12 +31,18 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Remote Learning; Online Education; Higher Education; Open Access; Global Education; Academic Opportunities"
+        "Remote Learning",
+        "Online Education",
+        "Higher Education",
+        "Open Access",
+        "Global Education",
+        "Academic Opportunities"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Accessibility, Inclusion",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

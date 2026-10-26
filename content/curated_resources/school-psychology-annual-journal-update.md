@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2024 8:29:05",
     "title": "School Psychology Annual Journal Update: Revising Open Science Standards",
     "link_to_resource": "https://doi.org/10.1037/spq0000623",
@@ -42,5 +41,6 @@
     "doi": "10.1037/spq0000623",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

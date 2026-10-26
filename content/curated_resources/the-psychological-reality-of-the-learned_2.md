@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/16/2025 4:30:22",
     "title": "The psychological reality of the learned \u201cp\u2009<\u2009.05\u201d boundary",
     "link_to_resource": "https://doi.org/10.1186/s41235-024-00553-x",
@@ -32,7 +31,7 @@
         "Reproducible Analyses"
     ],
     "tags": [
-        "p-values",
+        "P-values",
         "Statistical Thinking",
         "Categorial Perception",
         "Meta-Science",
@@ -43,5 +42,6 @@
     "doi": "10.1186/s41235-024-00553-x",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

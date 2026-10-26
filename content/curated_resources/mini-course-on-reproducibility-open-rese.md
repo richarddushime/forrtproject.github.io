@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/31/2022 4:39:18",
     "title": "Mini course on reproducibility & open research",
     "link_to_resource": "https://www.youtube.com/playlist?list=PLo1sDp2zqD4Rl9AQblQBMQrVblZfEfHcJ",
@@ -32,24 +31,25 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "INTRODUCTION",
+        "Introduction",
         "INTRODUCTORY",
-        "REPRODUCIBLE",
+        "reproducible",
         "PRINCIPLES",
-        "UNDERGRADUATE",
+        "Undergraduate",
         "DISSERTATION",
         "THESIS",
-        "LECTURE",
+        "Lecture",
         "SERIES",
         "VIDEOS",
         "THREE TS",
         "THREE T'S",
-        "PSYCHOLOGY"
+        "Psychology"
     ],
     "forrt_clusters_new": "Pre-analysis Planning, FAIR data and materials",
     "forrt_sub_clusters": "FAIR principles applied to Education & Training, Preregistration, Research data management",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

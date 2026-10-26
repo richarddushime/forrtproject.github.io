@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/21/2026 15:10:34",
     "title": "Hello Keyboard Combine Two Columns",
     "link_to_resource": "https://tools.hellokeyboard.com/combine-two-columns/",
@@ -39,5 +38,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

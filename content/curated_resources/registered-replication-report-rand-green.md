@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-08T18:27:18.244Z",
     "title": "Registered Replication Report: Rand, Greene, and Nowak (2012). ",
     "link_to_resource": "https://doi.org/10.1177/1745691617693624",
@@ -51,5 +50,6 @@
     "doi": "10.1177/1745691617693624",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

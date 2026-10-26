@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "5/16/2021 15:21:08",
     "title": "Joy and rigor in behavioral science",
     "link_to_resource": "https://doi.org/10.1016/j.obhdp.2021.03.002",
@@ -37,5 +36,6 @@
     "doi": "10.1016/j.obhdp.2021.03.002",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

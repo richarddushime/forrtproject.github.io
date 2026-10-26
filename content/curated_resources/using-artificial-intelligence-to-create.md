@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/13/2023 14:34:10",
     "title": "Using artificial intelligence to create diverse and inclusive medical case vignettes for education",
     "link_to_resource": "https://doi.org/10.1111/bcp.15977",
@@ -44,7 +43,7 @@
     ],
     "tags": [
         "Artificial Intelligence",
-        "chatGPT",
+        "ChatGPT",
         "Diversity",
         "Inclusivity"
     ],
@@ -53,5 +52,6 @@
     "doi": "10.1111/bcp.15977",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

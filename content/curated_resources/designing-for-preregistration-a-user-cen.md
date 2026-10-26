@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2023 16:37:44",
     "title": "Designing for Preregistration: A User-Centered Perspective",
     "link_to_resource": "https://doi.org/10.1145/3290607.3312862",
@@ -42,5 +41,6 @@
     "doi": "10.1145/3290607.3312862",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2023 12:27:36",
     "title": "Computational social science is growing up: why puberty consists of embracing measurement validation, theory development, and open science practices",
     "link_to_resource": "https://doi.org/10.1140/epjds/s13688-023-00434-1",
@@ -36,7 +35,7 @@
         "Passive Measurement",
         "Digital Trace Data",
         "Validity",
-        "Open science Practices",
+        "Open Science Practices",
         "Metascience"
     ],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
@@ -44,5 +43,6 @@
     "doi": "10.1140/epjds/s13688-023-00434-1",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

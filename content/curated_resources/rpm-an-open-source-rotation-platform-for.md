@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "11/6/2023 12:27:04",
     "title": "RPM: An open-source Rotation Platform for open- and closed-loop vestibular stimulation in head-fixed Mice",
     "link_to_resource": "https://doi.org/10.1016/j.jneumeth.2023.110002",
@@ -49,5 +48,6 @@
     "doi": "10.1016/j.jneumeth.2023.110002",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

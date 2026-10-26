@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/30/2023 12:31:32",
     "title": "Preregistration and Registered Reports in Sociology: Strengths, Weaknesses, and Other Considerations",
     "link_to_resource": "https://doi.org/10.1007/s12108-023-09563-6",
@@ -42,5 +41,6 @@
     "doi": "10.1007/s12108-023-09563-6",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

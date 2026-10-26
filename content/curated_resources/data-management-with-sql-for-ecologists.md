@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Data Management with SQL for Ecologists",
     "link_to_resource": "https://datacarpentry.org/sql-ecology-lesson/",
@@ -49,5 +48,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

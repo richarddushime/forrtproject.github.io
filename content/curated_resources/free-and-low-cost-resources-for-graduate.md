@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/25/2020 18:58:28",
     "title": "Free and low cost resources for graduate students, postdocs, and early career researchers (or really anyone else)",
     "link_to_resource": "https://docs.google.com/document/d/1IFbHIN5OOAO0qz-VfCU9nEx4-x6CfArj1-d8ylA2vsU/edit",
@@ -33,12 +32,13 @@
         "Open Data and Materials"
     ],
     "tags": [
-        "Open science"
+        "Open Science"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Reasons to share data and materials",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

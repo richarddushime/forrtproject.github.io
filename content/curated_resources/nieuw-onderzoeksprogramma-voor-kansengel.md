@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/27/2025 4:35:25",
     "title": "Nieuw onderzoeksprogramma voor kansengelijkheid en inclusie academische wereld",
     "link_to_resource": "https://www.nwo.nl/nieuws/nieuw-onderzoeksprogramma-voor-kansengelijkheid-en-inclusie-academische-wereld",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

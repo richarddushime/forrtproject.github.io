@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/12/2024 10:03:56",
     "title": "Blaze: A search engine and email subscription tool for discovering the best and most recent independent technical writing ",
     "link_to_resource": "http://web.archive.org/web/20251007220812/https://blaze.email/about",
@@ -46,5 +45,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Systematic Review of the Empirical Evidence of Study Publication Bias and Outcome Reporting Bias \u2014 An Updated Review",
     "link_to_resource": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0066844",
@@ -47,5 +46,6 @@
     "doi": "10.1371/journal.pone.0066844",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

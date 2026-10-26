@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/6/2025 5:37:41",
     "title": "The Buffet Approach to Open Science",
     "link_to_resource": "https://cogtales.wordpress.com/2023/04/16/the-buffet-approach-to-open-science/",
@@ -39,5 +38,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "The Meaningfulness of Effect Sizes in Psychological Research: Differences Between Sub-Disciplines and the Impact of Potential Biases",
     "link_to_resource": "https://doi.org/10.3389/fpsyg.2019.00813",
@@ -42,5 +41,6 @@
     "doi": "10.3389/fpsyg.2019.00813",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

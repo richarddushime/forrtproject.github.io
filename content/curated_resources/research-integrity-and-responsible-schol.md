@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "4/3/2024 11:07:15",
     "title": "Research Integrity and Responsible Scholarship",
     "link_to_resource": "https://renebekkers.files.wordpress.com/2024/04/2024-p5-research-integrity-and-responsible-scholarship-course-manual.pdf",
@@ -28,13 +27,14 @@
     ],
     "tags": [
         "ETHICS REVIEW",
-        "DATA MANAGEMENT",
-        "RESEARCH INTEGRITY"
+        "Data Management",
+        "Research Integrity"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions",
     "forrt_sub_clusters": "Socially Responsible Research",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

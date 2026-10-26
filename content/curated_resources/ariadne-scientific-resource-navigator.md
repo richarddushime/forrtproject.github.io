@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 10:39:57",
     "title": "ARIADNE - Scientific Resource Navigator",
     "link_to_resource": "https://igor-biodgps.github.io/ARIADNE",
@@ -52,5 +51,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

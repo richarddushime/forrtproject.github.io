@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "9/25/2023 9:24:28",
     "title": "Increasing the transparency of systematic reviews: Presenting a generalized registration form",
     "link_to_resource": "https://doi.org/10.1186/s13643-023-02281-7",
@@ -66,12 +65,13 @@
         "Economics",
         "Law",
         "Physics",
-        "Meta-Analysis"
+        "Meta-analysis"
     ],
     "forrt_clusters_new": "Pre-analysis Planning",
     "forrt_sub_clusters": "Understanding the types of preregistration and writing one.",
     "doi": "10.1186/s13643-023-02281-7",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

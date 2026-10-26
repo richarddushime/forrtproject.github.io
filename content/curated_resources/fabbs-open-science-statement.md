@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "1/13/2025 6:09:55",
     "title": "FABBS Open Science Statement  ",
     "link_to_resource": "https://fabbs.org/wp-content/uploads/2024/03/FABBS-Open-Science-Statement.pdf",
@@ -41,5 +40,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

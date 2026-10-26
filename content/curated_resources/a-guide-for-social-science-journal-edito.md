@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/19/2024 8:59:07",
     "title": "A guide for social science journal editors on easing into open science",
     "link_to_resource": "https://doi.org/10.1186/s41073-023-00141-5",
@@ -82,5 +81,6 @@
     "doi": "10.1186/s41073-023-00141-5",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

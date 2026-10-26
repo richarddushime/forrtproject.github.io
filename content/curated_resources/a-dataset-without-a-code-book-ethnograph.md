@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/20/2025 5:35:23",
     "title": "A dataset without a code book: ethnography and open science",
     "link_to_resource": "https://doi.org/10.3389/fsoc.2024.1308029",
@@ -42,5 +41,6 @@
     "doi": "10.3389/fsoc.2024.1308029",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

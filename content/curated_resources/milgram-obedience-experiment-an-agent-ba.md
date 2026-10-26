@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "9/12/2026 7:36:56",
     "title": "Milgram Obedience Experiment: An Agent-Based Model",
     "link_to_resource": "10.5281/zenodo.22724177",
@@ -48,5 +47,6 @@
     "doi": "",
     "in-clusters": "",
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

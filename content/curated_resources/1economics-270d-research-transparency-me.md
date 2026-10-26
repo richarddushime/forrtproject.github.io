@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "10/14/2021 13:51:02",
     "title": "1Economics 270D: Research Transparency Methods in the Social Sciences",
     "link_to_resource": "https://osf.io/bt6j2/",
@@ -40,5 +39,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

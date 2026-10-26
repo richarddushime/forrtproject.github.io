@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Are choices based on conditional or conjunctive probabilities in a sequential risk-taking task?",
     "link_to_resource": "https://doi.org/10.1002/bdm.2161",
@@ -41,5 +40,6 @@
     "doi": "10.1002/bdm.2161",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

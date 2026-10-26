@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "3/15/2025 10:33:18",
     "title": "Academic Jobs in the US vs. the UK",
     "link_to_resource": "https://forrt.org/educators-corner/015-academic-jobs-us-vs-uk/",
@@ -28,12 +27,17 @@
         "Academic Life and Culture"
     ],
     "tags": [
-        "Academic Job Market; Higher Education; Academic Labor Conditions; Funding; Transnational"
+        "Academic Job Market",
+        "Higher Education",
+        "Academic Labor Conditions",
+        "Funding",
+        "Transnational"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions, Ways of Working",
     "forrt_sub_clusters": "Types of academic, non-academic, & alt-academic positions, Structures and incentives in academia",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

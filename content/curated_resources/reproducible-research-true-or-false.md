@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-14T19:07:09.627Z",
     "title": "Reproducible Research: True or False?",
     "link_to_resource": "https://www.youtube.com/watch?v=GPYzY9I78CI",
@@ -38,5 +37,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-06-11T07:01:18.532Z",
     "title": "A proposal for a new editorial policy in the social sciences.",
     "link_to_resource": "https://doi.org/10.1080/00031305.1970.10478884",
@@ -29,13 +28,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen)., Philosophy of science",
     "doi": "10.1080/00031305.1970.10478884",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

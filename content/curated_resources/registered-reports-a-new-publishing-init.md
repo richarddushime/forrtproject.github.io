@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-27T17:14:57.354Z",
     "title": "Registered Reports: A New Publishing Initiative at Cortex",
     "link_to_resource": "https://doi.org/10.1016/j.cortex.2012.12.016",
@@ -39,5 +38,6 @@
     "doi": "10.1016/j.cortex.2012.12.016",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

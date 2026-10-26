@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Special Issue: Preregistered Studies of Personality Development and Aging Using Existing Data ",
     "link_to_resource": "https://www.oercommons.org/courseware/lesson/82007/overview",
@@ -35,5 +34,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

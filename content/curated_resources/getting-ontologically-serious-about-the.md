@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2/13/2025 9:38:47",
     "title": "Getting ontologically serious about the replication crisis in psychology.",
     "link_to_resource": "https://doi.org/10.1037/teo0000281",
@@ -34,12 +33,13 @@
         "Replication Crisis",
         "Ontology",
         "Objective-Subjective",
-        "Philosophy Of Science"
+        "Philosophy of Science"
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Ongoing debates (e.g., incentives for and against open science practices)",
     "doi": "10.1037/teo0000281",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

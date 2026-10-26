@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/12/2024 8:50:48",
     "title": "Sharing brain imaging data in the Open Science era: how and why?",
     "link_to_resource": "https://doi.org/10.1016/S2589-7500(24)00069-4",
@@ -53,12 +52,13 @@
     ],
     "tags": [
         "Brain imaging",
-        "data sharing"
+        "Data Sharing"
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Reasons to share data and materials, Reasons not to share: Privacy and security considerations",
     "doi": "10.1016/S2589-7500(24)00069-4",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

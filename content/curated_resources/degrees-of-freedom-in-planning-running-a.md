@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-26T15:00:11.045Z",
     "title": "Degrees of Freedom in Planning, Running, Analyzing, and Reporting Psychological Studies: A Checklist to Avoid p-Hacking",
     "link_to_resource": "https://doi.org/10.3389/fpsyg.2016.01832",
@@ -33,13 +32,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge, Replication Crisis and Credibility Revolution, Pre-analysis Planning, FAIR data and materials",
     "forrt_sub_clusters": "Research design, sampling methods, & its implications for inferences., Questionable research practices & their prevalence, Licenses and reuse, Purpose of pre-analysis planning",
     "doi": "10.3389/fpsyg.2016.01832",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

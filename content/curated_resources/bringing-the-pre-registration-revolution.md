@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "12/18/2023 17:06:24",
     "title": "Bringing the (pre)registration revolution to graduate training",
     "link_to_resource": "https://doi.org/10.1037/cap0000221",
@@ -51,5 +50,6 @@
     "doi": "10.1037/cap0000221",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

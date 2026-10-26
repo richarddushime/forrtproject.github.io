@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "4/17/2026 9:48:59",
     "title": "Transform to Open Science",
     "link_to_resource": "https://forrt.org/Transform-to-Open-Science-Book/",
@@ -34,13 +33,13 @@
         "Reproducibility",
         "Transparency",
         "Preregistration",
-        "Open Data",
-        ""
+        "Open Data"
     ],
     "forrt_clusters_new": "",
     "forrt_sub_clusters": "",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

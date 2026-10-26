@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "6/16/2025 13:33:50",
     "title": "FORRT\u2019s Open and Reproducible Science Syllabus",
     "link_to_resource": "https://forrt.org/syllabus",
@@ -49,5 +48,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

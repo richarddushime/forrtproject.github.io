@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-27T17:17:33.853Z",
     "title": "On the reproducibility of psychological science",
     "link_to_resource": "https://doi.org/10.1080/01621459.2016.1240079",
@@ -42,5 +41,6 @@
     "doi": "10.1080/01621459.2016.1240079",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

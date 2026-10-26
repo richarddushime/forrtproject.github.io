@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-23T03:06:04.290Z",
     "title": "The garden of forking paths: Why multiple comparisons can be a problem, even when there is no \u201cfishing expedition\u201d or \u201cp-hacking\u201d and the research hypothesis was posited ahead of time",
     "link_to_resource": "https://doi.org/10.1511/2014.111.460",
@@ -28,13 +27,12 @@
     "FORRT_clusters": [
         "Conceptual and Statistical Knowledge"
     ],
-    "tags": [
-        ""
-    ],
+    "tags": [],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Exploratory and confirmatory analyses",
     "doi": "10.1511/2014.111.460",
     "in-clusters": true,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }

@@ -1,5 +1,4 @@
 {
-    "exclude": "",
     "timestamp": "2020-05-16T10:43:38.483Z",
     "title": "The Experiment Experiment",
     "link_to_resource": "http://www.npr.org/sections/money/2016/01/15/463237871/episode-677-the-experiment-experiment",
@@ -39,5 +38,6 @@
     "doi": "",
     "in-clusters": false,
     "pdf name": "",
-    "apa reference": ""
+    "apa reference": "",
+    "lastmod": "2026-10-26"
 }
