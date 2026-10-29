@@ -4,7 +4,7 @@
     "link_to_resource": "https://osf.io/preprints/metaarxiv/9sz2y/",
     "creators": [
         "Jessica Elizabeth Kosie",
-        "john Ioannidis",
+        "John Ioannidis",
         "Joshua D Wallach",
         "Mallory Kidwell",
         "Robert T. Thibault",
@@ -40,5 +40,5 @@
     "in-clusters": false,
     "pdf name": "",
     "apa reference": "",
-    "lastmod": "2026-10-26"
+    "lastmod": "2026-10-29"
 }

@@ -10,7 +10,7 @@
         "James Manyika",
         "E. Albert Reece",
         "James Marschall Shepherd",
-        "Grace Wang."
+        "Grace Wang"
     ],
     "material_type": [
         "Lecture"
@@ -42,5 +42,5 @@
     "in-clusters": false,
     "pdf name": "",
     "apa reference": "",
-    "lastmod": "2026-10-26"
+    "lastmod": "2026-10-29"
 }

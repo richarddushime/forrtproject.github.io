@@ -7,7 +7,7 @@
         "Elly Dijk",
         "Hans de Jonge",
         "Nicole Loorbach",
-        "& Daan Rutten"
+        "Daan Rutten"
     ],
     "material_type": [
         "Reading"
@@ -52,5 +52,5 @@
     "in-clusters": true,
     "pdf name": "",
     "apa reference": "",
-    "lastmod": "2026-10-26"
+    "lastmod": "2026-10-29"
 }

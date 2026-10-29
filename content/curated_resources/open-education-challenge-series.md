@@ -3,7 +3,8 @@
     "title": "Open Education Challenge Series",
     "link_to_resource": "https://oechallenge.opened.ca/",
     "creators": [
-        "Tannis Morgan and Leva Lee"
+        "Tannis Morgan",
+        "Leva Lee"
     ],
     "material_type": [
         "Activity/Lab",
@@ -45,5 +46,5 @@
     "in-clusters": false,
     "pdf name": "",
     "apa reference": "",
-    "lastmod": "2026-10-26"
+    "lastmod": "2026-10-29"
 }

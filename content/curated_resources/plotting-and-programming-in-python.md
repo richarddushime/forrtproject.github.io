@@ -41,7 +41,7 @@
         "Maxim Belkin",
         "Michael Beyeler",
         "Mike Henry",
-        "mzc9",
+        "mzc",
         "Narayanan Raghupathy",
         "Nigel Bosch",
         "Olav Vahtras",
@@ -104,5 +104,5 @@
     "in-clusters": false,
     "pdf name": "",
     "apa reference": "",
-    "lastmod": "2026-10-26"
+    "lastmod": "2026-10-29"
 }

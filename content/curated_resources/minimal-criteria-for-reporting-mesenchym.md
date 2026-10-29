@@ -6,7 +6,8 @@
         "Khan Sharun",
         "S. Amitha Banu",
         "A. M. Pawde",
-        "Kuldeep Dhama & Amar Pal"
+        "Kuldeep Dhama",
+        "Amar Pal"
     ],
     "material_type": [
         "Reading"
@@ -43,5 +44,5 @@
     "in-clusters": false,
     "pdf name": "",
     "apa reference": "",
-    "lastmod": "2026-10-26"
+    "lastmod": "2026-10-29"
 }

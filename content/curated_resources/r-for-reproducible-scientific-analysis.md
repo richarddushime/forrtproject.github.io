@@ -106,7 +106,7 @@
         "Trevor Bekolay",
         "Tyler Crawford Kelly",
         "Vicken Hillis",
-        "waiteb5",
+        "waiteb",
         "Yuka Takemon"
     ],
     "material_type": [
@@ -148,5 +148,5 @@
     "in-clusters": false,
     "pdf name": "",
     "apa reference": "",
-    "lastmod": "2026-10-26"
+    "lastmod": "2026-10-29"
 }
