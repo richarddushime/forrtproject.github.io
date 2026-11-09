@@ -7,7 +7,7 @@
     ],
     "material_type": [
         "Activity/Lab",
-        "Asssessment",
+        "Assessment",
         "Interactive"
     ],
     "education_level": [
@@ -42,5 +42,5 @@
     "in-clusters": "",
     "pdf name": "",
     "apa reference": "",
-    "lastmod": "2026-10-26"
+    "lastmod": "2026-11-09"
 }
