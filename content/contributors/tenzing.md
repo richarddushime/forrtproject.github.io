@@ -1691,8 +1691,8 @@ Educators (POST-Edu) as Project co-lead</li>
 </li>
 
 
-<li class="contributor-group">
-  <strong>Felipe Fontana Vieira</strong> contributed to
+<li class="contributor-group" id="0009-0006-0949-6569">
+  <strong><a href="https://orcid.org/0009-0006-0949-6569">Felipe Fontana Vieira</a></strong> contributed to
   <ul class="contributions-list">
     <li class="contribution" data-projects="team-summaries" data-roles="project-co-lead"><a href="https://forrt.org/summaries/ ">Team Summaries</a> as Project co-lead</li>
     <li class="contribution" data-projects="forrt-replication-databases-fred-and-flora" data-roles="investigation"><a href="https://forrt.org/flora">FORRT Replication Databases (FReD and FLoRA)</a> with <em>Investigation</em></li>
@@ -2027,8 +2027,8 @@ Educators (POST-Edu) as Project co-lead</li>
 </li>
 
 
-<li class="contributor-group">
-  <strong>Susana González-Sahagún</strong> contributed to
+<li class="contributor-group" id="0009-0009-9423-7562">
+  <strong><a href="https://orcid.org/0009-0009-9423-7562">Susana González-Sahagún</a></strong> contributed to
   <ul class="contributions-list">
     <li class="contribution" data-projects="team-website" data-roles="project-manager"><a href="https://forrt.org/">Team Website</a> as Project manager</li>
     <li class="contribution" data-projects="team-website" data-roles="resources"><a href="https://forrt.org/">Team Website</a> with <em>Resources</em></li>
