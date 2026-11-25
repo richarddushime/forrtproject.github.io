@@ -1,7 +1,7 @@
 {
     "timestamp": "01/01/2020",
     "title": "Meta-assessment of bias in science",
-    "link_to_resource": "https://www.pnas.org/doi/10.1073/pnas.1618569114",
+    "link_to_resource": "https://doi.org/10.1073/pnas.1618569114",
     "creators": [
         "Daniele Fanelli",
         "John P. A. Ioannidis",
@@ -50,5 +50,5 @@
     "in-clusters": true,
     "pdf name": "",
     "apa reference": "",
-    "lastmod": "2026-10-26"
+    "lastmod": "2026-11-25"
 }

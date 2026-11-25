@@ -45,7 +45,7 @@
             "name": "Jean-Luc Picard",
             "title": "Captain, USS Enterprise-D",
             "bio": "Starfleet captain, archaeologist, and diplomat. Committed to truth, exploration, and the advancement of knowledge across the galaxy.",
-            "photo": "",
+            "photo": "/img/featured-recommenders/jean-luc-picard-b4fb741a.jpg",
             "text": "After the Borg assimilated our science division's research, I realized we had bigger problems — nobody could reproduce it anyway. This survey of 1,500 scientists helped me see the crisis clearly. Make it so that you read it."
           }
         ],
@@ -95,7 +95,7 @@
             "name": "Dana Scully",
             "title": "FBI Special Agent & Medical Doctor",
             "bio": "FBI special agent and medical doctor. A rigorous skeptic who believes the truth is always found through evidence and scientific reasoning.",
-            "photo": "",
+            "photo": "/img/featured-recommenders/dana-scully-8538dc76.jpg",
             "text": "Mulder keeps citing studies with n=1 alien abductee. This book on psychology's seven deadly sins gave me the vocabulary to explain why his evidence wouldn't survive peer review — or even a first-year methods class."
           }
         ],
@@ -120,7 +120,7 @@
             "name": "Ellen Ripley",
             "title": "Warrant Officer, USCSS Nostromo",
             "bio": "Warrant officer and survivor. Believes in facing threats head-on with clear eyes, rigorous protocols, and an unwavering commitment to the truth.",
-            "photo": "",
+            "photo": "/img/featured-recommenders/ellen-ripley-12ac737f.jpg",
             "text": "Weyland-Yutani buried our xenomorph data for profit — classic perverse incentive. This paper on hypercompetition in academia felt uncomfortably familiar. If your institution values metrics over truth, you need to read this before something bursts out of your chest."
           }
         ],
@@ -145,7 +145,7 @@
             "name": "Ellen Ripley",
             "title": "Warrant Officer, USCSS Nostromo",
             "bio": "Warrant officer and survivor. Believes in facing threats head-on with clear eyes, rigorous protocols, and an unwavering commitment to the truth.",
-            "photo": "",
+            "photo": "/img/featured-recommenders/ellen-ripley-12ac737f.jpg",
             "text": "Weyland-Yutani buried our xenomorph data for profit — classic perverse incentive. This paper on hypercompetition in academia felt uncomfortably familiar. If your institution values metrics over truth, you need to read this before something bursts out of your chest."
           }
         ],
@@ -247,7 +247,7 @@
             "name": "Dana Scully",
             "title": "FBI Special Agent & Medical Doctor",
             "bio": "FBI special agent and medical doctor. A rigorous skeptic who believes the truth is always found through evidence and scientific reasoning.",
-            "photo": "",
+            "photo": "/img/featured-recommenders/dana-scully-8538dc76.jpg",
             "text": "Mulder keeps citing studies with n=1 alien abductee. This book on psychology's seven deadly sins gave me the vocabulary to explain why his evidence wouldn't survive peer review — or even a first-year methods class."
           }
         ],
@@ -297,7 +297,7 @@
             "name": "Sarah Connor",
             "title": "Resistance Leader",
             "bio": "Mother, fighter, and strategist. Knows that preparation and understanding your tools are the difference between survival and failure.",
-            "photo": "/img/featured-recommenders/sarah-connor-cb4a371e.jpg",
+            "photo": "",
             "text": "I trained to fight Terminators; now I train researchers to report effect sizes. This primer on Cohen's d and eta-squared is the weapon every scientist needs. If you can't quantify your effect, how do you know you've won the fight?"
           }
         ],
@@ -324,7 +324,7 @@
             "name": "Ellen Ripley",
             "title": "Warrant Officer, USCSS Nostromo",
             "bio": "Warrant officer and survivor. Believes in facing threats head-on with clear eyes, rigorous protocols, and an unwavering commitment to the truth.",
-            "photo": "",
+            "photo": "/img/featured-recommenders/ellen-ripley-12ac737f.jpg",
             "text": "Weyland-Yutani buried our xenomorph data for profit — classic perverse incentive. This paper on hypercompetition in academia felt uncomfortably familiar. If your institution values metrics over truth, you need to read this before something bursts out of your chest."
           }
         ],
